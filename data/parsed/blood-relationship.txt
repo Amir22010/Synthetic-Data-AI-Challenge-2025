@@ -1,0 +1,1159 @@
+BANK  PROBATIONARY  OFFICER
+
+REASONING  ABILITY
+
+BLOOD  RELATIONSHIP
+
+Problems of this type involves analysis
+of certain blood relations and then interpreting
+certain relations on the basis of the given infor-
+mations.  In solving such questions the candi-
+date must be familier with blood relations in a
+family.  The  following  chart  would  prove  im-
+mensely beneficial to the candidates for solving
+such questions:
+
+Mother's or Father's son:Brother.
+
+Mother's or Father's daughter : Sister
+
+Mother's or Father's brother : Uncle
+
+Mother's of Father's sister : Aunt
+
+Mother's or Father's mother : Grandmother
+
+Mother's or Father's Father : Grand father.
+
+Son's Wife : Daughter-in-law
+
+Daughter's husband : Son-in-law.
+
+Husband's or Wife's brother : Brother -in-law
+
+Husband's or Wife's sister : Sister-in-law.
+
+Brother's or Sister's Son : Nephew
+
+Brother's or sister's Daughter : Niece.
+
+Uncle or aunts son or daughter : Cousin.
+
+Sister's husband : Brother-in-law
+
+Brother's wife : Sister-in-law
+
+Grand father's  only son : Father
+
+Grand mother's only son : Father
+
+Grand father's  son : Father or Uncle.
+
+Grand mother's Son : Father or Uncle.
+
+Grand father's only daughter-in-law : Mother
+
+Grand mother's only  daughter-in-law : Mother
+
+Great Nephew and Niece : The grandson and
+granddaughter respectively of one's own or one's
+spoure's   (partner) brother or sister.
+
+Aunt  :  Grandparent's  sister  or  grandparent's
+brother's wife.
+
+Uncle : Grandparent's brother or grandparent's
+sister's husband.
+
+Some simple questions are given below.
+
+E.g.1 : Pointing to a person, a man said
+to a women, 'His mother is the only daughter of
+your father'', How was the women related to the
+person?
+
+(1)Aunt
+(4) Daughter  (5) None of these.
+
+(2)Mother   (3) Wife
+
+Method :
+
+Such questions can be easily solved by
+adopting a method of 'backtracking', ie, starting
+from the last information and proceed backward.
+For example, if it is given that he is the son of
+the mother of my grandfather's daughter.
+
+Solution to E.g.1:
+
+Only  Daughter  of   women's  f ather
+
+ women itself
+
+The persons mother is the woman itself
+Hence, the women is the person's mother So,
+answer is (2).
+
+E.G.2 : Directions (Qs.1-3) : Read the following
+information carefully and answer the questions
+that follow:
+
+In a family, there are six members A, B,
+C, D, E, and F. A and B are a married couple, A
+being the male member. D is the only  son of C,
+who is the brother of A. E is the sister of D. B is
+the daughter-in-law of F, whose husband has
+died.
+
+1. How is F related to A?
+
+1) Mother
+
+(3) Sister
+
+(2) Sister-in-law
+
+(4) Mother-in-law
+
+(5) None of these
+
+2. How is E related to C?
+
+(1) Sister
+
+(3) Cousin
+
+(2) Daughter
+
+(4) Mother
+
+(5) None of these
+
+3. Who is C to B ?
+
+(1) Brother
+(3) Son-n-law
+(5) None of these
+
+(2)  Brother-in-law
+(4) Nephew
+
+Suggested Method for questions like E.g. 2:
+
+In questions of this type, what is required
+is to establish the relationships among the mem-
+bers of a whole family and not between two per-
+sons as in E.g. 1. such question can be easily
+solved by drawing a family tree dragram.
+
+Drawing a family tree.
+
+(a) Vertical or diagonal lines should be used
+
+to represent parent-child relationships.
+
+(b) A double horizontal line ( like )  should be
+
+used to represent marriages.
+
+(c)
+
+a dashed line should be used to repre-
+sent brother or sister relationships.
+
+(d) Put a + sign before someone who is a
+male and a - sign before some one who
+is a female.
+
+(e) Whenever something is not known put a?
+mark or some symber (x, y, z, @, $ ......)
+
+For example, consider the following diagram
+
++A-------B(-)  <==> D (+)
+
+F (?)
+
++(E)--------G(-)<==>C(+)
+
+(iv) C and G are a couple, C is the husband
+and G is the wife. They have one child H
+whose sex is not known
+
+Paints to be Noted :
+
+(i)
+
+(ii)
+
+It is advisable to being with a sentence
+that gives information about parent-child
+relationship. Grandfather-grandmother re-
+lationships and brother-sister relatioships
+should be touched later.
+
+Try your best that you do not draw a new
+diagram for every new information that you
+read. Instead, try to 'add' to the existing
+diagram on reading a new information.
+
+Solution to E.g.2:
+
+We start with the 3rd sentence, since it
+given a parent-child relationship. The diagram
+is:
+
+A (?)--------------C(+)
+
+[D is the only son of
+C    who    is    the
+brother  of  A]
+
+D (+)
+
+Now, we should look for a sentence that
+given information about  A or C or D, The sec-
+ond sentence is appropriate. Incorporating it into
+the diagram, we have
+
+B(-)<===>A(+)------C(+)
+
+[Aand B are married
+couple, A being the
+male  member.]
+
+The above diagram tells as that
+
+Now, we incorporate the fourth sentence:
+
+H (?)
+
+D (+)
+
+(i) B and D are a couple, D is the husband
+
+while B is the wife.
+
+(ii) B has a brother  A.
+(iii)
+
+The couple, B and D have three children
+F, E and G. (Note : Apart from vertical or
+diagonal lines, son or daughter are also
+easily established if two persons are con-
+nected be dashed lines. Also Note that
+E is the brother of F even though there is
+no dashed line, but they have the same
+root.) Of three children E is male, G is
+female, but the sex of  F is not known.
+
+B(-)<==> A(+)----C(+)
+
+[E is the sister of D]
+
+        D(+)            E (-)
+
+Finally, we incorporate the last sentence. Note
+that F must be a female because her husband
+has died. [One who has/had a husband must
+be a female.]
+
+      F(-)
+
+Solution to E.g.3:
+
+[ B is the daughter-
+in-law  of  F,  whose
+husband has died]
+
+The sentence (e) is based on parent-child rela-
+tionship. Hence, begin with (e)
+
+B(-)<==>A(+)--------C(-)
+
+B(-,?)
+
+     D(+)
+
+          E(-)
+
+     1.(1) 2. (2) 3. (2)
+
+E.g.3 : Directions : Read the following informa-
+tion carefully and answer the questions given
+below it:
+
+(a)
+
+There is a group of six persons A, B, C,
+D, E  and F in a family, They are Psy-
+chologist,  Manager,  Lawyer,  Jeweller,
+Doctor and Engineer.
+
+(b)
+
+The doctor is the grandfather of F who is
+a psychologist
+
+ c)
+
+The manager D  is  married  to  A.
+
+d) C, the Jeweller  is married to the lawyer.
+
+e) B is the mother of F and E.
+
+f)
+
+There  are  two  married  couples  in  the
+family.
+
+1. What is the profession of E ?
+
+(1) Doctor
+(4) Psychologist  (5) None of these.
+
+(2) Jeweller  (3) Manager
+
+2. How is A related to E ?
+
+(1) Brother
+(2) Uncle (3) Father
+(4) Grandfather  (5) None of these.
+
+3. How many male members are there in
+
+the family ?
+
+(1) One  (2)  Three  (3) Four  (4) Two
+(5) Can't be determined.
+
+SUGGESTED METHOD :
+
+Same as that for  solving problems on
+blood relations (ie, of the type E.g.2 ). While
+making the family tree, the professions of each
+individual should be incorporated below their
+names in addition to their sex. For example,
+
+A means a is male and an Engineer. (+, Eng)
+
+[B is the mother of F
+and E ]
+
+   F(?, ?)      E (?, ?)
+
+(b)
+
+given the information that F is a psycholo-
+gist. Note that if the doctor is the grand-
+father of F and if B is the mother of F.
+Then B must  be the daughter-in-law of
+the doctor. The diagram becomes.
+
+? (+, Doc)
+
+     ?<==>B(-, ? )
+
+F(? Psy)
+
+E (? ?)
+
+From (c), D(?,Man)
+
+<==>A (? ?)
+
+From (d), C (?, Jew ) <==> ?  (?, Law)
+
+Hence B must be the lawyer. Hence we have;
+
+A(+,Doc) <==> D(-,Man)
+
+   C(_,Jew) <==> B (-,Law)
+
+F (?, Psy )
+
+E (?, Eng)
+
+Hence the answers are :-
+
+1. (5)
+
+2. (4)
+
+3. (5)
+
+E.g.4:- (i) 'A*B' means 'A is sister of B'
+
+(ii) 'A0B' means 'B is mother of A'
+
+(iii) 'A+B' means 'A is brother of B'
+
+(iv) 'A=B' means 'B is father of A'.
+
+Which of the following means 'M is maternal
+
+uncle  of N'?
+
+1) M+P+Q*N   2) N+P=Q*M  3) NOP*M+Q
+
+4) N*POQ*M  5) None of these
+
+Solution :-
+
+Maternal uncle' = Mother's brother. So 0
+(mother) and '+' (brother) signs must be used.
+The only  one choice of in which both the signs
+are used is N0P*M+Q.
+
+N0P*M+Q
+
+ ==> P is the mother of N, P is the sister of  M
+
+is the brother of Q
+
+==> P is the mother of N, M is the brother of
+
+p.
+
+<==> M is the maternal uncle of N.
+
+So the answer is (3).
+
+Exercises.
+
+1. Painting  to  kedar,  Veena  said  "  His
+mother's brother is the father of my son
+Nithin". How is kedar related to Veena ?
+
+(3) Nephew
+(2) Aunt
+(1) Niece
+(4) Sister-in-law  (5) None of these.
+
+2. Pointing to a person in a photograph, lady
+said, "His sister  is the daughter of my
+father's son's mother." how is the person
+related to the lady ?
+
+1) Sister
+4) Father
+
+2) Brother 3) Nephew
+5) None of these.
+
+3. Pointing  to  a  photograph,  Shanti  said,
+" she is the mother of my brother's uncle's
+son" How is shanti related to the person
+in the photograph ?
+
+1) Aunt
+4) daughter 5) None of these.
+
+2) Niece 3) mother
+
+3) brother-in-law
+5) son-in-law.
+
+4) sun
+
+6. Pointing  to  a  gentleman,  Deepak  said
+"His  only  brother  is  the  father  of  my
+daughter's father". How is the gentlemen
+related to Deepak /
+
+1) Father   2) Grandfather  3) Uncle
+4) Brother-in-law   5) None of these
+
+7. Pointing to a woman, a man says,"she
+is the mother of my son-in-law's brother's
+only  sister-in-law".  How  is  the  woman
+related to the man ?
+
+1) mother
+3) sister
+2) wife
+4) mother-in-law  5) sister-in-law.
+
+8. Pointing to a photograph Ramesh said,
+" she is the wife of my grandfather's only
+son." How is the person in the photograph
+related to Ramesh ?
+
+1) Daughter 2) Wife
+4) Mother
+
+5) None of these.
+
+3) Sister
+
+9. Pointing to a women in a photograph a
+man says, " she is the mother of the fa-
+ther of  my wife's  only son"  How is  the
+women related to the man in the Photo-
+graph?
+
+1) mother
+
+2) wife  3) daughter-in-law
+
+4) Mother-in-law  5) Can't say.
+
+10. Pointing  to a women standing at the bus
+stop a man says, " She is the sister-in-
+law of the son of my grandfather's daugh-
+ter-in-law".  How is the women related to
+the man ?
+
+1) daughter-in-law 2) Wife
+3) wife or sister-in-law
+4) sister-in-law  5) sister.
+
+4. Pointing  to  a  man,  Radhika  said,"  His
+sister is my daughter's brother's mother".
+How is the man related to Radhika ?
+
+Directions (Q.11-13): Read    the following in-
+formation carefully and answer the questions
+given below it:.
+
+1) Brother
+4) Grandfather  5) Cousin
+
+2) Father 3) Uncle
+
+5. Poiting to a man, a woman said,"He is
+the brother-in-law of the only son-inlaw of
+my mother's husband." How is the man
+related to the women ?
+
+1) brother
+
+2) husband
+
+A + B means A is the sister of B.
+A - B means A is the father of B.
+A x B means A is the brother of B.
+A/B means A is the mother of B.
+If K / L + M x N, then K is N's
+
+11.
+
+1) aunt
+4) grandmother
+
+2) uncle  3) great-aunt
+
+5) None of these.
+
+12.
+
+If K + L - M x N / P, the K is P's
+
+19. Which of the following means P is the
+
+1) great-aunt 2)  grandmother
+3) mother
+
+4) sister  5) None of these
+
+13. Which of the following shows that C is
+
+the maternal grandfather of F ?
+
+1) C + D- E/F 2)CxD-E+F  3) CxD+E-F
+4) C-D/ExF 5) None of these
+
+14.
+
+If A*B means A is the sister of B, A @ B
+means A is the father  of B,  A* B means
+A is the brother of B, which of the follow-
+ing  means X is the aunt of Y ?
+
+1) X@ D@Y   2) X*D*Y  3) X*D*Y
+4) X*D*Y
+
+5) None of these.
+
+Direction question (15-17) : Read the informa-
+tion and answer the questions given below?
+
+A + B means A is the daughter of B;  AxB means
+A is the son of B and A - B means A is the wife
+of B.
+
+15.
+
+If PxQ-S, which of the following is true ?
+
+1) S is wife of Q
+3) P is daughter of Q4) Q is father of P
+5) None of these.
+
+2) S is father of P
+
+grandmother of Q ?
+
+1) P/R+SxT-UxQ 2) P/R+S+T/Q
+3)  P/R+S/B+KxL-Q 4) P/R+S-T+QxU
+5) None of these.
+
+20. A women walking with a boy meets an-
+other women and on being asked about
+her relationship with the boy. She says, "
+My  maternal  Uncle  and  his  meternal
+uncle's  meternal  uncle's  are  brothers'.
+How is the boy related to the women?
+
+1) Nephew 2) son
+4) husband
+
+5) brother-in-law
+
+3) grandson
+
+21. K is the brother of N and X. Y is the mother
+of N, and Z is the father of K which of the
+following statements is not definitely  true?
+
+1) K is the son of Z.  2) Y is the wife of Z
+4) K is the father of X
+3) K is the son of Y
+5) N is the brother of X.
+
+22. A party consists of grandmother, father,
+mother, four sons and their wifes and one
+son  and  two  daughters  of  each  of  the
+sons. How many females are there in all?
+
+16.
+
+If T-SxB-M, which of the following is not
+true/
+
+1) 14
+5) None of these.
+
+2) 16
+
+3)18
+
+4)24
+
+1) B is mother of S
+3) S is daughter of B 4) T is wife of S
+5) S is son of B.
+
+2) M is husband of B
+
+17.
+
+If ZxT-SxU+P, which is U to Z ?
+
+1) Mother
+3) Father
+5) None of these.
+
+2) Grandmother
+4) Can't be determined
+
+Directions (Q.23-27): Read the set of informa-
+tions given below carefully and then answer the
+subsequent questions :
+
+I.
+
+There is a group of seven persons in a
+family, A,B,C,D,E,F and G.
+
+They all appeared in  an I.Q. test to test
+their intelligence.
+
+Directions (Qs. 18-19) : Read the information
+to answer the following questions :
+
+II.
+
+There are two married couples in the fam-
+ily and three females in total.
+
+A + B means A is father of B.
+
+AxB means A is husband of B.
+
+A-B means A is sister of B.
+
+A/B means A is wife of B.
+
+18. Which of the following means P has a
+
+blood relationship with Q ?
+
+1) R/P+KxL-M+Q 2)R/P+K/L+Q-M
+3) R/P+LxM-N+Q 4)  R/P+K/L+Q+M
+5) None of these.
+
+III. G,a female, is the most intelligent.
+
+IV. B, the father of E, is more intelligent than
+
+his son.
+
+V. C has one son and one daughter. She is
+more intelligent than her husband.
+
+VI.
+
+The father of B is more intelligent than B
+himself.
+
+VII. E, the grandson of F, is the least intelli-
+gent. F, the grandfather,  is the second
+most  intelligent in the family.
+
+VIII. The  mother  of  B  is  less  intelligent
+
+Her husband is the oldest of the seven.
+
+than B.
+
+IX. None  among  the  maried  toped  the
+
+I.Q.test.
+
+X.
+
+The grandmother of G has two sons, one
+of whom is D, who is more intelligent than
+her brother but less intelligent than his
+wife.
+
+XI. Nobody is a widow or a widower in the
+
+family.
+
+23. Who among them is a married couple?
+
+5)
+
+6)
+
+7)
+
+The youngest of the group is a female.
+She  does  not  teach  and  she  is  not  a
+housewife.
+
+The individual ages of the Professor, the
+Doctor  and the Manager are more than
+the average age of the whole group.
+
+The Doctor and Manager are not the old-
+est of the group.
+
+Now Answer the following questions:
+
+28. Who among the following is the married
+
+1) AF
+2)  AE
+5)  None of these
+
+3)  AC
+
+4)  AD
+
+couple?
+
+24. How is G related to D ?
+
+1)  Cousin
+2)  Daughter
+3)   daughter - in- law    4)  niece
+5)  None of these
+
+25. Who is third most intelligent in the fam-
+
+ily?
+
+1)  C
+5)  Can't  say
+
+2)  D
+
+3)  A
+
+4) B
+
+26. How are C and A related ?
+
+1)  daughter-in-law and mother-in-law
+2)  daughter-in-law and father-in-law
+3)   sisters-in-law
+4)   mother and daughter
+5)  Can't say
+
+27. Who among the following is not the same
+
+generation as others?
+
+1)  D
+5)  Can't  say
+
+2)  B
+
+3)  C
+
+4)  A
+
+1)  Teacher - Professor
+2) Teacher - Chemist
+3)  Teacher - Manager
+4)   Can't be said
+5)  None of these
+
+29. Who among the following is only younger
+
+than the oldest?
+
+1)  Manager
+3) Manager or Doctor
+5)  None of these
+
+2) Doctor
+4) Can't said
+
+30. Who among the following is not a female?
+
+1) Teacher
+4) Can't said  5)  None of these
+
+2) Housewife    3)  Chemist
+
+31. What are the sexes of the doctor and the
+
+manager?
+
+1)  Male and male    2) Male and Female
+3)  Female and Female
+4) Female and Male   5) Can't said
+
+32. Who is the youngest of the group?
+
+Directions ( Q 28 - 32 ):  Read the information
+below and answer the questions that follow:
+
+1)  Chemist 2) Doctor   3)  Engineer
+4) Can't said 5)  None of these
+
+1)
+
+2)
+
+3)
+
+4)
+
+There is a group of seven persons seated
+around a table.
+
+Their  professions are: Housewife, Doc-
+tor, Engineer, Teacher, Chemist, Manager,
+Professor respectively.
+
+There  are  three  females  including  the
+housewife.  The Engineer is not a female.
+
+Two of them are husband-wife. The pro-
+fession of the wife is teaching.
+
+Answers
+
+1. (3); Kedar's mother's brother Kedar's uncle.
+
+Father of Veena's  son Nithin
+
+                               Veena's Husband.
+
+Hence, Kedar's Uncle is Veen's husband.
+
+Kedar is Veena's Nephew.
+
+2. (2) Lady's father's son's mother
+
+Lady's mother
+
+Lady's mother's daughter
+
+Lady or lady's sister.
+
+Hence, person in the photograph is the
+brother of the lady.
+
+3(1) Shanti's brother's uncle's son
+
+Shanti's cousin
+
+Hence,  the  lady  in  the  photograph  is
+shati's aunt.
+
+4(1) Radhika's daughter's brother's mother
+
+Radhika herself.
+
+Man's sister is Radhika herself
+
+Man is the brother of Radhika.
+
+5(1) Women mother's husband
+
+Women's father
+
+Only son-in-law of women's father
+
+Women's husband
+
+Women's husband's brother-in-law
+
+Women's brother.
+
+6 (3)
+
+7 (2)
+
+8 (4)
+
+9 (1)
+
+10 (3);Man's grandfather's daughter-in-law
+
+Man's mother or aunt.
+
+Son of man's mother or aunt
+
+Man himself or man's cousin
+
+Hence, the lady is man's sister-in-law or
+man's cousins sister-in-law (Many or may
+not be man's wife).
+
+But, since there is such a choice (3), it
+must be the answer.
+
+(Questions 11-13 ):
+
+11 (5) K is N's brothers sister's mother
+
+k is N's mother.
+
+12 (3) K is P's mother's brother's father's sister
+
+K is P's mother's father's sister.
+
+K is P's mother's aunt
+
+K is P's grant-aunt
+
+ie, X*D*Y
+
+13 (4)
+
+14 (1)
+
+Questions (15-17)
+
+15 (2) PxQ-S means P is the son of Q who is
+
+the wife of S
+
+ie, P is the son of S or S is the father of
+P.
+
+16 (3) T-SxB-M means T is the wife of S who is
+the son of B who is the wife of M
+
+ie, T is the wife of the son of M (father)
+
+ie, T is the daughter-in-law of M
+
+But as this is not given in the choice, so
+the fact in (3) derived from SxB is true.
+
+ 17 (2)ZxT-SxU means Z is the son of T who is
+the wife of S who is the son of U. ie, Z is
+the son of S who is the son of U.
+
+ie, Z is the grandson or U is the grand-
+mother  (since,U+P=U  daughter  of  P)
+From the choice (2) is true.
+
+Questions 18-19)
+
+18. (5) Out of the choices look for the choice in
+which the signs '/' and 'x', ie, 'wife of' and
+husband of' are not there between P and
+Q. Since  the inclusion  of these  do not
+make it a blood relationship in this case,
+since there are no signs for brother-in-
+law, sister-in-law etc. Hence the answer
+is (5)
+
+19.(4)  Grandmother,  ie,  mother's  mother  or
+
+father's mother
+
+Hence there are four possibilities,
+P can be Q's mother's mother
+P can be Q's mother's father's wife.
+P can be Q's father's mother.
+P can be Q's father's father's wife.
+Hence  the  answer  is  P/R+S-T+QxU
+Since, there is no sign for mother, and
+father's sign comes twice.
+
+20(2); Boys  maternal  uncle  willbe  brother  of
+boy's mother. Maternal uncle of mother's
+brother and maternals uncle of lady are
+brothers means lady is sister to mother's
+brother ie, lady is the mother of the boy.
+So the boy is women's son.
+
+21. (5); K is the brother of N and X. So, Y who is
+the mother of N, and Z, who is the father
+
+of K, will be the mother and father of all
+the three. However, it is not mentioned
+whether N is a male or female. So, the
+statements cannot be definitely true.
+
+22.(1);Grandmother is one female, mother is
+another, wives of four sons are the four
+females and two daughters of all four sons
+are  eight  females.  So,  in  all  there  are
+1+1+4+8=14 females.
+
+Questions (23-27)
+
+Let us sort out the data (leaving aside
+the I.Q.part for the being) in a systematic
+way:
+
+I. We  note that  there  are three  females.
+Now, C is female, G is female while B,F
+E and D are all males. It implies that the
+third female is A.
+
+II. Now, since G is the most intelligent and
+since none of the married topped the I.Q.
+test,  it  implies  that  G  is  unmarried.  It
+means  that  both  A  and  C  are  married
+because there are two married couples
+(hence two married females.)
+
+III.
+
+The grandmother of G has two sons. So
+the grandmother cannot be C because C
+has 'one  son and one daughter'  too. It
+implies that A is the grandmother.
+
+IV Since F is a grandfather and Since A is
+grandmother and since none in the fam-
+ily is a widow or a widower, A and F must
+be a couple. On the same logic, since B
+is a father and since C is a mother, B and
+C must be a couple.
+
+V.
+
+The son of C is E, who is the grandson of
+F. The granddaughter is G, whose grand-
+mother A has two sons: one, her own fa-
+ther B and the other, D.
+
+The family-tree  can be easily constructed
+as shown below.
+
+F(+)==A(-)
+
+D(+)==B(+)==C(-)
+
+E(+) G(-)
+
++means male
+
+-means female.
+
+Also let us pick the relevant information
+regarding  the I.Q. test. These are:
+
+(i) G is the most intelligent
+
+(ii) B is more intelligent than his son.
+
+(iii) C is more intelligent than her husband.
+
+(iv)
+
+The father of B is more intelligent than B.
+
+(v) E is the least intelligent.
+
+(vi)
+
+(vii)
+
+F is the second most intelligent.
+
+The mother of b is less intelligent than B.
+
+(viii) D is more intelligent than his brother but
+
+less intelligent than his wife.
+
+All these statements can lead to a defi-
+nite order of intelligence as known:
+
+G>F>C>D>B>A>E
+
+Now, the question can easily be answered
+as:
+
+23 (1),  24 (4)  25  (1),  26 (1),  27( 4).
+
+Question (28-32)
+
+In the group of seven persons, there are
+three females and four males (from state-
+ments I and 3) Engineers is a male mem-
+ber (statement3) Out of three females one
+is a married teacher, and one is a house-
+wife (statement 4 and 5). The husband of
+teacher is the oldest member. The oldest
+member is not the Doctor and the man-
+ager. Hence Professor must be oldest and
+the third female must be the chemist.
+
+Hence,  the  three  females  are Teacher
+(married),  Housewife  and  Chemist
+(youngest).
+
+The male members are Professor (old-
+est).
+
+Engineer, Manager and Doctor.
+
+Hence the answers are :
+
+28 (1) ,
+32 (1).
+
+29(4) ,
+
+30 (5) ,
+
+31(1) ,
+
+

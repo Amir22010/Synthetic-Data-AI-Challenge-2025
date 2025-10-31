@@ -1,0 +1,8817 @@
+ 
+ 
+Directions: Study the following information carefully and answer the questions given 
+beside. 
+
+Set-1 
+
+Nine persons Anu, Bablu, Cheenu, Dona, Esha, Faria, Gaurav, Harish and Ishita are sitting 
+in a row and all are facing north. It is known that Cheenu sits exactly in the middle and 
+there is no person to the right of Ishita. Dona is fourth to the right of Faria. Gaurav and 
+Harish are sitting next to each other. Esha is the neighbor of Dona but not of Cheenu. 
+
+Harish doesn't sit at any extreme corner.Dona is not sitting adjacent to either Cheenu or 
+Ishita.Anu is second to the right of Harish. 
+
+1. Who is sitting to the immediate left of Cheenu? 
+
+A. Faria 
+
+D. Dona 
+
+B. Anu   
+
+C. Harish 
+
+E. None of these 
+
+2. Who is sitting between Bablu and Esha? 
+
+A. Dona 
+
+D. Cheenu 
+
+B. Faria 
+
+C. Gaurav 
+
+E. None of these 
+
+3. Four of the following five are alike in a certain way and thus forms a group. Which 
+of the following does not belong to that group? 
+
+A. Gaurav and Harish   
+
+B. Cheenu and Bablu   
+
+C. Faria and Gaurav 
+
+D. Dona and Esha 
+
+E. Esha and Ishita 
+
+4. Who is sitting third to the right of Harish? 
+
+A. Bablu 
+
+D. Cheenu 
+
+B. Dona 
+
+C. Faria 
+
+E. None of these 
+
+5. Who is sitting at the left most seat of the row? 
+
+A. Faria 
+
+D. Dona 
+
+B. Bablu 
+
+C. Gaurav 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-2 
+
+L,  M,  N,  O,  P,  Q,  R  and  S  are  sitting  around  a  circular  table  facing  the  centre  but  not 
+necessarily in the same order. 
+
+They all are having discussion on an important topic. 
+
+N is an immediate neighbor of both L and R, who is an immediate neighbour of P. P sits 
+second  to  the  left  of  N.  Only  two  persons  sit  between  P  and  S.  M  is  an  immediate 
+neighbor of O. Only one person sits between M and Q.  
+
+6. What is the position of O with respect to S in the above arrangement? 
+
+A. Third to the left 
+
+B. Immediate left 
+
+C. Second to the right 
+
+D. Immediate right 
+
+E. None of these 
+
+7. Four of the following five are alike in a certain way and thus form a group. Which is 
+the one that does not belong to that group? 
+
+A. MS   
+
+D. RP 
+
+B. QL 
+
+E. OM 
+
+C. NM 
+
+8. Who among the following sits second to the left of the one who is on the immediate 
+right of O? 
+
+A. Q 
+
+D. S 
+
+B. M 
+
+C. O 
+
+E. None of these 
+
+9. Which of the following persons sits between M and Q? 
+
+A. O 
+
+D. S 
+
+B. L 
+
+C. N 
+
+E. None of these 
+
+10. Who among the following sits third to right of the one who sits opposite of N? 
+
+A. L 
+
+D. O 
+
+B. S 
+
+C. R 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-3 
+
+There are eight persons - Mita, Niya, Om, Pari, Qiya, Rati, Shri and Tiya. All of them are 
+sitting in a straight row and are facing in the South direction but not necessarily in the 
+same order. There are only two persons between Rati and Pari. The number of persons 
+between Qiya and Mita is same as the number of persons between Pari and Shri. Om is 
+not a neighbor of Shri who is immediate left of Niya. Qiya is second to the left of Rati 
+who  is  fourth  from  the  right  corner.  Mita  sits  at  any  corner  of  the  row.  Tiya  sits 
+immediate right of Qiya. 
+
+11. How many persons are seated to the left of Niya? 
+
+A. One  
+
+D. Six 
+
+B. Three 
+
+C. Four 
+
+E. None of these 
+
+12. Four of the following five are alike in some way and thus form a group. Which of 
+the following does not belong to the group? 
+
+A. Om   
+
+D. Qiya  
+
+B. Rati   
+
+E. Pari 
+
+C. Shri 
+
+13. Who among the following is/are immediate neighbour(s) of Qiya? 
+
+A. Tiya  
+
+D. Either A or B 
+
+B. Om   
+
+E. Shri 
+
+C. Both A and B 
+
+14. Who among the following sits second to the left of the person who sits third from 
+the right end? 
+
+A. Mita  
+
+D. Niya  
+
+B. Tiya   
+
+C. Pari 
+
+E. None of these 
+
+15. Who among the following sits third to the left of Rati? 
+
+A. Om   
+
+D. Mita  
+
+B. Pari   
+
+C. Niya 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-4 
+
+Eight persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil, are sitting around a 
+circular  table  facing  the  centre  but  not  necessarily  in  the  same  order.  Arif  is  to  the 
+immediate left of Ashu. Anup is to the immediate left of Arun. Amar is the neighbour of 
+Ansh. Amit is between Anup and Ansh. Arif is not the neighbour of Ansh or Anil. 
+
+16. Who among the following is sitting third to right of Amar? 
+
+A. Arif   
+
+D. Ansh 
+
+B. Anup 
+
+C. Arun 
+
+E. None of these 
+
+17.  How  many  persons were  sitting  between  Amit  and  Anil,  when  counted  from the 
+left of Anil? 
+
+A. None 
+
+D. Three 
+
+B. One  
+
+C. Two 
+
+E. More than three 
+
+18. What is the position of Arif with respect to Amit? 
+
+A. Third to the right 
+
+B. Second to the left 
+
+C. Fourth to the right 
+
+D. Fourth to the left 
+
+E. None of these 
+
+19. Which of the following person sits opposite to the one who sits third to the left of 
+Anil? 
+
+A. Anup 
+
+D. Arun 
+
+B. Arif   
+
+C. Amar 
+
+E. None of these 
+
+20. Which of the following pairs of persons is sitting adjecent of Arif? 
+
+A. Anil, Ashu 
+
+B. Amit, Arun   
+
+C. Anup, Ashu   
+
+D. Arun, Ashu   
+
+E. Arun, Anil 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-5 
+
+Eight  persons  namely  J  to  Q  are  sitting  on  the  square  table  but  not  necessarily  in  the 
+same order. Four persons are sitting at the corner of the table and facing away from the 
+center. Four persons are sitting at the middle of the table and facing towards the center. 
+The  persons  are  sitting  at  the  corner  of  the  table  likes  different  fruits  among  Banana, 
+Apple, Grapes and Mango. The persons are sitting at middle of the table likes different 
+vegetables among Cucumber, Brinjal, Beans and Cabbage. All the above information is 
+not necessarily in the same order. 
+
+K sits third to the right of O. One person sits between K and Q. One who likes Beans sits 
+third  to  the  left  of  Q.  One  who  sits  second  to  the  right  of  the  one  who  likes  Beans  is 
+facing N. One who likes Cabbage sits second to the right of the one who likes Cucumber. 
+The person J is the immediate neighbor of the one who like Brinjal and O. There are as 
+many persons sit between P and M as between P and L. One who likes Mango sits third 
+to  the  right  of  M.  One  who  likes  Beans  and  one  who  likes  Mango  are  not  immediate 
+neighbors. J likes Banana. L and one who like Apple are not immediate neighbors. 
+
+21. Who among the following likes Grapes? 
+
+A. M 
+
+D. N 
+
+B. Q 
+
+C. K 
+
+E. None of these 
+
+22. Who among the following person sit opposite to O? 
+
+A. The one who like Mango 
+
+B. The one who like Grapes 
+
+C. The one who like Cucumber 
+
+D. The one who like Cabbage 
+
+E. None of these 
+
+23. Which among the following combination is true? 
+
+A. K-Mango 
+
+D. L-Grapes 
+
+B. M-Apple 
+
+C. N-Banana 
+
+E. None is true 
+
+24. What is the position of N with respect to the one who likes Banana? 
+
+A. Third to the right 
+
+B. Second to the left 
+
+C. Second to the right 
+
+D. Immediate left 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25. Four of the following five are alike in a certain way and hence form a group. Which 
+of the following does not belong to the group? 
+
+A. K 
+
+D. M 
+
+B. J 
+
+E. P 
+
+C. Q 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-6 
+
+Eight students Aadvik, Tanish, Jiral, Vaibhav, Yashith, Bhavin, Rithwik and Kiansh sit in a 
+square table. Four persons sit in each corners of the table and four persons sit in each 
+sides of the table but not necessarily in the same order. All are facing outside. Aadvik is 
+immediate  neighbor  of  Kiansh.  Bhavin  does  not  sit  third  to  the  left  of  Tanish  who 
+doesn’t  sit  at  the  corner.  Bhavin  sits  fourth  to  the  right  of  Yashith.  There  are  three 
+persons sit between Tanish and Jiral. Jiral sits third to the left of Vaibhav. One person 
+sits between Jiral and Kiansh. Rithwik and Kiansh are not immediate neighbors. 
+
+26. Four of the following five are alike in a certain way and hence form a group. Which 
+of the following does not belong to the group? 
+
+A. Aadvik 
+
+D. Yashith 
+
+B. Vaibhav 
+
+E. Rithwik 
+
+C. Bhavin 
+
+27. Tanish is related to Kiansh in certain way, Bhavin is related to Aadvik then in the 
+same way Jiral is related to which among the following? 
+
+A. Rithwik 
+
+D. Bhavin 
+
+B. Tanish 
+
+E. Aadvik 
+
+C. Vaibhav 
+
+28. Who among the following sits fifth to the right of Kiansh and immediate right of 
+Rithwik? 
+
+A. Aadvik and Vaibhav 
+
+B. Only Bhavin  
+
+C. Vaibhav and Yashith 
+
+D. Tanish and Yashith E. Only Vaibhav 
+
+29.  Which  of 
+A. Tanish 
+
+the 
+
+following  person 
+
+sits  between 
+
+Jiral  and  Kiansh? 
+
+B. Rithwik 
+
+C. Aadvik 
+
+D. None 
+
+E. None of these 
+
+30. Which of the following person sits opposite to the one who sits second to the right 
+of Rithwik. 
+
+A. Bhavin 
+
+D. Yashith 
+
+B. Jiral   
+
+C. Tanish 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-7 
+
+Some persons are sitting in a row facing north. Hina sits second to right of Mera. Desh 
+sits  fifth  to  left  of  Fany.  Pinu  is  second  to  right  of  Rani.  Hina  and  Asha  have  three 
+persons  between  them.  Desh  and  Rani  have  two  persons  between  them.  No  one  sits 
+between Asha and Fany. Number of persons towards right of Asha is one less than the 
+number of persons sitting between Pinu and Asha. Number of persons towards left of 
+Rani is equal to the number of persons sitting between Fany and Hina. 
+
+31. How many persons were sitting in the row? 
+
+A. 17 
+
+D. 19 
+
+B. 20 
+
+E. 22 
+
+C. 16 
+
+32. How many persons were sitting between Pinu and Asha? 
+
+A. Three 
+
+D. Eight 
+
+B. Five   
+
+E. Six 
+
+C. Seven 
+
+33. What is the position of Fany with respect to Hina? 
+
+A. Third to the left 
+
+B. Fourth to the left  C. Fifth to the left 
+
+D. Sixth to the left 
+
+E. Can’t be determined 
+
+34. What is the total number of persons that were sitting on the right of Hina and on 
+the left of Rani? 
+
+A. 5 
+
+D. 11 
+
+B. 8 
+
+C. 10 
+
+E. Can’t be determined 
+
+35.  If  Riya  is  sitting  in  the  middle  of  the  row  then  how  many  persons  were  sitting 
+between Riya and Rani? 
+
+A. 5 
+
+D. 8 
+
+B. 7 
+
+E. 4 
+
+C. 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-8 
+
+Eight  persons  –  Doly,  Lali,  Mona,  Joya,  Pinu,  Usha,  Chaya  and  Tara,  are  sitting  in  a 
+straight line but not necessarily in the same order such that some of these persons are 
+facing south while some are facing north. 
+
+Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. 
+Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of 
+the  line.  Only  one  person  sits  between  Chaya  and  Lali.  Pinu  sits  second  to  the  left  of 
+Chaya.  Tara  sits  second  to  the  right  of  Joya.  Both  the  immediate  neighbours  of  Mona 
+face  the  opposite  direction.  Tara  faces  the  same  direction  as  Joya  and  Doly  faces  the 
+same direction as Chaya. Usha sits at one of the extreme ends of the line. 
+
+36. Who among the following is sitting second to the right of Mona? 
+
+A. Doly  
+
+D. Joya  
+
+B. Usha 
+
+C. Pinu 
+
+E. None of these 
+
+37. Four of the following five are alike in some way and hence form a group. Which of 
+the following is the one that does not belong to the group? 
+
+A. Tara  
+
+D. Lali   
+
+B. Usha 
+
+E. Joya 
+
+C. Mona 
+
+38. How many person(s) sit between Joya and Doly? 
+
+A. Three 
+
+D. None 
+
+B. Two  
+
+C. One 
+
+E. More than three 
+
+39. How many persons are facing north direction? 
+
+A. Two  
+
+D. Five  
+
+B. Three 
+
+E. Six 
+
+C. Four 
+
+40. Who among the following is sitting third to the left of Lali? 
+
+A. Usha 
+
+D. No one 
+
+B. Joya  
+
+C. Chaya 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-9 
+
+Twelve persons are sitting in two parallel rows in such a way that the persons sitting in 
+Row-1 faces the persons sitting in the Row-2. Six persons A to F are sitting in the Row-1 
+and facing north direction. Six persons P to U are sitting in the Row-2 and facing south 
+direction. All the above information is not necessarily in the same order. E sits second to 
+the right of F. Two persons sit between F and B, who is facing R. Q and R are immediate 
+neighbors. U sits second to the left of Q. The person who sits second to the right of P is 
+facing C. More than one person sits between F and D. T does not sit at the extreme end 
+of the line. 
+
+41. Who among the following person sits third to the right of R? 
+
+A. S 
+
+D. U 
+
+B. P 
+
+C. Q 
+
+E. None of these 
+
+42. How many persons sit between C and A? 
+
+A. One  
+
+D. Three 
+
+B. None 
+
+C. Two 
+
+E. None of the above 
+
+43. If only Row-1 persons arranged in alphabetical order from left to right, then who 
+among the following faces Q?  
+
+A. E 
+
+D. F 
+
+B. C 
+
+E. A 
+
+C. D 
+
+44.  If  S  is  related  to  P,  Q  is  related  to  U,  then  in  the  same  manner  E  is  related  to 
+________ . 
+
+A. B 
+
+D. D 
+
+B. C 
+
+E. A 
+
+C. F 
+
+45. Who among the following is sitting diagonally opposite to C? 
+
+A. P 
+
+D. T 
+
+B. Q 
+
+E. U 
+
+C. R 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-10 
+
+Eight persons – Mona, Moti, Meera, Mali, Mitra, Mansi, Megha and Mrig, were sitting in 
+a circle facing towards the center. Each of them was born in a different city  — Shimla, 
+Manali,  Agra,  Nanital,  Pune,  Goa,  Mumbai  and  Delhi,  but  not  necessarily  in  the  same 
+order. 
+
+Two persons were sitting between the one, who was born in Nanital and Mitra. Mona 
+was  born  in  Shimla  and  sits  opposite  to  Mitra.  The  one,  who  was  born  in  Pune,  sits 
+opposite to Mali. Mrig was born in Mumbai and sits second to the right of the one, who 
+was  born  in  Nanital.  Meera  was  born  in  Pune  and  was  an  immediate  neighbor  of  the 
+one, who was born in Goa. Megha sits third right to Moti. Mali was born in Nanital. The 
+one, who was born in Delhi, sits adjacent to the one, who was born in Nanital. Mitra was 
+born in Manali and Megha was born in Delhi. 
+
+46. Mansi was born in which of the following cities? 
+
+A. Agra  
+
+D. Goa  
+
+B. Mumbai 
+
+C. Delhi 
+
+E. None of these 
+
+47. Who among the following was sitting third to the right of Megha? 
+
+A. Mitra 
+
+D. Mona 
+
+B. Meera 
+
+C. Moti 
+
+E. None of these 
+
+48. Who among the following was born in Agra? 
+
+A. Moti 
+
+D. Mrig 
+
+B. Mansi 
+
+C. Megha 
+
+E. None of these 
+
+49. Who among the following was sitting in the front of Moti? 
+
+A. The one who was born in Manali 
+
+C. The one who was born in Mumbai  
+
+E. Both option A and D 
+
+B. Meera 
+
+D. Mitra 
+
+50. What is the position of Meera with respect to the one who was born in Shimla? 
+
+A. Second to the right  
+
+B. Third to the right 
+
+C. Fourth to the left 
+
+D. Second to the left 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-11 
+
+Eight persons – Ankit, Kavit, Manit, Vinit, Charit, Sumit, Ganit, and Ronit are sitting in a 
+straight line (but not necessarily in the same order) such that three of them are facing 
+south and rest of them are facing north. Each of them works in a different bank – SBI, 
+UCO, PNB, BOB, SEBI, RBI, BOI, and NHB (but not necessarily in same order). 
+
+Four persons sit between Ronit and Charit, who works in RBI. Sumit sits right of Manit, 
+who works in BOI. Ganit and Charit face opposite direction to each other. The one, who 
+is sitting on the immediate right of Vinit, works in NHB. Kavit sits third from one of the 
+extreme end of the row. Ronit sits third to the right of Manit. The one who works in PNB 
+sits immediate right of the one who works in UCO. Manit doesn’t face north direction. 
+Ganit is an immediate neighbor of Manit and Charit both. Vinit sits second to the right of 
+Ganit.  Manit  sits  on  the  immediate  left  of  Kavit.  The  one  who  works  in  SBI  sits  at  an 
+extreme end. The one who works in BOB sits between Charit and Ankit. Sumit does not 
+work in PNB. 
+
+51. Kavit works in which of the following banks? 
+
+A. UCO  
+
+D. NHB  
+
+B. PNB  
+
+C. SEBI 
+
+E. None of these 
+
+52. Which of the following combinations is correct? 
+
+A. Sumit – BOI – South 
+
+B. Kavit – UCO – South 
+
+C. Vinit – BOB – North 
+
+D. Ronit – NHB – North 
+
+E. Ankit – SBI – South 
+
+53. How many person(s) sit between Charit and Sumit? 
+
+A. None 
+
+D. Three 
+
+B. One  
+
+C. Two 
+
+E. More than three 
+
+54.  What  is  the  position  of  the  one  who  works  in  BOB  with  respect  to  the  one  who 
+works in PNB? 
+
+A. Third to the right 
+
+B. Fourth to the left 
+
+C. Fifth to the right 
+
+D. Fourth to the right   
+
+E. None of these 
+
+55. Who among the following works in SEBI? 
+
+A. Ankit 
+
+D. Sumit 
+
+B. Kavit 
+
+C. Vinit 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-12 
+
+Eight  persons  –  Shirish,  Suresh,  Sajal,  Sashi,  Sanjay,  Sunder,  Srajit  and  Shankar  (not 
+necessarily in the same order) are sitting around a circular table in a way such that four 
+of them are facing towards the centre and the others are facing away from the centre. 
+Each  of  these  persons  have  a  different  surname  –  Gaur,  Gail,  Gopal,  Gandhi,  Girish, 
+Guman, Garv and Goyal, but not necessarily in the same order. 
+
+Sajal’s surname is Gaur and is facing towards the centre. 
+
+The immediate neighbours of Sajal faces away from the centre and their surnames are 
+Gail and Gopal. 
+
+Shankar faces away from the centre and the immediate neighbours of Shankar faces a 
+direction opposite to each other. 
+
+Srajit’s surname is Garv, is facing towards the centre and sits third to the right of Sashi, 
+whose surname is Gail. 
+
+The one whose surname is Girish is not neighbouring the one whose surname is Gail or 
+Srajit. 
+
+Shirish  is  sitting  opposite  to  Sanjay  and  neither  of  them  has  a  surname  Gopal  but 
+surname of one of them is Girish. 
+
+Both  Shirish  and  Sanjay  are  facing  in  the  same  direction  (for  example,  if  one  is  facing 
+outside then other is also facing outside). 
+
+Shankar  is  not  neighbouring  either  the  one  whose  surname  is  Garv  or  the  one  who  is 
+neighbouring the one whose surname is Guman but is sitting opposite to the one whose 
+surname is Gandhi, who is neighbouring Shirish. 
+
+Sunder’s surname is not Goyal and is facing the centre. 
+
+56. Who among the following has surname Goyal? 
+
+A. Suresh 
+
+D. Shankar 
+
+B. Shirish 
+
+E. Sunder 
+
+C. Sanjay 
+
+57. Who among the following sits second to the right of Shankar? 
+
+A. Suresh 
+
+D. Sashi 
+
+B. Shirish 
+
+E. Sajal 
+
+C. Sanjay 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+58.  Who  among  the  following  is  sitting  third  to  the  right  of  the  one,  who  is  sitting 
+second to the left of the one, whose surname is Gandhi? 
+
+A. Sunder 
+
+D. Shankar 
+
+B. Shirish 
+
+E. Sashi 
+
+C. sanjay 
+
+59. Four of the following five are alike in some way and hence form a group. Which of 
+the following is the one that does not belong to the group? 
+
+A. Sunder Gopal 
+
+B. Shirish Girish 
+
+C. Sashi Gaur 
+
+D. Sajal Garv 
+
+E. Suresh Gail 
+
+60. Who among the following is the neighbour of Suresh? 
+
+I. Srajit  II. Sanjay  III. Shirish 
+
+A. Only I 
+
+B. Only II 
+
+C. Only III 
+
+D. Both I and II  
+
+E. Both I and III 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-13 
+
+Seven persons – Naina, Shalu, Amar, Rohan, Doshi, Brij and Vinod, are sitting on a bench 
+in a church, facing south. Each of them has a different profession – Manager, Engineer, 
+Boxer, Politician, Singer, Painter and Actor. 
+
+Amar  sits  second  to  the  right  of  Vinod.  Brij  is  not  a  Boxer.  There  is  one  person  sitting 
+between  Amar  and  Rohan.  Naina  is  an  immediate  neighbour  of  Doshi,  who  sits  at  an 
+extreme end. The one who is an Engineer sits third to the left of Shalu, who is a Painter. 
+Vinod  sits  third  from  left  end.  The  one  who  is  a  Singer  sits  at  an  extreme  end  and 
+immediate neighbor of Shalu. The one who is an Actor sits second to the left of Rohan. 
+Naina is neither Manager nor Boxer. 
+
+61. Who among the following is a Politician? 
+
+A. Doshi 
+
+D. Amar 
+
+B. Naina 
+
+C. Brij 
+
+E. None of these 
+
+62. What is the profession of the one who sits in the middle of the row? 
+
+A. Boxer 
+
+B. Painter 
+
+C. Engineer 
+
+D. Manager 
+
+E. None of these 
+
+63. Who among the following sits third to the left of the one who is an Actor? 
+
+A. Naina 
+
+B. No one (As the one who is an Actor sits second from the left end of the row) 
+
+C. Vinod 
+
+D. Amar 
+
+E. Brij 
+
+64. How many person(s) sits between Shalu and Naina? 
+
+A. None 
+
+D. Three 
+
+B. One  
+
+C. Two 
+
+E. More than three 
+
+65. Which of the following combinations is/are correct? 
+
+A. Shalu – Singer 
+
+B. Doshi – Manager 
+
+C. Amar – Actor 
+
+D. All are correct 
+
+E. None is correct 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-14 
+
+Eight  persons  namely  Hetav,  Herin,  Hevin,  Himan,  Hiran,  Hiyan,  Henik  and  Herat  are 
+sitting in square table in such a way that four of them sit at the corner of the table and 
+four of them sit at the middle of the table. The persons sitting at the corner of the table 
+are facing away from the centre and the persons sitting at the middle of the table are 
+facing  towards  the  centre.  Each  of  them  likes  different  chocolates  among  Milky  Bar, 
+Munch, Perk, Kitkat, 5 Star, Dairy Milk, Barone and Bournville. All the above information 
+is not necessarily in the same order. 
+
+Herin and Hetav are facing same direction. Herat sits third to the right of Hetav. The one 
+who likes Munch and the one who likes Milky Bar are facing each other. Hiyan likes Perk 
+and sits second to the right of the one, who likes Barone. Herat and Himan sit opposite 
+to each other but does not face each other. Henik sits to the immediate right of the one 
+who likes Milky Bar and to the immediate left of the one who like 5 star chocolates. The 
+one who likes Bournville sits third to the left of the one who likes Kitkat. Hiran sits third 
+to the right of the one who likes Dairy Milk. Herin is an immediate neighbor of the one 
+who likes Barone. One who sits to the immediate right of Herat does not like Bournville. 
+
+66. Who sits second to the right of the one who likes Kitkat? 
+
+A. Herin 
+
+B. Henik 
+
+C. The one who like 5 star 
+
+D. The one who like Milky Bar 
+
+E. None of these 
+
+67. Who among the following likes 5 star chocolate? 
+
+A. Hevin 
+
+D. Hiyan 
+
+B. Hiran 
+
+C. Herin 
+
+E. None of these 
+
+68. Who among the following likes Bournville chocolate? 
+
+A. Himan 
+
+D. Hiyan 
+
+B. Hiran 
+
+C. Herin 
+
+E. None of these 
+
+69. Who among the following persons facing each other? 
+
+A. Hetav and the one who like Dairy Milk 
+
+B. Herin and the one who like Bournville 
+
+C. Hiran and the one who like 5 stars  
+
+D. Hevin and the one who like Barone 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+70. Who sits third to the right of Henik? 
+
+A. The one who likes Bournville 
+
+B. The one who likes Kitkat 
+
+C. The one who likes Munch 
+
+D. The one who likes Perk 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-15 
+
+Twelve people O, P, Q, R, S, T, U, V, W, X, Y and Z are seated on parallel rows. Such a 
+way that O, P, S, U, V, Z are seated on row 1 and other persons are seated on row 2 but 
+not necessarily in the same order. Some people are facing north and some people facing 
+south in both the rows. O sits second from the left of S who is not facing north. P sits 
+immediate right of S. P sits straight to T facing opposite direction to each other. V sits 
+second to the right of P. O and R faces each other. Y sits second to the left of R. Two 
+persons  sit  between  Q  and  X.  W  and  U  are  seated  at  corners  and  facing  opposite 
+direction to each other. Neither Q nor X is sit at the extreme ends of the row. Z and U 
+are facing same direction as Q and X. V is facing same direction as R. Q is not a neighbor 
+of R. Not more than five persons facing south. 
+
+71. Who among the following persons facing south in Row-1? 
+
+A. S and O 
+
+D. S and U 
+
+B. V and S 
+
+C. S and P 
+
+E. Cannot be determined 
+
+72. In which direction neighbor of S faces? 
+
+A. One person faces north and other persons faces south 
+
+B. Both the persons faces North 
+
+C. Both the person faces South 
+
+D. Immediate left faces north and immediate right faces south 
+
+E. Cannot be determined 
+
+73. Find the following person’s position in the rows respectively? 
+
+I. Who sits immediate right of O? 
+
+II. Who sits third to the right of Q? 
+
+A. Y and V 
+
+D. Z and R 
+
+B. V and X 
+
+C. V and Y 
+
+E. Cannot be determined 
+
+74. Find the odd one out among the following. 
+
+A. U 
+
+D. X 
+
+B. Z 
+
+E. R 
+
+C. Y 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+75. If U is related to P and S is related to Z in same way Y is related with: 
+
+A. U 
+
+D. Q 
+
+B. Z 
+
+E. R 
+
+C. X 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-16 
+
+Eight  persons  –  Navya,  Farukh,  Ankur,  Mangal,  Ravan,  Danav,  Simar,  and  Gopal  are 
+seated  around  a  circular  table  such  that  only  three  of  them  are  facing  away  from  the 
+centre and the rest are facing towards the centre (not necessarily in the same order). 
+
+Navya  sits  second  to  the  left  of  Ankur.  Farukh  is  not  an  immediate  neighbour  of  both 
+Ankur and Navya. One of the immediate neighbours of Ankur faces opposite direction of 
+Ankur.  Gopal  sits  third  to  the  left  of  Navya.  Danav  sits  second  to  the  left  of  Gopal. 
+Mangal is not an immediate neighbour of Farukh. Simar sits third to the left of Mangal. 
+Ravan and Farukh face the same direction as Mangal faces. Farukh doesn’t sit opposite 
+to both Ankur and Navya. 
+
+76. Who among the following sits second to the right of Danav? 
+
+A. Navya 
+
+D. Gopal 
+
+B. Simar 
+
+E. Gopal 
+
+77. Who among the sits in front of Ravan? 
+
+C. Mangal 
+
+A. Farukh 
+
+D. Ankur 
+
+B. Mangal 
+
+C. Navya 
+
+E. None of these 
+
+78.  If  the  all  persons  are  made  to  according  to  their  names  appear  in  dictionary  in 
+clockwise  direction  starting  from  Ankur  then  position  of  how  many  person(s)  will 
+remain unchanged including Ankur? 
+
+A. One  
+
+D. Four  
+
+B. Two  
+
+E. Five 
+
+C. Three 
+
+79. Who among the following sits third to the left of Simar? 
+
+A. Mangal 
+
+D. Ravan 
+
+B. Danav 
+
+C. Navya 
+
+E. None of these 
+
+80. How many person(s) sit between Ravan and Navya when counted from the right of 
+Navya? 
+
+A. One  
+
+D. Four  
+
+B. Two  
+
+E. Five 
+
+C. Three 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-17 
+
+A row of persons facing north direction consist of equal number of boys and girls such 
+that boys are sitting at the extreme ends. All the boys except one sit at even positions 
+and all the girls except one sit at odd positions. Extreme left end of the row is positioned 
+as 1 and the place immediate next to it as 2 and so on. 
+
+  There is no one to the left of A who is fourth to the left of J who is immediate left of 
+
+W. 
+
+  P sits at an extreme end and is third to the right of F who is a girl. 
+
+  Only three boys are there to the right of U, who is a girl. 
+
+  T and O are immediate neighbours and T is to the immediate left of P with T being a 
+
+girl. 
+
+  Only two persons are between W and F. 
+
+  H who is not a boy is sitting adjacent to A and X. 
+
+  Z is fourth to the right of B who is on immediate right of X. 
+
+81. Which of the following girls sit at an even numbered position? 
+
+A. X 
+
+D. U 
+
+B. J 
+
+C. H 
+
+E. None of these 
+
+82. How many girls sit between X and O? 
+
+A. Four  
+
+D. Five  
+
+B. Three 
+
+C. Six 
+
+E. None of these 
+
+83. Which of the following is an immediate neighbour of B and W? 
+
+A. U 
+
+D. J 
+
+B. X 
+
+C. F 
+
+E. None of these 
+
+84. How many boys and girls are there in the row? 
+
+A. 6 boys, 6 girls 
+
+B. 7 boys, 7 girls 
+
+C. 5 boys, 5 girls 
+
+D. 4 boys, 4 girls 
+
+E. Either A or C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+85. Four of the following five are alike in a certain way and thus form a group. Which 
+of the following does not belong to the group? 
+
+A. B 
+
+D. Z 
+
+B. W 
+
+E. J 
+
+C. O 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-18 
+
+Eight persons – Heer, Rani, Nora, Anup, Doha, Mrig, Gaur and Shera are sitting around a 
+square table such that four persons sits on the fours corner the table facing towards the 
+center and the rest of the four persons sits on the middle of the sides facing away from 
+the centre. 
+
+Gaur neither sits at corner nor opposite to Shera. Nora sits third to the left of Rani. Only 
+two  persons  sit  between  Mrig  and  Shera,  who  sits  immediate  left  of  Nora.  Anup  sits 
+second to the left of Heer, who sits third left of Gaur. 
+
+86. Who among the following sits in front of Anup? 
+
+A. Nora 
+
+D. Rani  
+
+B. Gaur 
+
+C. Shera 
+
+E. None of these 
+
+87. How many person(s) sit between Rani and Shera, when counted from the right of 
+Shera? 
+
+A. One  
+
+D. None 
+
+B. Two  
+
+C. Three 
+
+E. More than three 
+
+88. If the names of all the persons are arranged according the order in which they will 
+appear in dictionary in anticlockwise order starting from Anup, then position of how 
+many person(s) will be remain unchanged excluding Anup? 
+
+A. One  
+
+D. None 
+
+B. Two  
+
+C. Three 
+
+E. More than three 
+
+89. Who among the following sits third to the left of Doha? 
+
+A. Shera 
+
+D. Anup 
+
+B. Rani  
+
+C. Heer 
+
+E. None of these 
+
+90. Who among the following sits second to the right of Mrig? 
+
+A. Nora 
+
+D. Anup 
+
+B. Gaur 
+
+C. Doha 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-19 
+
+Eight persons are sitting on two parallel benches namely Bench 1 and Bench 2, each four 
+on a bench. The persons who are sitting on bench 1 facing north and those on bench 2 
+are facing south such that each person of both the benches faces each other. 
+
+Gayu faces Hina, who does not sit at any of the extreme ends. Ela and Bani neither sits 
+in the same row nor faces each other. Hina sits second to the right of Dia. Fiza sits in the 
+same row in which Ela sits. Bani faces the person who is second to the right of Ahana. 
+Caira sits on bench 1 
+
+91. Who among the following faces Ela? 
+
+A. Bani  
+
+D. Dia   
+
+B. Hina  
+
+C. Gayu 
+
+E. None of these 
+
+92. Four of the following five are alike in a certain way and thus form a group. Which 
+of the following does not belong to the group? 
+
+A. Hina  
+
+D. Ela 
+
+B. Gayu 
+
+E. Ahana 
+
+C. Fiza 
+
+93. Which of the following pairs consist of persons who sit at the extreme ends? 
+
+A. Ela - Hina 
+
+B. Caira - Gayu  
+
+C. Ela – Caira 
+
+D. Ahana - Bani 
+
+E. Bani - Caira 
+
+94. What is the position of Fiza with respect to Ahana? 
+
+A. Second to the left 
+
+B. Second to the right  
+
+C. Immediate left 
+
+D. Immediate right 
+
+E. None of these 
+
+95. In which of the following pairs, persons do not face each other? 
+
+A. Bani - Fiza 
+
+B. Caira - Ahana 
+
+C. Dia – Ela 
+
+D. Hina - Gayu  
+
+E. Hina – Ahana 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-20 
+
+Ten  People-  A,  B,  C,  D,  E,  P,  Q,  R,  S  and  T  are  sitting  in  two  parallel  rows  but  not 
+necessarily in same order. Four of them like white colour , four of them like black colour 
+and two  like  red  colour.  No  two people  likes  same  colour  sit  opposite  or  next  to  each 
+other. Row 1 consist of- A, B, C, D, E but not necessarily in same order and Row 2 consist 
+of- P, Q, R, S and T but not necessarily in same order. People sitting in both rows face 
+each other. 
+
+T  is  an  immediate  neighbour  of  R.  People  who  like  Red  colour  do  not  sit  in  the  same 
+row. Two people sit between Q and T. E sits third to the right of B. A does not like black 
+colour. Person who likes red colour is not an immediate neighbour of D. Person facing B 
+and  sitting  next  to  him,  Both  like  Black  colour.  D  does  not  face  P.  People  liking  Red 
+colour sit at extreme ends of the rows. R sits at one of the extreme ends. People who 
+like  Red  colour  do  not  face  each  other.  Q  does  not  like  red  colour.  S  and  A  like  same 
+colour. B likes red colour. 
+
+96. Find the Odd one out? 
+
+A. B 
+
+D. C 
+
+B. Q 
+
+E. R 
+
+C. D 
+
+97. Which of the following pair face the one who likes red? 
+
+A. C, S   
+
+D. D, R  
+
+B. A, P   
+
+E. Q, D 
+
+C. E, T 
+
+98. A is related to C and E in some way , in the same way S is related to P and Q then E 
+is related to whom following the same pattern? 
+
+A. C, B   
+
+D. D, C  
+
+B. A, D  
+
+E. Q, D 
+
+99. Which of the following is not false? 
+
+C. E, R 
+
+A. S-Black 
+
+B. D-Red 
+
+C. Q-White 
+
+D. All are false  
+
+E. All are not false 
+
+100. Find the wrong pair? 
+
+A. C, S   
+
+D. B, Q  
+
+B. E, T   
+
+C. A, R 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-21 
+
+Six  friends  Prakash,  Qadir,  Rithesh,  Surya,  Tarini  and  Umesh  are  sitting  around  the 
+square  table.  All  of  them  belong  to  different  profession  among  Engineer,  Doctor, 
+Scientist,  Banker,  Lawyer  and  Teacher  but  not  necessarily  in  the  same  order.  Some  of 
+them are facing inside and some of them are facing outside. Four of them are sitting at 
+the corner of the table and two are sitting on the opposite edges of the table. Not more 
+than two consecutive sitting persons are facing the same direction. 
+
+Tarini,  whose  profession  is  Scientist,  sits  second  to  the  left  of  Qadir  and  to  the  left 
+person whose profession is Lawyer. Qadir sits at corner and facing away from the centre 
+of the table. The person sitting to the immediate right of Qadir is sitting at the corner of 
+the  table.  Umesh,  who  is  not  the  immediate  neighbor  of  Qadir,  is  facing  the  person, 
+whose  profession  is  Doctor.  Surya,  whose  profession  is  Teacher,  is  an  immediate 
+neighbor  of  the  person  whose,  profession  is  Lawyer.  Surya  is  not  the  immediate 
+neighbor  of  Tarini.  Rithesh  is  not  sitting  at  the  edge  of  the  table.  The  immediate 
+neighbors  of  Prakash  are  facing  different  directions.  The  one  whose  profession  is 
+Scientist is not sitting to the immediate right of the person whose profession is Banker. 
+The person whose profession is Banker does not sit at the edge of the table. The person 
+sitting at the edges are facing towards each other. 
+
+101. Who is sitting to the immediate left of Prakash? 
+
+A. The one who is Banker 
+
+B. The one who is Scientist  C. Surya 
+
+D. Rithesh 
+
+E. None of these 
+
+102. What is the profession of Rithesh? 
+
+A. Banker 
+
+D. Doctor 
+
+B. Lawyer 
+
+C. Engineer 
+
+E. None of these 
+
+103. Who is sitting to the immediate right of Surya? 
+
+A. Umesh 
+
+B. The one who is Banker 
+
+C. Rithesh 
+
+D. The one who is Lawyer 
+
+E. Cannot be determined 
+
+104. Who is Doctor? 
+
+A. Qadir 
+
+D. Tarini 
+
+B. Rithesh 
+
+C. Prakash 
+
+E. Cannot be determined 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+105. Who is sitting to the immediate right of the person whose profession is Engineer? 
+
+A. Qadir 
+
+D. Rithesh 
+
+B. Tarini 
+
+C. Surya 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-22 
+
+Twelve  persons  are  sitting  in  two  parallel  rows  containing  six  persons  each,  in  such  a 
+way  that  there  is  an  equal  distance  between  adjacent  persons.  In  row  1  –  Joshi,  Jaya, 
+Jeet, Jamal, Juber and Jina are seated and all of them are facing south. In row 2 – Prem, 
+Pinu, Pal, Punj, Poran and Pooja are seated and all of them are facing north. Therefore, 
+in the given seating arrangement each member seated in a row faces another member 
+of the other row. 
+
+Only one person sits between Jaya and Jina. Joshi sits third to the left of Juber. Neither 
+Prem nor Poran faces Juber or Joshi. Prem does not sit at an extreme end. Jeet does not 
+face Prem and Jeet does not sit at an extreme end of the line. Prem sits second to the 
+right of Poran. Only one person sits between Pooja and Pal. Neither Joshi nor Juber sit’s 
+at extreme end of the line. Pooja is not an immediate neighbour of Pinu and Prem does 
+not face Jina. Neither Pooja nor does Pal face Juber. Pal does not sit at the extreme end. 
+
+106. How many person(s) sit(s) between Juber and Joshi? 
+
+A. None 
+
+D. Three 
+
+B. One  
+
+C. Two 
+
+E. More than three 
+
+107. Four of the following five are alike in some way and hence form a group. Which 
+of the following is the one that does not belong to the group? 
+
+A. Jaya  
+
+D. Joshi 
+
+B. Poran 
+
+E. Jeet 
+
+108. Who among the following faces Pinu? 
+
+C. Punj 
+
+A. Jaya  
+
+D. Juber 
+
+B. Joshi 
+
+C. Jamal 
+
+E. None of these 
+
+109. Who among the following sits to the immediate left of the one who faces Punj? 
+
+A. Joshi 
+
+D. Juber 
+
+B. Jamal 
+
+C. Jeet 
+
+E. None of these 
+
+110. Which of the following statement(s) is/are correct? 
+
+A. Poran faces Jaya 
+
+B. Jina sits between Jaya and Jamal 
+
+C. Punj sits second to the left of Prem 
+
+D. Pal faces Jina 
+
+E. None is correct 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-23 
+
+Eight  friends  Hiram,  Henry,  Sofia,  Paul,  John,  Betty,  Rachel  and  Andrew  are  reading 
+different  Sci-Fi novels  Fugitive,  Killer,  Outlaw,  Judgement, Shadowfell, Shadowhunters, 
+Legends, Scarlet. Four out of eight novels are written by one particular author while rest 
+four novels are not written by the same author. They are sitting around a circular table 
+and  but  not  necessarily in  same  order  and  reading  novels  but  not  necessarily  in  same 
+order.  People  who  are  reading  novel  by  same  author  face  away  from  the  table  while 
+others don’t. 
+
+John is sitting the second position to right of Betty and is reading Legends. Sofia is sitting 
+at  the  second  position  to  the  right  of  Rachel.  Paul  is  reading  Judgement  and  is  sitting 
+third  position  to  the  right  of  Betty.  Henry  is  reading  Fugitive  and  is  sitting  opposite  to 
+that  of  Hiram,  who  is  facing  away  from  the  center.  Betty  is  reading  Shadowfell.  The 
+person reading Legends is sitting at the second position to the left of the person who is 
+reading Shadowhunters. Rachel who is reading Outlaw, is sitting at the third position to 
+the right of Henry and is reading one of the novels by the same author. Both Paul and 
+Henry are reading novels by same author. Hiram is not reading Scarlet. 
+
+111. What is the position of Paul with respect to Rachel? 
+
+A. Third to the left 
+
+B. Second to the right  
+
+C. Third to the right 
+
+D. Fifth to the right 
+
+E. Fouth to the left 
+
+112. Who sits third to right of Andrew? 
+
+A. Sofia 
+
+D. John  
+
+B. Hiram 
+
+E. Paul 
+
+C. Rachel 
+
+113.  If  Betty  and  John  interchange  their  positions  and  similarly  Sofia  and  Rachel 
+interchange their positions while keeping their new directions same as original ones, 
+what is the position of Henry with respect to Rachel? 
+
+A. Fourth to the left 
+
+B. Fifth to the left 
+
+C. Second to the left 
+
+D. Immediate Left 
+
+E. None of these 
+
+114. Find the odd one out among the following. 
+
+A. Fugitive 
+
+D. Rachel 
+
+B. Killer 
+
+E. Andrew 
+
+C. Rachel 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+115. Which of the following novels is read by the person who sits opposite to Andrew. 
+
+A. Fugitive 
+
+D. Outlaw 
+
+B. Killer 
+
+C. Judgement 
+
+E. Shadow hunters 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-24 
+
+Twelve  friends  are  sitting  in  two  parallel  rows  containing  six  people  in  each  in  such  a 
+way  that  there  is  an  equal  distance  between  two  adjacent  persons.  In  row-1  Sriram, 
+Tushar,  Uma,  Vivek,  Wasim  and  Xanil  are  seated  and  all  of  them  are  facing  south 
+direction. In row-2, Mano, Nirmal, Oviya, Parthiv, Queen and Ranjith are seated and all 
+of them are facing north direction. Therefore in the given seating each member seated 
+in a row faces another member of the other row. No two persons, whose names start 
+with consecutive letters of English alphabet, are immediate neighbors of each other. For 
+example, Binu is an immediate neighbor of neither Aman nor Chitra and so on. Each of 
+them  also  likes  different  Kollywood  actors  -  Rajni,  Kamal,  Vijay,  Ajith,  Surya,  Karthi, 
+Dhanush,  Vikram,  Prasanth,  Jeeva,  Arya  and  Prabhu.  All  the  above  information  is  not 
+necessarily in the same order. 
+
+Nirmal does not like Ajith. Tushar sits at an extreme end of the line. Only two people sit 
+between  Tushar  and  the  one  who  likes  Dhanush.  Nirmal  sits  second  to  the  left  of  the 
+one  who  faces  the one who  likes  Dhanush. The one  who  likes  Vijay  sits second to  the 
+right  of  Oviya.  Tushar  does  not  face  the  one  who  likes  Vijay.  Only  two  persons  sit 
+between Parthiv and Ranjith. Uma does not sit at an extreme end of the line. Xanil is not 
+an  immediate  neighbor  of  Tushar.  Vivek  faces  the  one  who  likes  Prasanth.  Only  three 
+people sit between the one who like Prasanth and Rajni. Ranjith likes Karthi. One of the 
+immediate neighbors of Mano faces the one who likes Arya. The one who likes Kamal 
+sits  to  the  immediate  right  of  Sriram.  Parthiv  sits  second  to  the  right  of  the  one  who 
+likes  Jeeva.  Only  three  people  sit  between  the  ones  who  like  Vikram  and  Prabhu 
+respectively. Tushar does not like Prabhu. 
+
+116. Which among the following actors was liked by Wasim? 
+
+A. Vikram 
+
+D. Arya  
+
+B. Ajith  
+
+C. Prabhu 
+
+E. Cannot be determined 
+
+117.  Four  of  the  following  five  are  alike  in  a  certain  way  and  hence  form  a  group. 
+Which of the following does not belong to the group? 
+
+A. Vikram 
+
+D. Arya  
+
+B. Rajni 
+
+E. Vijay 
+
+C. Surya 
+
+118. Which among the following combination is definitely true? 
+
+A. Nirmal-Karthi 
+
+B. Parthiv-Rajni 
+
+C. Sriram-Dhanush 
+
+D. Wasim-Kamal 
+
+E. None of the above 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+119. Which among the following statements is definitely true? 
+
+A. Wasim and the one who like Dhanush are immediate neighbors. 
+
+B. The one who likes Kamal faces the one who sits third to the right of Queen. 
+
+C. Only two persons sit between Mano and the one who likes Karthi 
+
+D. The one who likes Surya is an immediate neighbor of Ranjith and Oviya 
+
+E. None of the above 
+
+120.  Which  of  the  following  persons  sits  immediate  right  of  the  person  who  sits 
+opposite to Ranjith? 
+
+A. Uma  
+
+D. Oviya 
+
+B. Wasim 
+
+E. Queen 
+
+C. Sriram 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-25 
+
+Some  persons  were  watching  ‘Zero’  in  a  multiplex,  where  several  rows  has  different 
+number of seats. The rows were numbered such that the nearest row from the screen 
+was numbered 1 and the row just above it was numbered 2 and so on. The seats were 
+numbered from left to right such that the leftmost seat was numbered as 1, its adjacent 
+seat  as  2  and  so  on.  All the persons  were  facing  towards the  screen  which  was  in  the 
+north direction. The below mentioned information is regarding few persons only. 
+
+The film was house-full and none of the seats was vacant. 
+
+The  total  number  of  rows  does  not  exceed  7  and  the  total  number  of  seats  was  five 
+times the total number of rows. 
+
+Mihir’s row number and seat number were same and it was an even prime number. 
+
+Ranu sits second to the left of Shreya. 
+
+The  number  of  persons  to  the  right  of  Hema  who  was  at  seat  number  3  in  the  row 
+number 5 was 1 more than the total number of rows. 
+
+Shreya is on the immediate right of Sanu who sits in row number 4. 
+
+Tina was seated at the left most seat in the last row, which was not prime numbered. 
+
+Total number of persons in the top 3 farthest rows (from screen) was equal to 18. 
+
+There were three seats between Saba and Tina. 
+
+Kavya was on the last seat of the first row. 
+
+The total number of persons in row 1 was thrice of the total number of persons in row 
+4. 
+
+Shagun was seated in an odd numbered row except row 1. 
+
+121. How many seats were there in the multiplex? 
+
+A. 35 
+
+D. 20 
+
+B. 25 
+
+C. 30 
+
+E. Cannot be determined 
+
+122. What is the difference between the seat numbers of Kavya and Sanu? 
+
+A. 2 
+
+D. 7 
+
+B. 5 
+
+C. 6 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+123. Who among the following is immediately ahead of Ranu? 
+
+A. Shagun 
+
+D. Kavya 
+
+B. Mihir 
+
+C. Tina 
+
+E. None of these 
+
+124. Four of the following five are alike in a certain way and thus form a group. Which 
+of the following does not belong to the group? 
+
+A. Tina  
+
+D. Saba 
+
+B. Hema 
+
+E. Sanu 
+
+C. Kavya 
+
+125. What is the total number of persons in the top two nearest rows? 
+
+A. 13 
+
+D. 12 
+
+B. 11 
+
+C. 10 
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Correct Answers: 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+B 
+
+A 
+
+C 
+
+D 
+
+C 
+
+C 
+
+C 
+
+E 
+
+D 
+
+C 
+
+D 
+
+E 
+
+C 
+
+B 
+
+A 
+
+B 
+
+E 
+
+A 
+
+C 
+
+D 
+
+C 
+
+C 
+
+E 
+
+A 
+
+D 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+34 
+
+35 
+
+36 
+
+37 
+
+38 
+
+39 
+
+40 
+
+41 
+
+42 
+
+43 
+
+44 
+
+45 
+
+46 
+
+47 
+
+48 
+
+49 
+
+50 
+
+E 
+
+A 
+
+E 
+
+C 
+
+B 
+
+D 
+
+E 
+
+C 
+
+A 
+
+E 
+
+D 
+
+B 
+
+A 
+
+C 
+
+D 
+
+E 
+
+A 
+
+C 
+
+C 
+
+E 
+
+D 
+
+B 
+
+A 
+
+C 
+
+E 
+
+51 
+
+52 
+
+53 
+
+54 
+
+55 
+
+56 
+
+57 
+
+58 
+
+59 
+
+60 
+
+61 
+
+62 
+
+63 
+
+64 
+
+65 
+
+66 
+
+67 
+
+68 
+
+69 
+
+70 
+
+71 
+
+72 
+
+73 
+
+74 
+
+75 
+
+B 
+
+C 
+
+D 
+
+B 
+
+E 
+
+A 
+
+D 
+
+B 
+
+C 
+
+D 
+
+B 
+
+D 
+
+A 
+
+D 
+
+C 
+
+E 
+
+A 
+
+A 
+
+C 
+
+B 
+
+A 
+
+B 
+
+B 
+
+C 
+
+D 
+
+76 
+
+77 
+
+78 
+
+79 
+
+80 
+
+81 
+
+82 
+
+83 
+
+84 
+
+85 
+
+86 
+
+87 
+
+88 
+
+89 
+
+90 
+
+91 
+
+92 
+
+93 
+
+94 
+
+95 
+
+96 
+
+97 
+
+98 
+
+99 
+
+100 
+
+C 
+
+D 
+
+B 
+
+A 
+
+A 
+
+C 
+
+B 
+
+D 
+
+A 
+
+E 
+
+C 
+
+A 
+
+A 
+
+D 
+
+B 
+
+D 
+
+A 
+
+C 
+
+B 
+
+E 
+
+D 
+
+E 
+
+B 
+
+D 
+
+C 
+
+101 
+
+102 
+
+103 
+
+104 
+
+105 
+
+106 
+
+107 
+
+108 
+
+109 
+
+110 
+
+111 
+
+112 
+
+113 
+
+114 
+
+115 
+
+116 
+
+117 
+
+118 
+
+119 
+
+120 
+
+121 
+
+122 
+
+123 
+
+124 
+
+125 
+
+A 
+
+C 
+
+E 
+
+C 
+
+B 
+
+C 
+
+B 
+
+D 
+
+B 
+
+E 
+
+C 
+
+D 
+
+B 
+
+E 
+
+C 
+
+B 
+
+C 
+
+C 
+
+E 
+
+B 
+
+C 
+
+D 
+
+A 
+
+E 
+
+B 
+
+ 
+ 
+ 
+| Explanations | 
+
+Set-1 
+
+Common explanation 
+
+Reference: 
+
+It is known that Cheenu sits exactly in the middle and there is no person to the right of 
+Ishita. 
+
+Inference: 
+
+There is no one sitting to the right of Ishita, means she is sitting at the right most end of 
+the row. 
+
+Reference: 
+
+Dona is not sitting adjacent to either Cheenu or Ishita. 
+
+Inference: 
+
+Reference: 
+
+Dona is fourth to the right of Faria. 
+
+Inference: 
+
+As Dona cannot sit adjacent to Cheenu and Ishita, so, therefore, there is only place left 
+i.e. third from the right end of the row for Faria. 
+
+Reference: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaurav  and  Harish  are  sitting  next  to  each  other.  Harish  doesn't  sit  at  any  extreme 
+corner. 
+
+Inference: 
+
+Reference: 
+
+Esha is the neighbor of Dona but not of Cheenu. 
+
+Inference:  
+
+Reference: 
+
+Anu is second to the right of Harish. 
+
+Inference: 
+
+Now, only Bablu is left to be placed at the only left position. 
+
+Final image: 
+
+Explanations: 
+
+1. 
+
+From the following explanation we get “Anu is sitting to the immediate left of Cheenu”. 
+
+Option B, is hence the correct answer. 
+
+2. 
+
+From the following explanation we get “Dona is sitting between Bablu and Esha”. 
+
+Option A, is hence the correct answer. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. 
+
+From the following explanation we get “Faria and Gaurav do not belong to that group”. 
+
+Option C, is hence the correct answer.  
+
+4. 
+
+From the following explanation we get “Cheenu sits third to the right of Harish”. 
+
+Option D, is hence the correct answer. 
+
+5. 
+
+From the following explanation we get “Gaurav is seated at the left most corner of the 
+row”. 
+
+Option C, is hence the correct answer. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-2 
+
+Common explanation 
+
+Reference: 
+
+N is an immediate neighbor of both L and R, who is an immediate neighbour of P. 
+
+P sits second to the left of N. 
+
+Inference: 
+
+Reference: 
+
+Only two persons sit between P and S. 
+
+Inference:  
+
+Reference: 
+
+Only one person sits between M and Q. 
+Inference: 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Explanations: 
+
+6. 
+
+O is Second to the right of S.  
+
+Option C, is hence the correct answer. 
+
+7. 
+
+NM does not belong to the group. 
+
+Option C, is hence the correct answer. 
+
+8. 
+
+M sits second to the left of the one who is on the immediate right of O. 
+
+Option B, is hence the correct answer. 
+
+9. 
+
+In the following Common explanation it is clear that S sits between M and Q. 
+
+Hence, option D is correct. 
+
+10. 
+
+In the following Common explanation it is clear that R sits third to right of the one who 
+sits opposite of N? 
+
+Hence, option C is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-3 
+
+Common explanation 
+
+Reference: 
+
+Qiya is second to the left of Rati who is fourth from the right corner. 
+
+Tiya sits immediate right of Qiya. 
+
+There are only two persons between Rati and Pari. 
+
+Inference: 
+
+Based on the given hints following two cases can be drawn: 
+
+Case1 When Pari is third to the left of Rati 
+
+Row/Persons→ 
+(Facing South)↓ 
+
+Rati  Tiya  Qiya  Pari 
+
+           ←Right end                                                                                                 Left end→ 
+
+Case2 When Pari is third to the right of Rati 
+
+Row/Persons→ 
+(Facing South)↓ 
+
+Pari 
+
+Rati  Tiya  Qiya 
+
+           ←Right end                                                                                                Left end→ 
+
+Reference: 
+
+The  number  of  persons  between  Qiya  and  Mita  is  same  as  the  number  of  persons 
+between Pari and Shri. 
+
+Mita sits at any corner of the row. 
+
+Om is not a neighbor of Shri who is immediate left of Niya. 
+
+Inference: 
+
+Case1 When Pari is third to the  left of Rati and number of persons between Mita and 
+Qiya are 4 
+
+Row/Persons→ 
+(Facing South)↓ 
+
+Mita  Shri 
+
+Rati  Tiya  Qiya  Pari 
+
+           ←Right end                                                                                                  Left end→ 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+In  Case1,  Positions  of  Om  and  Niya  cannot  be  ascertained  without  violating  the  third 
+hint, thus Case1 Fails here. 
+
+Case2 When Pari is third to the right of Rati and number of persons between Mita and 
+Qiya is 1 
+
+Row/Persons→ 
+(Facing South)↓ 
+
+Pari  Niya  Shri  Rati  Tiya  Qiya  Om  Mita 
+
+           ←Right end                                                                                                 Left end→ 
+
+Explanations: 
+
+11. 
+
+From the following explanation it is clear that six persons are seated towards the left of 
+Niya. 
+
+Option D, is hence the correct answer. 
+
+12. 
+
+From  the  following  explanation  it  is  clear  that  Pari  is  the  only  one  among  the  given 
+options, who sits at an extreme end, rest person sit in the middle of the row. 
+
+Option E, is hence the correct answer. 
+
+13. 
+
+From  the  following  explanation  it  is  clear  that  Om  and  Tiya  both  are  the  immediate 
+neighbours of Qiya. 
+
+Option C, is hence the correct answer. 
+
+14. 
+
+From the following explanation it is clear that the person sitting third from the right end 
+is Shri and second to the left of Shri is Tiya. 
+
+Option B, is hence the correct answer. 
+
+15. 
+
+From the following explanation it is clear that Om is sitting third to the left of Rati. 
+
+Option A, is hence the correct answer. 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-4 
+
+Common explanation 
+
+Reference: 
+
+Eight persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil, are sitting around a 
+circular table facing the centre but not necessarily in the same order. 
+
+Inference: 
+
+We will keep this information in mind while solving the puzzle. 
+
+Reference: 
+
+Anup is to the immediate left of Arun. 
+
+Amit is between Anup and Ansh. 
+
+Amar is the neighbour of Ansh. 
+
+Inference: 
+
+After using the above hints, we can draw a following circular arrangement: 
+
+Reference: 
+
+Arif is to the immediate left of Ashu. 
+
+Arif is not the neighbour of Ansh or Anil. 
+
+Inference: 
+
+After using the above hints, we have: 
+
+ 
+ 
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+Explanations: 
+
+16. 
+
+Following the final solution, we can say that Anup is sitting third to right of Amar. 
+
+Hence, the correct answer is option B. 
+
+17. 
+
+Following the final solution, we can say that four persons were sitting between Amit and 
+Anil, when counted from the left of Anil. 
+
+Hence, the correct answer is option E. 
+
+18. 
+
+Following the final solution, we can say that Arif is third to the right of Amit. 
+
+Hence, the correct answer is option A. 
+
+19. 
+
+In the following common it is clear that Amar sits opposite to the one who sits third to 
+the left of Anil. 
+Hence, the correct answer is option C. 
+
+20. 
+
+In the following Common explanation it is clear that Arun and Ashu are sitting adjecent 
+of Arif. 
+
+Hence, the correct answer is option D. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-5 
+
+Common explanation 
+
+References: 
+
+J likes Banana. 
+
+The person J is the immediate neighbor of the one who like Brinjal and O. 
+
+K sits third to the right of O. 
+
+One person sits between K and Q. 
+
+One who likes Beans sits third to the left of Q. 
+
+Inferences: 
+
+From above statements, 
+
+J likes Banana i.e. J likes fruits and sits at the corner of the table. 
+
+The person J is the immediate neighbor of the one who like Brinjal and O. Here we get 
+two possibilities as shown in seating. 
+
+Remaining statements are given directly; by using we get 3 initial cases as follows 
+
+Case: 1 
+
+Case: 2 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+                 
+ 
+Case: 1-A 
+
+References: 
+
+One who sits second to the right of the one who likes Beans is facing N. 
+
+One who likes Cabbage sits second to the right of the one who likes Cucumber. 
+
+One who likes Beans and one who likes Mango are not immediate neighbors. 
+
+One who likes Mango sits third to the right of M. 
+
+Inferences: 
+
+From above statements, 
+
+One who sits second to the right of the one who likes Beans is facing N. With respect to 
+the  position  of  the  one  who  likes  Beans,  N  can  be  located  in  each  of  three  cases  as 
+shown below. 
+One who likes Cabbage sits second to the right of the one who likes Cucumber i.e. both 
+are  vegetables.  So  those  persons  are  sitting  in  the  middle  of  the  table.  Already  Beans 
+and Brinjal is located in all the 3 cases. So we get only one possibility to place Cabbage 
+and Cucumber as per statement. 
+
+One who likes Beans and one who likes Mango are not immediate neighbors. One who 
+likes Mango sits third to the right of M. 
+
+Here we get only one possibility in each case as per above statement. 
+
+Note: In Case 1-A and case-2, K doesn’t like Mango; if so then there is no place for M (O 
+is occupied already in both cases) as per given statement. 
+
+By using above information, we get the following seating as shown 
+
+ 
+ 
+              
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+Case: 1 
+
+Case: 2 
+
+Case: 1-A 
+
+References: 
+
+There are as many persons sit between P and M as between P and L. 
+
+L and one who like Apple are not immediate neighbors.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inferences: 
+
+From above statements, 
+
+Case-1: P sits to the immediate left of M and L sits to the immediate right of P i.e. No 
+one sits between P and M & no one sits between P and L. As per given statement, there 
+is  no  place  for  Apple  (L  and  one  who  like  Apple  are  not  immediate  neighbors).  Hence 
+this case become invalid and it can be eliminated. 
+
+Case-1-A: Here, the 1st reference point (There are as many persons sit between P and M 
+as between P and L doesn’t get satisfied). Hence this case become invalid and it can be 
+eliminated. 
+
+Case: 1 [Eliminated] – No Place for Apple 
+
+Case:  1-A [Eliminated]  There  are  as  many  persons  sit  between  P  and  M  as  between  P 
+and L. 
+
+Case-2: Here, P sits to the immediate left of O and L sits to the immediate left of K. By 
+this two persons sit between P &M and also P & L (given condition satisfied). Given, L 
+and  one  who  like  Apple  are  not  immediate  neighbors.   Therefore  P  likes  Apple  and  K 
+likes Grapes (only possibility). Thus we get the completed seating as shown below. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Explanations: 
+
+21. 
+
+Following the Common explanation, we get "K-Grapes", 
+
+Hence, option C is correct. 
+
+22. 
+
+Following the Common explanation, we get "The one who like Cucumber i.e. L", 
+
+L sit opposite to O. Hence, option C is correct. 
+
+23. 
+
+Following the Common explanation, we get "None is true", 
+
+Hence, option E is correct. 
+
+24. 
+
+Following the Common explanation, we get "Third to the right", 
+
+N sits third to the right of the one who like Banana 
+
+Hence, option A is correct. 
+
+25. 
+
+Following the Common explanation, we get "M-sit in the middle of the sides", 
+
+Remaining 4 persons sit at the corner of the table. 
+
+Hence, option D is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-6 
+
+Common explanation 
+
+References: 
+
+There  are  three  persons  sit  between  Tanish  and  Jiral.  Jiral  sits  third  to  the  left  of 
+Vaibhav. 
+
+Bhavin does not sit third to the left of Tanish who doesn’t sit at the corner. 
+
+One person sits between Jiral and Kiansh. 
+
+Rithwik and Kiansh are not immediate neighbors. 
+
+Inferences: 
+
+From above statements,  
+
+o  Tanish does not sit at corner of the table, and then he must sit in the middle of the 
+
+table. 
+
+Based on the remaining statements we get the following cases as follows 
+
+Case: 1  
+
+Case: 2 
+
+References: 
+
+Aadvik is immediate neighbor of Kiansh. 
+
+Bhavin does not sit third to the left of Tanish who doesn’t sit at the corner. 
+
+Bhavin sits fourth to the right of Yashith. 
+
+Inferences: 
+
+From above statements, we get the following case, 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case: 1 [Eliminated] No place: 
+Bhavin sits fourth to the right 
+of Yashith. 
+
+Case: 2 
+
+Finally,  Rithwik  sits  immediate  right  of  Yashith.  Thus  we  get  the  completed  seating 
+arrangement as follows, 
+
+Explanations: 
+
+26. 
+
+The following Common explanation, we get "Rithwik sit in the middle of the table". 
+
+Remaining 4 persons sit at corner of the table. 
+
+Hence, option E is correct. 
+
+ 
+ 
+ 
+ 
+           
+      
+    
+ 
+                
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27. 
+
+The following Common explanation, we get "Rithwik". 
+
+Relation: Tanish is second to the left of Kiansh. 
+
+Bhavin is second to the left of Aadvik similarly 
+
+Jiral is second to the left of Rithwik 
+
+Hence, option A is correct. 
+
+28. 
+
+The following Common explanation, we get "Only Vaibhav". 
+
+Fifth to the right of Kiansh is Vaibhav and immediate right of Rithwik is also Vaibhav. 
+
+Hence, option E is correct. 
+
+29. 
+
+In  the  following  Common  explanation  it  is  clear  that  Aadvik  sits  between  Jiral  and 
+Kiansh. 
+
+Hence, option C is correct. 
+30. 
+
+In the following Common explanation it is clear that Jiral sits opposite to one who sits 
+second to the right of Rithwik. 
+
+Hence, option B is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-7 
+
+Common explanation 
+
+Reference: 
+
+Hina sits second to right of Mera. 
+
+Hina and Asha have three persons between them. 
+
+Inference: 
+
+Here, we have two possible scenarios in which above hints can be used accordingly. 
+
+Case 1: 
+
+Case 2: 
+
+Reference: 
+
+No one sits between Asha and Fany. 
+
+Desh sits fifth to left of Fany. 
+
+Inference: 
+
+At this point, we cannot fix the position of Desh and Fany according to the above hints in 
+case 1 so we can say that Case 1 is an invalid case. 
+
+Here,  we  have  two  possible  scenarios  in  which  above  hints  can  be  used  in  case  2 
+accordingly. 
+
+Case 2-A: 
+
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+  
+ 
+Case 2-B: 
+
+Reference: 
+
+Desh and Rani have two persons between them. 
+
+Pinu is second to right of Rani. 
+
+Inference: 
+
+After using the above hints, we have: 
+
+If  we  fix  the  position  of  Rani  on  the  right  of  Desh  then  we  won't  be  able  to  fix  the 
+position of Pinu second to the right of Rani. Then, 
+
+Case 2-A: 
+
+Case 2-B: 
+
+Reference: 
+
+Number of persons towards right of Asha is one less than the number of persons sitting 
+between Pinu and Asha. 
+
+Number  of  persons  towards  left  of  Rani  is  equal  to  the  number  of  persons  sitting 
+between Fany and Hina. 
+
+Inference: 
+
+At this point we can see that our case 2-B is contradicting with the above hints so we 
+can say that case 2-B is an invalid case. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Case 2-A: 
+
+Explanations: 
+
+31. 
+
+Following the final solution, we can say that 19 persons were sitting in the row. 
+
+Hence, the correct answer is option D. 
+
+32. 
+
+Following the final solution, we can say that six persons were sitting between Pinu and 
+Asha. 
+
+Hence, the correct answer is option E. 
+
+33. 
+
+Following the final solution, we can say that Fany was fifth to the left of Hina. 
+
+Hence, the correct answer is option C. 
+
+34. 
+
+Following the final solution, we can say that number of persons that were sitting on the 
+right of Hina and on the left of Rani were 1 and 4 respectively. 
+
+Required Sum = 1 + 4 = 5 
+
+Hence, the correct answer is option A. 
+
+35. 
+
+Following the final solution and applying the given conditions, we have: 
+
+Here, four persons are sitting between Riya and Rani. 
+
+Hence, the correct answer is option E. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-8 
+
+Common explanation: 
+
+Reference: 
+
+Usha sits at one of the extreme ends of the line. 
+
+Mona sits third to the left of Usha. 
+
+Pinu sits third to the right of Mona. 
+
+Inference:  
+
+Here,  we  have  two  possible  scenarios  in  which  above  references  can  be  used 
+accordingly. 
+
+Case 1: 
+
+Case 2: 
+
+Reference:  
+
+Joya sits to the immediate right of Pinu. 
+
+Joya does not sit at any of the extreme end of the line. 
+
+Pinu sits second to the left of Chaya. 
+
+Inference:  
+
+After using the above references, we have: 
+
+Case 1: 
+
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Case 2: 
+
+Reference: 
+
+Tara sits second to the right of Joya. 
+
+Only one person sits between Chaya and Lali. 
+
+Tara faces the same direction as Joya. 
+
+Inference:  
+
+After using the above references, we have: 
+
+Case 1: 
+
+Case 2: 
+
+Reference: 
+
+Doly faces north. 
+
+Doly faces the same direction as Chaya. 
+
+Both the immediate neighbours of Mona face the opposite direction. 
+
+Inference:  
+
+At this point, we cannot use the second hint (Chaya faces south) in case 1 accordingly so 
+we can say that case 1 is an invalid case. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Case 2: 
+
+Explanations: 
+
+36. 
+
+Following the final solution, we can say that Joya is sitting second to the right of Mona. 
+
+Hence, the correct answer is option D. 
+
+37. 
+
+Following the final solution, we can say that Usha is the one who does not belong to the 
+group because amongst all the persons given in the options, Usha is the only one who 
+faces North direction. 
+
+Hence, the correct answer is option B. 
+
+38. 
+
+Following the final solution, we can say that three persons sit between Joya and Doly. 
+
+Hence, the correct answer is option A. 
+
+39. 
+
+Following the final solution, we can say that four persons are facing north direction. 
+
+Hence, the correct answer is option C. 
+
+40.  
+
+Following the final solution, we can say that no one is sitting third to the left of Lali. 
+
+Hence, the correct answer is option D. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-9 
+
+Common explanation 
+
+References: 
+
+Six persons A to F are sitting in the Row-1 and facing north direction. 
+
+Six persons P to U are sitting in the Row-2 and facing south direction. 
+
+E sits second to the right of F. 
+
+Two persons sit between F and B, who is facing R. 
+
+More than one person sits between F and D. 
+
+Q and R are immediate neighbors. 
+
+U sits second to the left of Q. 
+
+Inferences: 
+
+From above statements 
+
+Note: B can’t sit at any end of the row; if so F sits either at 3rd or 4th from end of the row 
+by this more than 1 person between D and F is not possible (Refer 1st three reference 
+points) 
+
+With respect to the last two statements, we get the initial table as follows, 
+
+Case-1: F sits extreme left end  (Row-1). E and B sits second and third to the right of F 
+respectively. Q sits opposite to E (only possibility) and R sits opposite to B (given). U sits 
+to the immediate left of R. Here D sits either second or 1st from right end in Row-1 
+
+Person[Row-2] 
+South 
+
+Person[Row-1] 
+North 
+
+F 
+
+Case-1 
+
+Q 
+
+R 
+
+U 
+
+E 
+
+B 
+
+D/ 
+
+D/ 
+
+Case-2: F  sits  second  from  left  end.  E  and  B  sits  second  and  third  to  the  right  of  F 
+respectively. Q sits opposite to E (only possibility) and R sits opposite to B (given). U sits 
+
+ 
+ 
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+to the immediate left of R. Here D sits at extreme right end of Row-1 [only possibility] 
+i.e. 3 persons sit between F and D. 
+
+Person[Row-2] 
+South 
+
+Person[Row-1] 
+North 
+
+Case-2 
+
+F 
+
+Q 
+
+E 
+
+R 
+
+B 
+
+U 
+
+D 
+
+References: 
+
+The person who sits second to the right of P is facing C. 
+
+T does not sit at the extreme end of the line. 
+
+Inferences: 
+
+From above statements, 
+
+Case-1: There is no place for P as per given statement (The person who sits second to 
+the  right  of  P  is  facing  C).  This  case  become  invalid  and  it  can  be  eliminated. 
+
+Case-1 [Eliminated] 
+The person who sits second to the 
+right of P is facing C [not satisfied] 
+
+Person[Row-2] 
+South 
+
+Person[Row-1] 
+North 
+
+F 
+
+Q 
+
+R 
+
+U 
+
+E 
+
+B 
+
+D/ 
+
+D/ 
+
+Case-2: As per given statement, C sits extreme left of the Row-1. P sits to the immediate 
+right of Q in Row-2. Given, T does not sit at the extreme end of the line. Then T sits to 
+the immediate right of P in Row-2. Finally, S sits extreme at right end in Row-2 and the 
+person A sit to the immediate right of F. Thus all given conditions gets satisfied and we 
+get the completed seating as shown. 
+
+Person[Row-2] 
+South 
+
+Person[Row-1] 
+North 
+
+Case-2 
+
+S 
+
+C 
+
+T 
+
+F 
+
+P 
+
+Q 
+
+A 
+
+E 
+
+R 
+
+B 
+
+U 
+
+D 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+Explanations: 
+
+41. 
+
+Following the Common explanation, we get "None of these". 
+
+T sits third to the right of R 
+
+Hence, option E is correct. 
+
+42. 
+
+Following the Common explanation, we get "One". 
+
+Only one person sit between C and A 
+
+Hence, option A is correct. 
+
+43. 
+
+Following the Common explanation, we get "D faces Q".  
+
+Person[Row-2] 
+South 
+
+Person[Row-1] 
+North 
+Alphabetical order 
+
+Case-2 
+
+S 
+
+C 
+
+A 
+
+T 
+
+F 
+
+B 
+
+P 
+
+Q 
+
+A 
+
+C 
+
+E 
+
+D 
+
+R 
+
+B 
+
+E 
+
+U 
+
+D 
+
+F 
+
+Hence, option C is correct. 
+
+44. 
+
+Following the Common explanation, we get "Second person is sitting second to left of 
+the first person", So, E is sitting second to the left of F. 
+
+Hence, option C is correct. 
+
+45. 
+
+Following the Common explanation, we get "U is sitting diagonally opposite to C ". 
+
+Hence, option E is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-10 
+
+Common explanation 
+
+Reference: 
+
+Eight persons – Mona, Moti, Meera, Mali, Mitra, Mansi, Megha and Mrig, were sitting in 
+a circle facing towards the center. Each of them was born in a different city  — Shimla, 
+Manali,  Agra,  Nanital,  Pune,  Goa,  Mumbai  and  Delhi,  but  not  necessarily  in  the  same 
+order. 
+
+Inference: 
+
+We will keep this information in mind while solving the puzzle. 
+
+Reference: 
+
+Two persons were sitting between the one, who was born in Nanital and Mitra. 
+
+Mali was born in Nanital. 
+
+Mitra was born in Manali. 
+
+Mona was born in Shimla and sits opposite to Mitra. 
+
+Inference: 
+
+Here, we have two possible scenarios in which the above hints can be used accordingly. 
+
+Case 1:   
+
+Case 2: 
+
+Reference: 
+
+The one, who was born in Delhi, sits adjacent to the one, who was born in Nanital. 
+
+The one, who was born in Pune, sits opposite to Mali. 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Mrig  was  born  in  Mumbai  and  sits  second  to  the  right  of  the  one,  who  was  born  in 
+Nanital. 
+
+Inference: 
+
+After using the above hints, we have: 
+
+Case 1:    
+
+Case 2: 
+
+Reference: 
+
+Meera was born in Pune and was an immediate neighbor of the one, who was born in 
+Goa. 
+
+Megha sits third right to Moti and Megha was born in Delhi. 
+
+Inference: 
+
+At this point we cannot use the above hints in case 2 accordingly so we can say that case 
+2 is an invalid case. 
+
+Case 1: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+At this point we can say that Moti was born in Agra and Mansi was born in Goa. 
+
+Case 1: 
+
+Explanations: 
+
+46. 
+
+Following the final solution, we can say that Mansi was born in Goa. 
+
+Hence, the correct answer is option D. 
+
+47. 
+
+Following  the  final  solution,  we  can  say  that  Meera  was  sitting  third  to  the  right  of 
+Megha. 
+
+Hence, the correct answer is option B. 
+
+48. 
+
+Following the final solution, we can say that Moti was born in Agra. 
+
+Hence, the correct answer is option A. 
+
+49. 
+
+Following  the  final  solution,  we  can  say  that  the  one  who  was  born  in  Mumbai  was 
+sitting in the front of Moti. 
+
+Hence, the correct answer is option C. 
+
+50. 
+
+Following the final solution, we can say that Meera was third to the left of the one who 
+was born in Shimla. 
+
+Hence, the correct answer is option E. 
+
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common explanation 
+
+Set-11 
+
+Reference: 
+Eight persons – Ankit, Kavit, Manit, Vinit, Charit, Sumit, Ganit, and Ronit are sitting in a 
+straight line (but not necessarily in the same order) such that three of them are  facing 
+south and rest of them are facing north. Each of them works in a different bank  – SBI, 
+UCO, PNB, BOB, SEBI, RBI, BOI, and NHB (but not necessarily in same order). 
+
+Inference: 
+
+We will keep this information in mind while solving the puzzle. 
+
+Reference:  
+
+Ronit sits third to the right of Manit. 
+
+Manit doesn’t face north direction. 
+
+Four persons sit between Ronit and Charit, who works in RBI. 
+
+Inference:  
+
+After using the above hints, we have: 
+
+Reference:  
+
+Ganit is an immediate neighbor of Manit and Charit both. 
+
+Manit sits on the immediate left of Kavit. 
+
+Inference: 
+
+After using the above hints, we have: 
+
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Reference:  
+
+Kavit sits third from one of the extreme end of the row. 
+
+Vinit sits second to the right of Ganit. 
+
+Inference:  
+
+After using the above hints, we have: 
+
+Reference:  
+
+The one, who is sitting on the immediate right of Vinit, works in NHB. 
+
+Sumit sits right of Manit, who works in BOI. 
+
+Ganit and Charit face opposite direction to each other. 
+
+Inference: 
+
+After using the above hints, we have: 
+
+As we know that only three of these persons are facing towards south direction so we 
+can find out the direction faced by the rest of these persons. 
+
+Reference: 
+
+The one who works in SBI sits at an extreme end. 
+
+The one who works in BOB sits between Charit and Ankit. 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The one who works in PNB sits immediate right of the one who works in UCO. 
+
+Sumit does not work in PNB. 
+
+Inference:  
+
+After using the above hints, we have: 
+
+Here, we can say that Ganit works in SEBI. 
+
+Explanations: 
+
+51. 
+
+Following the final solution, we can say that Kavit works in PNB. 
+
+Hence, the correct answer is option B. 
+
+52. 
+
+Following the final solution, we can say that Vinit – BOB – North is the correct 
+combination. 
+
+Hence, the correct answer is option C. 
+
+53. 
+
+Following the final solution, we can say that three persons sit between Charit and Sumit. 
+
+Hence, the correct answer is option D. 
+
+54. 
+
+Following the final solution, we can say that the one who works in BOB is fourth to the 
+left the one who works in PNB. 
+
+Hence, the correct answer is option B. 
+
+55. 
+
+Following the final solution, we can say that Ganit works in SEBI. 
+
+Hence, the correct answer is option E. 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-12 
+
+Common explanation 
+
+Reference: 
+
+Eight  persons  –  Shirish,  Suresh,  Sajal,  Sashi,  Sanjay,  Sunder,  Srajit  and  Shankar  (not 
+necessarily in the same order) are sitting around a circular table in a way such that four 
+of them are facing towards the centre and the others are facing away from the centre. 
+Each  of  these  persons  have  a  different  surname  –  Gaur,  Gail,  Gopal,  Gandhi,  Girish, 
+Guman, Garv and Goyal, but not necessarily in the same order. 
+
+Inference: 
+
+We will keep this information in mind while solving the puzzle. 
+
+Reference: 
+
+Sajal’s surname is Gaur and is facing towards the centre. 
+
+The immediate neighbours of Sajal faces away from the centre and their surnames are 
+Gail and Gopal. 
+
+Srajit’s surname is Garv, is facing towards the centre and sits third to the right of Sashi, 
+whose surname is Gail. 
+
+Inference: 
+
+Here, we have two possible scenarios in which above hints can be used accordingly. 
+
+Case 1:  
+
+Case 2: 
+
+Reference: 
+
+The one whose surname is Girish is not neighbouring the one whose surname is Gail or 
+Srajit. 
+
+Shirish  is  sitting  opposite  to  Sanjay  and  neither  of  them  has  a  surname  Gopal  but 
+surname of one of them is Girish. 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+Inference: 
+
+At this point we cannot use the above hints in case 2 accordingly so we can say that case 
+2 is an invalid case. 
+
+Here,  we  have  two  possible  scenarios  in  which  above  hints  can  be  used  in  case  1 
+accordingly. 
+
+Case 1-A: 
+
+ Case 1-B: 
+
+Reference: 
+
+Shankar  is  not  neighbouring  either  the  one  whose  surname  is  Garv  or  the  one  who  is 
+neighbouring the one whose surname is Guman but is sitting opposite to the one whose 
+surname is Gandhi, who is neighbouring Shirish. 
+
+Inference: 
+
+At  this  point  we  cannot  use  the  above  hints  in  case  1-B  accordingly  so  we  can  say 
+that case 1-B is an invalid case. 
+After using the above hints in case 1-A, we have: 
+
+Case 1-A: 
+
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+Reference: 
+
+Sunder’s surname is not Goyal and is facing the centre. 
+
+Both  Shirish  and  Sanjay  are  facing  in  the  same  direction  (for  example,  if  one  is  facing 
+outside then other is also facing outside). 
+
+Shankar faces away from the centre and the immediate neighbours of Shankar faces a 
+direction opposite to each other. 
+
+Inference: 
+
+After using the above hints in case 1-A, we have: 
+
+Case 1-A: 
+
+At this point we can say that Suresh’s surname is Goyal and faces the centre. 
+
+Case 1-A: 
+
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explanations: 
+
+56. 
+
+Following the final solution, we can say that Suresh has surname Goyal. 
+
+Hence, the correct answer is option A. 
+
+57. 
+
+Following the final solution, we can say that Sashi sits second to the right of Shankar. 
+
+Hence, the correct answer is option D. 
+
+58. 
+
+Following the final solution, we can say that Shirish is sitting third to the right of the one, 
+who is sitting second to the left of the one, whose surname is Gandhi. 
+
+Hence, the correct answer is option B. 
+
+59. 
+
+Following the final solution, we can say that Sashi Gaur is the one that does not belong 
+to the group because of all the options Sashi Gaur is the only option in which name and 
+surname is of adjacent persons. 
+
+Hence, the correct answer is option C. 
+
+60. 
+
+Following the final solution, we can say that both Srajit and Sanjay are the neighbours of 
+Suresh. 
+
+Hence, the correct answer is option D. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Set-13 
+
+Common explanation 
+
+Reference: 
+
+Seven persons – Naina, Shalu, Amar, Rohan, Doshi, Brij and Vinod, are sitting on a bench 
+in a church, facing south. Each of them has a different profession – Manager, Engineer, 
+Actor. 
+Boxer, 
+
+Politician, 
+
+Painter 
+
+Singer, 
+
+and 
+
+Inference: 
+
+We will keep this information in mind while solving the puzzle. 
+
+Reference:  
+
+Vinod sits third from left end. 
+
+Amar sits second to the right of Vinod. 
+
+There is one person sitting between Amar and Rohan. 
+
+Inference:  
+
+After using the above hints, we can draw a following linear arrangement: 
+
+Reference:  
+
+Naina is an immediate neighbour of Doshi, who sits at an extreme end. 
+
+The one who is a Singer sits at an extreme end and immediate neighbor of Shalu. 
+
+Inference:  
+
+After using the above hints, we have: 
+
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Reference: 
+
+The one who is an Actor sits second to the left of Rohan. 
+
+The one who is an Engineer sits third to the left of Shalu, who is a Painter. 
+
+Inference:  
+
+At this point, we can easily fix the position of Brij in the row. 
+
+Reference:  
+
+Naina is neither Manager nor Boxer. 
+
+Brij is not a Boxer. 
+
+Inference:  
+
+After using the above hints, we have: 
+
+Here, we can say that Naina is the Politician. 
+
+Explanations: 
+
+61. 
+
+Following the final solution, we can say that Naina is a Politician. 
+
+Hence, the correct answer is option B. 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+62. 
+
+Following the final solution, we can say that the one who sits in the middle of the row is 
+a Manager. 
+
+Hence, the correct answer is option D. 
+
+63. 
+
+Following the final solution, we can say that Naina sits third to the left of the one who is 
+an Actor. 
+
+Hence, the correct answer is option A. 
+
+64. 
+
+Following the final solution, we can say that three persons sit between Shalu and Naina. 
+
+Hence, the correct answer is option D. 
+
+65. 
+
+Following the final solution, we can say that Amar – Actor is the correct combination. 
+
+Hence, the correct answer is option C. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-14 
+
+Common explanation 
+
+References: 
+
+Herat and Himan sit opposite to each other but does not face each other. 
+
+Herat sits third to the right of Hetav. 
+
+Inferences: 
+
+From above statements, 
+
+Herat and Himan sit opposite to each other but does not face each other i.e. Herat and 
+Himan are sitting at the corner of the table and faces away from the centre. 
+
+By using above information, we get the initial seating as follows 
+
+References: 
+
+Herin and Hetav are facing same direction. 
+
+Herin is an immediate neighbor of the one who likes Barone. 
+
+Hiyan likes Perk and sits second to the right of the one, who likes Barone. 
+
+Inferences: 
+
+From above statements, 
+Hetav faces inside the table. Therefore, Herin also faces inside the table. 
+Thus  we  get  3  possibilities  from  above  seating  as  shown  below  with  respect  to  other 
+reference points. 
+
+Case-1: Here,  Herin  sits to  the  immediate  right of  Herat.  Given,  Herin  is  an  immediate 
+neighbor of the one who likes Barone. If the one who likes Barone sits to the immediate 
+
+ 
+ 
+  
+ 
+  
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+  
+  
+ 
+  
+left of Herin, then there is no place for Hiyan (Given, Hiyan likes Perk, sits second to the 
+right  of  the  one,  who  likes  Barone).  Therefore,  as  per  seating  Herat  likes  Barone  and 
+Hiyan  (likes  Perk)  sits  to  the  immediate  right  of  Herin  to  satisfy  the  given  statement. 
+
+Case-2: Here, Herin sits to the immediate right of Himan. Given, Herin is an immediate 
+neighbor of the one who likes Barone. If the one who likes Barone sits to the immediate 
+left of Herin, then there is no place for Hiyan (Given, Hiyan likes Perk, sits second to the 
+right  of  the  one,  who  likes  Barone).  Therefore, as  per  seating  Himan  likes  Barone  and 
+Hiyan  (likes  Perk)  sits  to  the  immediate  left  of  Herin  to  satisfy  the  given  statement. 
+
+Case-3: Here,  Herin  sits  to  the  immediate  left  of  Herat.  Given,  Herin  is  an  immediate 
+neighbor of the one who likes Barone. If the one who likes Barone sits to the immediate 
+right of Herin, then there is no place for Hiyan (Given, Hiyan likes Perk, sits second to the 
+right  of  the  one,  who  likes  Barone).  Therefore,  as  per  seating  Herat  likes  Barone  and 
+Hiyan (likes Perk) sits to the immediate right of Hetav to satisfy the given statement. 
+
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+References: 
+
+The one who likes Munch and the one who likes Milky Bar are facing each other. 
+
+Henik sits to the immediate right of the one who likes Milky Bar and to the immediate 
+left of the one who like 5 star chocolates. 
+
+Inferences: 
+
+From above statements, 
+
+The one who likes Munch and the one who likes Milky Bar are facing each other i.e. both 
+are sitting in the middle of the table. 
+
+With respect to the second reference point, we get only one possibility (to locate for the 
+one who like Milky bar) in each case as shown below. 
+
+Case: 1  
+
+     Case: 2 
+
+Case: 3 
+
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References: 
+
+Hiran sits third to the right of the one who likes Dairy Milk. 
+
+The one who likes Bournville sits third to the left of the one who likes Kitkat. 
+
+One who sits to the immediate right of Herat does not like Bournville. 
+
+Inferences: 
+
+From above statements, 
+
+Case-1: Given, Hiran sits third to the right of the one who likes Dairy Milk. Here, Hiran 
+likes  Milky  Bar  and  Himan  likes  Dairy  Milk  (Only  possibility  to  satisfy  this  statement). 
+There  is  no  place  for  the  one  who  likes  Kitkat  as  per  the  given  statement.  Hence  this 
+case become invalid and it can be eliminated. 
+
+Case: 1 [Eliminated] – No place for the one who like Kitkat.  
+
+Case-2: Here, there is no place for Hiran i.e. given, Hiran sits third to the right of the one 
+who likes Dairy Milk. Hence this case become invalid and it can be eliminated. 
+
+Case: 2 [Eliminated] – No place for Hiran 
+
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+Case-3: Given, Hiran sits third to the right of the one who likes Dairy Milk. Here, Henik 
+likes Dairy Milk and Hiran sits to the immediate right of Herat (Only possibility to satisfy 
+this  statement).  With  respect  to  second  and  third  reference  point,  Himan  likes 
+Bournville  and  Hiran  likes  Kitkat  (only  possibility).  Finally,  Hevin  likes  5 star  chocolates 
+and  sits  to  the  immediate  left  of  Henik.  Thus  we  get  the  completed  seating  as  shown 
+below. 
+
+Case: 3 
+
+Explanations: 
+
+66. 
+
+The following Common explanation, we get "None of these". 
+
+Herin (likes Milky Bar) sits second to the right of Hiran, who likes Kitkat 
+
+So answer is both A and D 
+
+Hence, option E is correct. 
+
+67. 
+
+The following Common explanation, we get "Hevin-5 star chocolates". 
+
+Hence, option A is correct. 
+
+68. 
+
+The following Common explanation, we get "Himan-Bournville chocolates". 
+
+Hence, option A is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+69. 
+
+The following Common explanation, we get "Hiran and the one who like 5 stars (Hevin)". 
+
+Hence, option C is correct. 
+
+70. 
+
+The  following  Common  explanation,  we  get  "Hiran  sits  third  to  the  right  of  Henik  and 
+Hiran likes Kitkat". 
+
+Hence, option B is correct. 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-15 
+
+Common explanation 
+
+References 
+
+O, P, S, U, V and Z are seated on row 1 & Q, R, T, W; X and Y are seated in row 2. 
+
+O sits second from the left of S who is not facing north. 
+
+P sits immediate right of S. P sits straight to T facing opposite direction to each other. 
+
+V sits second to the right of P. 
+
+O and R face each other. Y sits second to the left of R. 
+
+W and U seated are at corners and facing opposite direction to each other. 
+
+Inferences 
+
+From above statements, we get 
+
+Note: In each row persons may face north/south. 
+
+We  don’t  know  the  position  of  S  from  extreme  ends.  So  we  solve  as  per  the 
+statements without considering number of persons in row as follows, 
+
+i. S faces south and his/her immediate right is P. 
+
+ii. O sits second from the left of S. V sits second to the right of P. 
+
+iii. Note: if P faces south, then V and O are sit at extreme ends of row-1. Therefore no 
+place for U to sit at corner. Thus P must face north direction. Then V sits immediate left 
+of S. 
+
+iv. P  must  face  north  direction  sits  opposite  to  T  who  faces  south  direction. 
+[opposite direction to each other means, if one faces north then the other faces south 
+or vice versa] 
+
+v. O and R face each other. Y sits second to the left of R. [If R faces south, T and Y sit at 
+extreme  ends  of  row-2.  Therefore  no  place  for  W  to  sit  at  corner.  Thus R  faces  north 
+direction  and  O  faces  south  direction.  Both  are  facing  each  other.  Therefore  Row-2 
+faces Row-1 as shown below. 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+vi. Y sits second to the left of R. Thus we get the table as follows, 
+
+Direction 
+Person(Row-1) 
+
+Person (Row-2) 
+Direction 
+
+North 
+P 
+
+T 
+South 
+
+South 
+S 
+
+Y 
+
+V 
+
+South 
+O 
+
+R 
+North 
+
+References 
+
+Neither Q nor X is sit at the extreme ends of the row. Q is not a neighbor of R. 
+
+Two persons sit between Q and X. 
+
+V is facing same direction as R. 
+
+W and U are seated at corners and facing opposite direction to each other. 
+
+Z and U are facing same direction as Q and X. 
+
+Not more than five persons facing south. 
+
+Inferences 
+
+Note: Clearly from above diagram (we placed only 4 seating in each row), Q is not sit at 
+any ends and not neighbor to R. If Q sits second to the right of R, then T and Q sit at 
+extreme  ends.  Then  there  is  no  place  for  W  to  sit  at  corner  in  row  2  which  is  not 
+possible. Thus  Q  must  sit  immediate  right  of  T  and  X  sits  immediate  left  of  R.  Only 
+person in row 2 is W who sits extreme corner and faces the person U. 
+
+i. V is facing same direction as R. R faces north, then V also faces north direction. 
+
+ii. Only remaining person in row-1 is Z who sits immediate left of P. 
+
+iii. Note: [Given: Z, U, Q and X are facing same direction but none of them direction is 
+given directly] 
+
+iv. Hint:  Not  more  than  five  persons  facing  south.  [If  Z,  U,  Q  and  X  are  facing  south 
+direction, total persons facing south direction becomes 7 including T, S and O which is 
+not possible. 
+
+v. Therefore Z, U, Q and X are facing north direction 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+ 
+vi. W and U are seated at corners and facing opposite direction to each other. [U faces 
+north, and then W faces South direction. 
+
+vii. Y direction is unknown. He/she may face North/South direction. 
+
+Thus we get the completed seating as shown below, 
+
+Direction 
+
+North  North  North 
+
+South 
+
+North 
+
+South 
+
+Person (Row-1) 
+
+Person (Row-2) 
+
+U 
+
+W 
+
+Z 
+
+Q 
+
+P 
+
+T 
+
+S 
+
+Y 
+
+V 
+
+X 
+
+O 
+
+R 
+
+Direction 
+
+South  North 
+
+South 
+
+North/South 
+
+North  North 
+
+Explanations: 
+
+71. 
+
+The following Common explanation, we get "S and O”. 
+
+Hence, option A is correct. 
+
+72. 
+
+The following Common explanation, we get "Both the persons faces North “. 
+
+Hence, option B is correct. 
+
+73. 
+
+The following Common explanation, we get "V and X”. 
+
+Immediate right of O is V & Third to the right of Q is X. 
+
+Hence, option B is correct. 
+
+74. 
+
+Following Common explanation, we get "Y”. 
+
+Except Y, the directions of all the others are confirmed. 
+
+Hence, option C is correct. 
+
+75. 
+
+Following Common explanation, we get "Q”. 
+
+P is seated second to the right of U and in same way Z is seated second to the right of S 
+and in same way Y is seated second to the right of Q. 
+
+Hence, option D is correct. 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+Set-16 
+
+Common explanation 
+
+Reference: 
+
+Eight  persons  –  Navya,  Farukh,  Ankur,  Mangal,  Ravan,  Danav,  Simar,  and  Gopal  are 
+seated  around  a  circular  table  such  that  only  three  of  them  are  facing  away  from  the 
+centre and the rest are facing towards the centre (not necessarily in the same order). 
+
+Inference: 
+
+We will keep this information in mind while solving the puzzle. 
+
+Reference: 
+
+Navya sits second to the left of Ankur. 
+
+Farukh is not an immediate neighbour of both Ankur and Navya. 
+
+Farukh doesn’t sit opposite to both Ankur and Navya. 
+
+Inference: 
+
+Here,  we  have  two  possible  scenarios  in  which  we  can  use  the  above  information 
+accordingly. 
+
+Case 1:  
+
+Case 2: 
+
+. 
+
+Reference: 
+
+Gopal sits third to the left of Navya. 
+
+Danav sits second to the left of Gopal. 
+
+One of the immediate neighbours of Ankur faces opposite direction of Ankur. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Inference: 
+
+After using the above references, we have: 
+
+Case 1:  
+
+Case 2: 
+
+.   
+
+Reference: 
+
+Mangal is not an immediate neighbour of Farukh. 
+
+Simar sits third to the left of Mangal. 
+
+Inference: 
+
+After using the above references, we have: 
+
+Case 1:  
+
+Case 2: 
+
+Reference: 
+
+Ravan and Farukh face the same direction as Mangal faces. 
+
+Inference: 
+
+At  this  point  we  cannot  fix  the  position  of  Ravan  and  Farukh  facing  same  direction  as 
+Mangal  in  case  2  according  to  the  given  hints  so  we  can  say  that case  2  is  an  invalid 
+case. 
+
+After using the above hints case 1 can be redrawn as: 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+   
+ 
+ 
+ 
+  
+  
+  
+ 
+Case 1: 
+
+Explanations: 
+
+76. 
+
+Following the final solution we can say that Mangal sits second to the right of Danav. 
+
+Hence, the correct answer is option C. 
+
+77. 
+
+Following the final solution we can say that Ankur sits in front of Ravan. 
+
+Hence, the correct answer is option D. 
+
+78. 
+
+Following the final solution and applying the given conditions, we get: 
+
+Here, we can see that position of two persons is unchanged including Ankur. 
+
+Hence, the correct answer is option B. 
+
+79. 
+
+Following the final solution we can say that Mangal sits third to the left of Simar. 
+
+Hence, the correct answer is option A. 
+
+80. 
+
+Following  the  final  solution  we  can  say  that  only  one  person  sit  between  Ravan  and 
+Navya when counted from the right of Navya. 
+
+Hence, the correct answer is option A 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-17 
+
+Common explanation 
+
+Reference: 
+
+A row of persons facing north direction consist of equal number of boys and girls such 
+that boys are sitting at the extreme ends. All the boys except one sit at even positions 
+and all the girls except one sit at odd positions. Extreme left end of the row is positioned 
+as 1 and the place immediate next to it as 2 and so on. 
+
+Inference: 
+
+We will make a mental note of these informations while solving the puzzle. 
+
+Reference: 
+
+  There is no one to the left of A who is fourth to the left of J who is on immediate left 
+
+of W. 
+
+  H who is not a boy is sitting adjacent to A and X. 
+  P sits at an extreme end and is third to the right of F who is a girl. 
+  Only two persons are between W and F. 
+  neighbours and T is to the immedT and O are immediateiate left of  P with T being a 
+
+girl 
+
+Inference: 
+
+  With the hint that No one is to the left of A, it is clear that A sits at position no. 1 i.e. 
+extreme left end and is the boy that sits at odd number position. Rest of the boys 
+will sit at even numbered places. 
+
+  The second hint thus confirms P to be sitting at extreme right end and he is also a 
+
+boy. Thus the position at extreme left end must be an even number. 
+
+  Using all the hints we can identify that there are 12 persons in the row, out of which 
+
+6 must be boys and 6 must be girls. 
+
+  With  the  hint  that  H  is  a  girl  and  is  adjacent  to  X,  position  of  H  can  be  fixed  as 
+
+between A and X. Thus H sits at 2nd number and X at 3rd number. 
+
+  Now  we  have  assigned  all  the  odd  numbered  places  to  girls  except  one  and  thus 
+
+occupied six places for girls and 6 for boys. 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference: 
+
+  Only three boys are there to the right of U, who is a girl. 
+  Z is fourth to the right of B who is on immediate right of X. 
+
+Inference: 
+
+Thus position of B can be fixed as between X and J and U is thus seated as in between U 
+and F. 
+
+Explanations: 
+
+81. 
+
+From  the  following  explanation  it  is  clear  that  H  is  the  only  girl  that  sits  on  an  even 
+numbered position. 
+
+Hence option C is correct. 
+
+82. 
+
+From the following explanation it is clear that three girls sit between X and O. 
+
+Hence option B is correct. 
+
+83. 
+
+From the following explanation it is clear that J is an immediate neighbour of B and W. 
+
+Hence option D is correct. 
+
+84. 
+
+From the following explanation it is clear that there are 6 boys and 6 girls in the row. 
+
+Hence option A is correct. 
+
+85. 
+
+From  the  following  explanation  it  is  clear  that  J  is  the  only  girl  among  the  five  given 
+options. Thus the odd one out. 
+
+Hence option E is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-18 
+
+Common explanation 
+
+Reference: 
+Eight persons – Heer, Rani, Nora, Anup, Doha, Mrig, Gaur and Shera are sitting around a 
+square table such that four persons sits on the fours corner the table facing towards the 
+center and the rest of the four persons sits on the middle of the sides facing away from 
+the centre. 
+
+Inference: 
+
+We will keep this information in mind while solving the puzzle. 
+
+Reference: 
+
+Nora sits third to the left of Rani. 
+
+Only  two  persons  sit  between  Mrig  and  Shera,  who  sits  immediate  left  of  Nora. 
+
+Inference: 
+
+Here, we have two possible scenarios, in which we can use the above hints accordingly. 
+
+Case 1:  
+
+Case 2: 
+
+Here, we will make a mental note that only two persons sit between Mrig and Shera. 
+Reference:  
+
+Gaur neither sits at corner nor opposite to Shera. 
+
+Anup sits second to the left of Heer, who sits third left of Gaur. 
+
+Inference:  
+
+After using the above hints, we have: 
+
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+  
+ 
+            Case 1: 
+
+Case 2: 
+
+Initially, we have a hint that only two persons sit between Mrig and Shera at this point 
+we cannot fix the position of Mrig according the hint in case 1. So, we can say that case 
+1 is an invalid case. 
+
+Case 2: 
+
+At this point we can easily fix the position of Doha in case 2. Then, 
+
+Case 2: 
+
+ 
+  
+ 
+ 
+     
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explanations: 
+
+86. 
+
+Following the final solution we can say that Shera sits in front of Anup. 
+
+Hence, the correct answer is option C. 
+
+87. 
+
+Following the final solution we can say that only one person sit between Rani and Shera, 
+when counted from the right of Shera. 
+
+Hence, the correct answer is option A. 
+
+88. 
+
+Following the final solution and applying the given condition we have: 
+
+Here, we can see that position of only persons i.e. Rani is unchanged excluding Anup. 
+
+Hence, the correct answer is option A. 
+
+89. 
+
+Following the final solution we can say that Anup sits third to the left of Doha. 
+
+Hence, the correct answer is option D. 
+
+90. 
+
+Following the final solution we can say that Gaur sits second to the right of Mrig. 
+
+Hence, the correct answer is option B. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-19 
+
+Common explanation 
+
+Reference: 
+
+The persons sitting on bench 1 are facing north and those on  bench 2 are facing south 
+such that each person of both the benches faces each other. 
+
+Inference:  
+
+On the basis of above hint we can infer the arrangement in which benches are situated. 
+
+Reference: 
+
+Gayu faces Hina, who does not sit at any of the extreme ends. 
+
+Hina sits second to the right of Dia. 
+
+Inference: 
+
+Here we can have following two cases. 
+
+Case 1 - When Gayu sits on bench 2. 
+
+Case 2- When Gayu sits on bench 1. 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference: 
+
+Bani faces the person who is second to the right of Ahana. 
+
+Ela and Bani neither sits in the same row nor faces each other.   
+Inference: 
+
+Note- We cannot place Bani on Bench 2 in Case 1, because in that case second hint will 
+get violate i.e. Ela and Bani will face each other. 
+
+Note- We cannot place Bani on Bench 1 in Case 2, because in that case second hint will 
+get violate i.e. Ela and Bani will face each other. 
+
+Reference: 
+
+Fiza sits in the same row in which Ela sits.  
+
+Caira sits on bench 1.   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inference: 
+
+Clearly we can see that in Case 2, we cannot place Caira at bench 1. Thus it gets violated. 
+
+Thus we obtain the final arrangement through Case 1. 
+
+Explanations: 
+
+91. 
+
+From the following explanation it is clear that Dia and Ela face each other. 
+
+Hence option D is correct. 
+
+92. 
+
+From the following explanation it is clear that Hina sits on Bench 1. Thus is the odd one 
+out because all other persons sit on becnh 2. 
+
+Hence option A is correct. 
+
+93. 
+
+From the following explanation it is clear that Ela- Caira is the pair of persons who sit at 
+extreme ends. 
+
+Hence option C is correct. 
+
+94. 
+
+From the following explanation it is clear that Fiza is second to the right of Ahana. 
+Hence option B is correct. 
+
+95. 
+
+From the following explanation it is clear that Hina-Ahana are not facing each other. 
+
+Hence option E is correct. 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-20 
+
+Common explanation 
+
+Reference: 
+
+  People who like Red do not face each other. 
+  People liking Red sit at extreme ends of the rows. 
+  B likes red. 
+  People who like Red do not sit in the same row. 
+  E sits third to the right of B. 
+
+Inference: 
+
+Case(I):  
+When B faces North 
+
+Color 
+Persons Row 2 
+facing South 
+Persons Row 1 
+facing North 
+Color 
+
+B 
+
+Red 
+
+Case(II): 
+When B faces South 
+
+Color 
+Persons Row 1 
+facing South 
+Persons Row 2 
+facing North 
+Color 
+
+E 
+
+Red 
+
+Red 
+
+E 
+
+Red 
+
+B 
+
+Reference: 
+
+  People facing B and sitting next to him both like Black. 
+  No two people liking same color sit opposite or next to each other. 
+
+Inference: 
+
+With the help of second hint, position of colors can be determined in both the cases. 
+
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+Case (I): 
+When B faces North 
+
+Black  White  Black  White  Red 
+
+B 
+
+E 
+
+Red  Black  White  Black  White 
+
+Case (II): 
+When B faces South 
+
+White  Black  White  Black  Red 
+
+E 
+
+B 
+
+Red  White  Black  White  Black 
+
+Color 
+Persons Row 2 
+facing South 
+Persons Row 1 
+facing North 
+Color 
+
+Color 
+Persons Row 1 
+facing South 
+Persons Row 2 
+facing North 
+Color 
+
+Reference: 
+
+  R sits at one of the extreme ends. 
+  T is an immediate neighbour of R. 
+  Two people sit between Q and T. 
+  Q does not like red. 
+
+Inference: 
+
+Here, R cannot sit opposite to B, because this will violate the last hint in both the cases. 
+
+Case (I): 
+When B faces North 
+
+Color 
+
+Black  White  Black  White  Red 
+
+Persons Row 2 
+facing South 
+Persons Row 1 
+facing North 
+
+Q 
+
+B 
+
+R 
+
+T 
+
+E 
+
+Color 
+
+Red  Black  White  Black  White 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Case (II): 
+When B faces South 
+
+Color 
+Persons Row 1 
+facing South 
+Persons Row 2 
+facing North 
+Color 
+
+White  Black  White  Black  Red 
+
+E 
+
+T 
+
+R 
+
+B 
+
+Q 
+
+Red  White  Black  White  Black 
+
+Reference:  
+
+  A does not like black. 
+  S and A like same color. 
+  Person who likes red is not an immediate neighbour of D. 
+  D does not faces P. 
+
+Inference: 
+
+As A does not like black and, S and A like same color, thus A and S both like White. 
+
+In  this  way  both  the  cases  satisfy the  given  hints  and  the  final  arrangement  looks  like 
+following. 
+
+Case(I): 
+When B faces North 
+
+Color 
+Persons Row 2 
+facing South 
+Persons Row 1 
+facing North 
+Color 
+
+Black  White  Black  White  Red 
+
+Q 
+
+B 
+
+S 
+
+C 
+
+P 
+
+A 
+
+T 
+
+E 
+
+R 
+
+D 
+
+Red  Black  White  Black  White 
+
+Case (II): 
+When B faces South 
+
+Color 
+Persons Row 1 
+facing South 
+Persons Row 2 
+facing North 
+Color 
+
+White  Black  White  Black  Red 
+
+D 
+
+R 
+
+E 
+
+T 
+
+A 
+
+P 
+
+C 
+
+S 
+
+B 
+
+Q 
+
+Red  White  Black  White  Black 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Explanations: 
+
+96. 
+
+As Derived in the Common explanation we can see that B, D, Q and R all of them sit at 
+an extreme ends but C does not. 
+
+Hence Option D is correct. 
+
+97. 
+
+As Derived in the Common explanation we clearly see that Q and D face the people who 
+like red. 
+
+Hence Option E is correct. 
+
+98. 
+
+As Derived in the Common explanation we clearly see that A sits exactly in between C 
+and E , S sits exactly in between P and Q Therefore, E sits exactly in between A and D. 
+
+Hence Option B is correct. 
+
+99. 
+
+As  Derived  in  the  Common  explanation  we  clearly  see  that  all  the  given  options  are 
+false. 
+
+Hence Option D is correct. 
+
+100. 
+
+As  derived  in  the  Common  explanation  we  can  see  that  all  the  pairs  face  opposite  to 
+each other except A and R. 
+
+Hence option C is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+Set-21 
+
+Common explanation 
+
+References:  
+
+Qadir sits at corner and facing away from the centre of the table. 
+
+The person sitting to the immediate right of Qadir is sitting at the corner of the table. 
+
+Tarini,  whose  profession  is  Scientist,  sits  second  to  the  left  of  Qadir  and  the  person 
+whose profession is Lawyer. 
+
+Umesh,  who  is  not  the  immediate  neighbor  of  Qadir,  is  facing  the  person,  whose 
+profession is Doctor. 
+
+Inferences: 
+
+From above statements, 
+
+By  using  above  information,  it  is  clearly  observed  that,  no  one  sits  to  the  immediate 
+right of Qadir. 
+
+Tarini, whose profession is Scientist, sits second to the left of Qadir and also, Tarini sits 
+second to the left of the one whose profession is Lawyer (as per seating, Lawyer faces 
+inside the table) 
+
+Umesh  faces  Doctor.  Umesh  is  not  an  immediate  neighbor  of  Qadir.  Here  we  get  two 
+possibilities as shown in figure. 
+
+By using above information, we get the initial seating as follows, 
+
+Case: 1  
+
+Case: 2 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+    
+ 
+References: 
+
+Surya,  whose  profession  is  Teacher,  is  an  immediate  neighbor  of  the  person  whose, 
+profession is Lawyer. 
+
+Surya is not the immediate neighbor of Tarini. 
+
+Rithesh is not sitting on the edge of the table. 
+
+Inferences: 
+
+From above statements, 
+
+Rithesh sits corner of the table. By this case: 2 get eliminated as shown in figure. 
+
+Case: 1 
+
+In Case: 2 there is no place for Rithesh at any corner. Hence this case is eliminated. 
+
+Case: 2 [Eliminated] 
+
+References: 
+
+The  immediate  neighbors  of  Prakash  are  facing different  directions. The  person  sitting 
+on the edges are facing towards each other. 
+
+The one whose profession is Scientist is not sitting to the immediate right of the person 
+whose profession is Banker. 
+
+The person whose profession is Banker does not sit at the edge of the table. 
+
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+Inferences:  
+
+From above statements, 
+
+Prakash  is  a  doctor.  Prakash  and  Umesh  (both  are  sitting  on  edges)  are  facing  each 
+other. One of the immediate neighbors of Prakash is Qadir who faces outside and other 
+one is Tarini, who faces inside the table. 
+
+Therefore,  Rithesh  must  face  outside  the  table  (Maximum  2  persons  can  sit  together 
+who faces same direction) 
+
+The  one  whose  profession  is  Scientist  is  not  sitting  to  the  immediate  right  of  the 
+person whose profession is Banker.  
+ Here,  Rithesh  is  Engineer  and  Qadir  is  banker.  Finally,  Surya  direction  cannot  be 
+determined,  he  face  either  inside  or  outside  the  table.  Thus  we  get  the  completed 
+seating as shown, 
+
+Case: 1 
+
+Explanations: 
+
+101. 
+
+The following Common explanation, we get "Immediate left of Prakash is Qadir, who is a 
+Banker". 
+
+Hence, option A is correct. 
+
+102. 
+
+The following Common explanation, we get "Rithesh-Engineer". 
+
+Hence, option C is correct. 
+
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+103. 
+
+The following Common explanation, we get "Cannot be determined". 
+
+Surya faces either inside or outside and his immediate right is either Qadir or Umesh. 
+
+Hence, option E is correct. 
+
+104. 
+
+The following Common explanation, we get "Prakash-Doctor". 
+
+Hence, option C is correct. 
+
+105. 
+
+The following Common explanation, we get "Rithesh, who is Engineer and his immediate 
+right is Tarini". 
+
+Hence, option B is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-22 
+
+Common explanation 
+
+Reference: 
+
+Twelve  persons  are  sitting  in  two  parallel  rows  containing  six  persons  each,  in  such  a 
+way  that  there  is  an  equal  distance  between  adjacent  persons.  In  row-1,  Joshi,  Jaya, 
+Jeet, Jamal, Juber and Jina are seated and all of them are facing south. In row- 2, Prem, 
+Pinu, Pal, Punj, Poran and Pooja are seated and all of them are facing north. Therefore, 
+in the given seating arrangement each member seated in a row faces another member 
+of the other row. 
+
+Inference: 
+
+We will keep this information in mind while solving the puzzle. 
+
+Reference: 
+
+Joshi sits third to the left of Juber. 
+
+Neither Joshi nor Juber sits at extreme end of the line. 
+
+Inference: 
+
+After using the above hints we have: 
+
+Reference: 
+
+Prem sits second to the right of Poran. 
+
+Neither Prem nor Poran faces Juber or Joshi. 
+
+Prem does not sit at an extreme end. 
+
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inference: 
+
+After using the given hints above figure can be redrawn as: 
+
+Reference: 
+
+Jeet does not face Prem and Jeet does not sit at an extreme end of the line. 
+
+Inference: 
+
+Here, we can fix the position of Jeet in the above figure as: 
+
+Reference:  
+
+Only one person sits between Pooja and Pal. 
+
+Neither Pooja nor Pal faces Juber. 
+
+Pal does not sit at the extreme end. 
+
+Inference: 
+
+After using the above hints we have: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Reference: 
+
+Only one person sits between Jaya and Jina. 
+
+Pooja is not an immediate neighbour of Pinu and Prem does not face Jina. 
+
+Inference: 
+
+After using the above hints we have: 
+
+At this point we can easily fix the position of Jamal and Punj in their respective rows. 
+
+Explanations: 
+
+106. 
+
+Following the final solution, we can say that two persons sit between Juber and Joshi. 
+
+Hence, the correct answer is option C. 
+
+107. 
+
+Following the final solution, we can say that Poran is the one that does not belong to the 
+group because of the persons Poran is the only one who sits at an extreme end. 
+
+Hence, the correct answer is option B. 
+
+108. 
+
+Following the final solution, we can say that Juber faces Pinu. 
+
+Hence, the correct answer is option D. 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+109. 
+
+Following the final solution, we can say that Jamal sits on the immediate left of the one 
+faces Punj. 
+
+Hence, the correct answer is option B. 
+
+110. 
+
+Following the final solution, we can say that none of the given statements is correct. 
+
+Hence, the correct answer is option E. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-23 
+
+Common explanation 
+
+Reference: 
+
+1. Rachel who is reading Outlaw, is sitting at the third position to the right of Henry and 
+is reading one of the novels by same author. 
+
+2. Sofia is sitting at the second position to the right of rachel. 
+
+3. Henry is reading Fugitive and is sitting opposite to that of Hiram, who is facing away 
+from the center. 
+
+4. Both Paul and Henry are reading novels by same author. 
+
+Inference: 
+
+  Henry and Hiram are reading the novel by the same author. 
+  Paul and Henry are also facing away from the center. 
+  Direction and book read by Rachel is given to us, So we will begin with her. 
+
+Reference: 
+
+1. Paul is reading Judgement and is sitting third position to the right of Betty. 
+
+2. Betty is reading Shadow fell. 
+
+3. The person reading Legends is sitting at the second position to the left of the person 
+who is reading Shadow hunters. 
+
+ 
+ 
+   
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+  
+  
+Inference: 
+
+Now  if  we  want  to  place  Betty,  there  will  be  two  Cases  according  to  mentioned 
+conditions  and  since  four  of  them  are  facing  away  from  the  center,  that  makes  paul 
+fouth one who is facing away from the center. Hence Betty is facing center of the table. 
+
+Case (I): 
+
+Case (II): 
+
+Reference:  
+
+1. John is sitting the second position to right of Betty and is reading Legends. 
+
+Inference: 
+
+From reference we can say that case II will be eliminated because to the second right of 
+Betty in case 2 the place is already occupied. 
+
+Reference: 
+
+1. The person reading Legends is sitting at the second position to the left of the person 
+who is reading Shadow hunters. 
+
+2. Hiram is not reading Scarlet. 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inference: 
+
+Using the hints given above as reference, we get the final seating arrangement as:  
+
+Explanations: 
+
+111. 
+
+Following the Common explanation, it is clear that option C is correct. 
+
+112. 
+
+Following the Common explanation, it is clear that option D is correct. 
+
+113.  
+
+Following  the  Common  explanation,  and  modifying  it  according  to  condition  in  the 
+question It is clear that option B. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+114. 
+
+Following the Common explanation we can see that books written by same author are 
+read  by  Henry,  Paul,  Hiram  and  Rachel.  Therefore,  Andrew  is  the  one  not  reading  the 
+book by same author, making option E the correct answer. 
+
+115. 
+
+Following  the  Common  explanation  we  can  see  that  Judgement  novel  is  read  by  the 
+person who sits opposite to Andrew. 
+
+Hence option C is correct. 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-24 
+
+Common explanation 
+
+References: 
+
+In  row-1  Sriram,  Tushar,  Uma,  Vivek,  Wasim  and  Xanil  are  seated  and  all  of  them  are 
+facing south direction. 
+
+In  row-2,  Mano,  Nirmal,  Oviya,  Parthiv,  Queen  and  Ranjith  are  seated  and  all  of  them 
+are facing north direction. 
+
+Tushar sits at an extreme end of the line. 
+
+Xanil is not an immediate neighbor of Tushar. 
+
+Tushar does not face the one who likes Vijay. 
+
+Only two people sit between Tushar and the one who likes Dhanush. 
+
+Nirmal sits second to the left of the one who faces the one who likes Dhanush. 
+
+Nirmal does not like Ajith. 
+
+Tushar does not like Prabhu. 
+
+Inferences: 
+
+From above information, 
+
+• Tushar sits either extreme right end or left end of Row-1. So we get two possibilities. 
+
+• Remaining all the above statements are directly given and can be filled with respect to 
+Tushar's position. 
+
+• Nirmal sits second to the left of the one who faces the one who likes Dhanush. Here, 
+Nirmal sits 2nd from left end in Row-2 [Case: 1] & Nirmal sits extreme left end in Row-2 
+[Case: 2] 
+
+• Based on all above conditions, initial arrangement is as follows,  
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Row-1 (Person) ↓ 
+Actors 
+Actors 
+Row-1 (Person) ↑ 
+
+ Case: 1 
+[If Tushar at extreme right end] 
+Tushar 
+Prabhu 
+Vijay 
+
+Xanil 
+
+Ajith 
+Nirmal 
+
+Dhanush 
+
+Case: 2 [If Tushar at extreme left end] 
+
+Row-1 (Person) ↓ 
+
+Actors 
+
+Actors 
+
+Ajith 
+
+Row-1 (Person) ↑ 
+
+Nirmal 
+
+References: 
+
+Dhanush 
+
+Xanil 
+
+Tushar 
+
+Prabhu 
+
+Vijay 
+
+No  two  persons,  whose  names  start  with  consecutive  letters  of  English  alphabet,  are 
+immediate  neighbors  of  each  other.  For  example,  Binu  is  an  immediate  neighbor  of 
+neither Aman nor Chitra and so on. 
+
+The one who likes Vijay sits second to the right of Oviya. 
+
+Inferences: 
+
+From above information, 
+
+• Nirmal & Oviya can’t be the neighbors (consecutive alphabetic name). Therefore Oviya 
+must sit in front of the one who likes Dhanush in both cases as shown in seating. 
+
+Case: 1 [If Tushar at extreme right end] 
+
+Row-1 (Person) ↓ 
+Actors 
+Actors 
+Row-1 (Person) ↑ 
+
+Tushar 
+Prabhu 
+Vijay 
+
+Xanil 
+
+Ajith 
+Nirmal 
+
+Dhanush 
+
+Oviya 
+
+Vijay 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case: 2 [If Tushar at extreme left end] 
+
+Row-1 (Person) ↓ 
+Actors 
+Actors 
+Row-1 (Person) ↑ 
+
+Ajith 
+Nirmal 
+
+Dhanush 
+
+Oviya 
+
+Xanil 
+
+Vijay 
+
+Tushar 
+Prabhu 
+Vijay 
+
+References: 
+
+Only two persons sit between Parthiv and Ranjith. 
+
+Ranjith likes Karthi. 
+
+Parthiv sits second to the right of the one who likes Jeeva. 
+
+Inferences: 
+
+From above information, 
+
+•  Parthiv  and  Oviya  can’t  be  the  neighbors  (consecutive  alphabetic  names)  as  per  the 
+condition. 
+
+•  In Case-1, Parthiv sits at extreme right end and Ranjith sits on the immediate left of 
+Oviya. With respective to above 3 statements, Ranjith likes Karthi, Oviya likes Jeeva and 
+Parthiv likes Vijay. 
+
+Case: 1 [If Tushar at extreme right end] 
+
+Row-1 (Person) ↓ 
+Actors 
+Actors 
+Row-1 (Person) ↑ 
+
+Tushar 
+Prabhu 
+Vijay 
+
+Xanil 
+
+Ajith 
+Nirmal 
+
+Karthi 
+Ranjith 
+
+Dhanush 
+Jeeva 
+Oviya 
+
+Vijay 
+Parthiv 
+
+• In Case-2, Parthiv sits at 2nd from right end and Ranjith sits on the immediate left of 
+Oviya. With respective to above 3 statements, Ranjith likes Karthi, Oviya likes Jeeva and 
+Parthiv likes Vijay. 
+
+Case: 2 [If Tushar at extreme left end] 
+
+Row-1 (Person) ↓ 
+Actors 
+Actors 
+Row-1 (Person) ↑ 
+
+Ajith 
+Nirmal 
+
+Karthi 
+Ranjith 
+
+Dhanush 
+Jeeva 
+Oviya 
+
+Tushar 
+Prabhu 
+Vijay 
+
+Xanil 
+
+Vijay 
+Parthiv 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+References: 
+
+Vivek faces the one who likes Prasanth. 
+
+Only three people sit between the ones who like Prasanth and Rajni. 
+
+Inferences: 
+
+From above information, 
+
+• Vivek sits in the row-1 & faces south direction. Therefore the ones who like Prasanth 
+and Rajni come in row-2 & face north direction. 
+
+• In Case-1, Vivek must sit at 2nd from left end in row-1, by this the one who like Rajni 
+comes at extreme left end of Row-2 (Only possibility as per condition) 
+
+Row-1 (Person) ↓ 
+Actors 
+Actors 
+Row-1 (Person) ↑ 
+
+Case: 1 [If Tushar at extreme right end] 
+Tushar 
+Prabhu 
+Rajni 
+
+Xanil 
+
+Ajith 
+Nirmal 
+
+Karthi 
+Ranjith 
+
+Dhanush 
+Jeeva 
+Oviya 
+
+Vivek 
+
+Prasanth 
+
+Vijay 
+Parthiv 
+
+• In Case-2, There is no place for Prasanth and Rajni with 3 gaps in Row-2. Hence this 
+case can be eliminated as shown in seating. 
+
+Case: 2 [If Tushar at extreme left end] [Eliminated] 
+
+Row-1 (Person) ↓ 
+Actors 
+Actors 
+Row-1 (Person) ↑ 
+
+Ajith 
+Nirmal 
+
+Karthi 
+Ranjith 
+
+Dhanush 
+Jeeva 
+Oviya 
+
+Tushar 
+Prabhu 
+Vijay 
+
+Xanil 
+
+Vijay 
+Parthiv 
+
+References: 
+
+One of the immediate neighbors of Mano faces the one who likes Arya. 
+
+Inferences: 
+
+From above information, 
+
+ 
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+•  Mano  and  Nirmal  can’t  be  the  neighbors  (consecutive  alphabetic  names)  as  per  the 
+condition. 
+
+• So Mano sits on the immediate right of Oviya and likes the actor Prasanth. One of the 
+immediate neighbors of Mano is Parthiv and Parthiv faces the one who likes Arya as per 
+given statement. 
+
+• Finally, Queen (last person in row-2) sits at extreme left end and likes Rajni. Thus we 
+get the following seating. 
+
+Xanil 
+
+Case: 1 [If Tushar at extreme right end] 
+Tushar 
+Prabhu 
+Karthi 
+Ajith 
+Rajni 
+Queen  Nirmal  Ranjith 
+
+Dhanush 
+Jeeva 
+Oviya 
+
+Vivek 
+
+Prasanth 
+Mano 
+
+Arya 
+Vijay 
+Parthiv 
+
+Row-1 (Person) ↓ 
+Actors 
+Actors 
+Row-1 (Person) ↑ 
+
+References: 
+
+Only three people sit between the one who like Vikram and Prabhu respectively. 
+
+Uma does not sit at an extreme end of the line. 
+
+The one who likes Kamal sits to the immediate right of Sriram. 
+
+Inferences: 
+
+From above information, 
+
+• In Row-1, Tushar likes Vikram and Vivek likes Prabhu (Only possibility with respect to 
+the condition) 
+
+•  Tushar  and  Uma  &  Uma  and  Vivek  can’t  be  the  neighbors  (consecutive  alphabetic 
+name) as per condition. Therefore Uma sits second to the left of Tushar. 
+
+•  Wasim  and  Vivek  can’t  be  the  neighbors  (consecutive  alphabetic  name)  as  per 
+condition. Therefore Wasim sits on the immediate left of Tushar. 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+• The one who likes Kamal sits to the immediate right of Sriram.  Here, Sriram likes the 
+actor Dhanush & Uma likes the actor Kamal. 
+
+• Finally, Xanil (last person in row-1) sits at extreme left end and likes the actor Arya. 
+
+• Finally, Nirmal likes the actor Surya and Wasim likes the actor Ajith. Nirmal & Wasim 
+are opposite each other. Thus we get the completed seating as shown.  
+
+Row-1 (Person) ↓ 
+Actors 
+Actors 
+Row-1 (Person) ↑ 
+
+Case: 1 [If Tushar at extreme right end] 
+Sriram 
+Tushar  Wasim 
+Dhanush 
+Ajith 
+Vikram 
+Jeeva 
+Surya 
+Rajni 
+Oviya 
+Queen  Nirmal 
+
+Uma 
+Kamal 
+Karthi 
+Ranjith 
+
+Vivek 
+Prabhu 
+Prasanth 
+Mano 
+
+Xanil 
+Arya 
+Vijay 
+Parthiv 
+
+Explanations: 
+
+116. 
+
+Following Common explanation, we get "Wasim - Ajith". 
+
+Hence, option B is correct. 
+
+117. 
+
+Following Common explanation, we get 'Surya-Nirmal' is the odd one out here. 
+
+Remaining  4  actors  are  liked  by  the  person,  who  sits  at  any  of  the  4  extremes  of  two 
+rows.  
+
+Hence, option C is correct. 
+
+118. 
+
+The following Common explanation, we get “Sriram-Dhanush". 
+
+Hence, option C is correct. 
+
+119. 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The following Common explanation, we get "None of the above". 
+
+Hence, option E is correct. 
+
+120. 
+
+In the following Common explanation it is clear that Wasim sits immediate right of the 
+person who sits opposite to Ranjith. 
+
+Hence, option B is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set-25 
+
+Common explanation 
+
+Reference: 
+
+The  total  number  of  rows  does  not  exceed  7  and  the  total  number  of  seats  was  five 
+times the total number of rows. 
+
+The  number  of  persons  to  the  right  of  Hema  who  was  at  seat  number  3  in  the  row 
+number 5 was 1 more than the total number of rows. 
+
+Tina was seated at the left most seat in the last row, which was not prime numbered. 
+
+There were three seats between Saba and Tina. 
+
+Inference: 
+
+With  reference  to  the  first  three  hints  it  is  clear  that  the  total  number  of  rows  was  a 
+composite more than 5 but less than 7. 
+
+So, the total number of rows will be 6 and total number of seats will be 30. 
+
+The number of persons to the right of Hema will be 7. 
+
+Seat number→ 
+Row number↓ 
+1 
+2 
+3 
+4 
+5 
+6 
+
+Reference: 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Total number of 
+seats 
+
+Hema 
+
+Tina 
+
+Saba  NA  NA  NA  NA  NA 
+
+Grand Total 
+
+10 
+5 
+30 
+
+Mihir’s row number and seat number were same and it was an even prime number. 
+
+Ranu sits second to the left of Shreya. 
+
+Shreya is on the immediate right of Sanu who sits in row number 4. 
+
+Total number of persons in the top 3 farthest rows (from screen) was equal to 18. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Inference: 
+
+The only even prime number from 1 to 6 is 2, So, Mihir’s row number and seat number 
+will be 2. 
+
+The top 3 farthest rows are row numbers 4,5 and 6. 
+
+Sum of the seats in row number 5 and 6 is 15, thus there must be only 3 seats in row 4. 
+
+Seat number→ 
+Row number↓ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9  10 
+
+Total 
+number of 
+seats 
+
+1 
+2 
+3 
+4 
+5 
+6 
+
+Mihir 
+
+Ranu  Sanu  Shreya  NA  NA  NA  NA  NA  NA  NA 
+
+Hema 
+
+Tina 
+
+Saba  NA  NA  NA  NA  NA 
+
+Grand Total 
+
+3 
+10 
+5 
+30 
+
+Reference: 
+
+Kavya was on the last seat of the first row. 
+
+The total number of persons in row 1 was thrice of the total number of persons in row 
+4. 
+
+Shagun was seated in an odd numbered row except row 1. 
+
+Inference: 
+
+As  total number  of  persons  in  row  4  are  3,  so  as  per  the  second  hint total  number of 
+persons in row 1 would be 9 and Kavya sits at seat number 9. 
+
+The only odd numbered row from 1 to 3 except row 1 is row 3, thus Shagun sits in row 
+3. 
+
+Thus we get all the 30 seats. 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Seat number→ 
+Row number↓ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+1 
+
+2 
+3 
+
+4 
+5 
+6 
+
+Mihir 
+Shagun  NA 
+
+NA 
+NA 
+
+NA  NA  NA  NA  NA  NA  NA 
+NA  NA  NA  NA  NA  NA  NA 
+
+Ranu 
+
+Sanu  Shreya  NA  NA  NA  NA  NA  NA  NA 
+
+Kavya  NA 
+
+Hema 
+
+Tina 
+
+Saba  NA  NA  NA  NA  NA 
+
+Grand Total 
+
+Total 
+ number  
+of seats 
+
+9 
+
+2 
+1 
+
+3 
+10 
+5 
+30 
+
+Explanations: 
+
+121. 
+
+The total number of seats in the multiplex was 30. 
+
+Hence option C is correct. 
+
+122. 
+
+Seat number of Kavya is 9 and seat number of Sanu is 2. 
+
+Required difference = 7. 
+
+Hence option D is correct. 
+
+123. 
+
+Shagun sits immediately ahead of Ranu. 
+
+Hence option A is correct. 
+
+124. 
+
+Sanu is the one who sits on an even numbered seat among the given options. Thus the 
+odd one out. 
+
+Hence option E is correct. 
+
+125. 
+
+The total number of persons in the top two nearest rows (row number 1 and 2) is 11. 
+
+Hence option B is correct 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

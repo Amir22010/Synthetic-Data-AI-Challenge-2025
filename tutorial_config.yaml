@@ -1,0 +1,252 @@
+# Logical Reasoning Training Configuration for Synthetic Data Kit
+
+# Global paths configuration
+paths:
+  input: "data/input"           # Source PDFs and text files
+  output:
+    parsed: "data/parsed"       # Extracted text files (.txt)
+    generated: "data/generated" # Generated QA pairs and CoT (.json)
+    curated: "data/curated"     # Quality-filtered data (.json)
+    final: "data/final"         # Training-ready format (.json)
+
+# LLM Provider configuration
+llm:
+  provider: "vllm"
+
+# vLLM server configuration
+vllm:
+  api_base: "http://localhost:8001/v1"
+  port: 8001
+  model: "Unsloth/Llama-3.3-70B-Instruct"
+  max_retries: 3
+  retry_delay: 1.0
+  sleep_time: 0.1   # Small delay between batches to avoid rate limits
+
+# Document processing configuration
+ingest:
+  default_format: "txt"
+  youtube_captions: "auto"
+
+# LLM generation parameters optimized for logical reasoning
+generation:
+  temperature: 0.7   # Balanced creativity for reasoning problems
+  top_p: 0.95
+  
+  # Document processing strategy
+  processing_strategy: "auto"
+  single_call_max_size: 8000
+  
+  # Chunking parameters for large documents
+  chunk_size: 4000   # Good size for logical reasoning content
+  overlap: 300       # Maintain context between chunks
+  
+  # Content generation targets
+  # num_pairs: 167      # QA pairs per document/chunk
+  # num_cot_examples: 50  # Chain of Thought examples per document/chunk
+  
+  # Model parameters
+  max_tokens: 4096   # Allow detailed explanations
+  batch_size: 16     # Reasonable batch size for reasoning tasks
+  
+  # Quality settings
+  enable_deduplication: true
+  similarity_threshold: 0.85  # Remove very similar problems
+
+# Content curation parameters - stricter for reasoning quality
+curate:
+  threshold: 7.5     # Higher threshold for logical reasoning quality
+  batch_size: 5      # Smaller batches for more careful evaluation
+  inference_batch: 5
+  temperature: 0.1   # Low temperature for consistent quality ratings
+
+# Format conversion parameters
+format:
+  default: "alpaca"  # Use Alpaca format for fine-tuning
+  include_metadata: true
+  pretty_json: true
+
+# Domain-specific prompts for Seating Arrangements and Blood Relations ONLY
+prompts:
+  # Summary generation for logical reasoning content
+  summary: |
+    Summarize this logical reasoning content in 3-5 sentences, focusing on:
+    1. The type of logical problems covered (Seating Arrangements and Blood Relations)
+    2. Key solving strategies for constraint satisfaction and relationship mapping
+    3. Important concepts and principles for logical deduction
+
+  # QA pair generation optimized for Seating Arrangements and Blood Relations
+  qa_generation: |
+    You are a highly intelligent AI with an IQ of 170, competing at the highest level of logical reasoning competitions. Your task is to create {num_pairs} exceptionally high-quality question-answer pairs focused ONLY on Seating Arrangements and Blood Relations.
+
+    CRITICAL COMPETITION REQUIREMENTS:
+    - EXCLUDE any questions about counting permutations, combinations, or numeric arrangements
+    - Every question must require genuine logical deduction and systematic reasoning
+    - Answers must demonstrate complete, step-by-step analytical thinking
+    - Ensure questions are challenging but fair, with unique logical insights required
+
+    SEATING ARRANGEMENTS FOCUS (Competition Level):
+    - Circular and Linear arrangements with complex multi-condition constraints
+    - Advanced constraint satisfaction requiring elimination of impossible configurations
+    - Sophisticated "who sits where?" problems with conditional positioning
+    - Problems requiring systematic testing of multiple scenarios
+    - Arrangements with relative positioning and geometric constraints
+
+    BLOOD RELATIONS FOCUS (Competition Level):
+    - Complex family trees with multiple marriages and extended relationships
+    - Multi-generational relationship chains requiring careful mapping
+    - Sophisticated kinship problems with half-siblings, step-relations, and adoptions
+    - Advanced relationship deduction through marriage and inheritance
+    - Problems requiring understanding of family hierarchies and generational logic
+
+    SUPERIOR QUALITY STANDARDS:
+    1. Each question must have ONE definitive correct answer reachable through logical deduction
+    2. Answers must show complete reasoning chain with systematic contradiction elimination
+    3. Progressive difficulty: 40% basic, 35% intermediate, 25% advanced
+    4. Questions must be original and test unique logical reasoning patterns
+    5. Answers must be comprehensive but concise, showing all necessary analytical steps
+
+    Return ONLY valid JSON in this exact format:
+    [
+      {{
+        "question": "In a circular arrangement of 8 people around a conference table, A must sit next to both B and C, but B and C cannot sit next to each other. D must sit opposite A, and E must sit next to D. Given these constraints, who cannot sit together under any circumstances?",
+        "answer": "Step 1: First, let me visualize the circular arrangement and systematically analyze each constraint. The circular table creates specific geometric relationships where each person has exactly two neighbors. Step 2: A's requirement to sit next to both B and C, while B and C cannot be adjacent, creates an immediate geometric challenge that severely limits possible arrangements. Step 3: D must sit directly opposite A, which fixes D's position exactly across from A in the circle. Step 4: E must sit next to D, limiting E to exactly two possible positions adjacent to D. Step 5: Testing all possible arrangements reveals that certain pairs create irresolvable conflicts. Step 6: Through systematic elimination of invalid configurations, we determine which specific pair cannot coexist while satisfying all given constraints.",
+        "difficulty": "advanced",
+        "domain": "seating_arrangements"
+      }},
+      {{
+        "question": "Sarah is the daughter of Michael's brother. Michael's father has a daughter named Anna who is older than Sarah. Anna's husband has a brother who is married to Sarah's aunt. How is Michael related to Anna's husband?",
+        "answer": "Step 1: Sarah is the daughter of Michael's brother, so Michael's brother is Sarah's father. Step 2: Michael's father has a daughter named Anna, so Anna is Michael's sister. Step 3: Anna's husband has a brother who is married to Sarah's aunt. Sarah's aunt is the sister of Sarah's mother. Step 4: Since Sarah's father is Michael's brother, Sarah's mother is Michael's sister-in-law. Step 5: Therefore, Sarah's aunt is Michael's wife's sister. Step 6: Anna's husband's brother is married to Michael's wife's sister, making Anna's husband and Michael brothers-in-law through their respective marriages.",
+        "difficulty": "intermediate",
+        "domain": "blood_relations"
+      }}
+    ]
+
+    Source Text:
+    {text}
+
+  # Chain of Thought generation for complex logical reasoning
+  cot_generation: |
+    You are a highly intelligent AI with an IQ of 170, competing at the highest level of logical reasoning competitions. Create {{num_pairs}} exceptionally complex problems with detailed chain-of-thought solutions focused ONLY on Seating Arrangements and Blood Relations.
+
+    CRITICAL COMPETITION REQUIREMENTS:
+    - EXCLUDE any questions about counting permutations, combinations, or numeric arrangements
+    - Every problem must require sophisticated multi-step logical analysis
+    - Solutions must demonstrate advanced systematic reasoning and contradiction elimination
+    - Problems should challenge even the most advanced analytical minds
+
+    SEATING ARRANGEMENTS PROBLEMS (Competition Level):
+    - Multi-condition circular arrangements with complex geometric constraints
+    - Advanced linear seating problems requiring sophisticated constraint satisfaction
+    - Problems with multiple conditional positioning requirements and relative placement
+    - Situations requiring systematic testing of numerous possible configurations
+    - Arrangements where multiple valid approaches must be considered and eliminated
+
+    BLOOD RELATIONS PROBLEMS (Competition Level):
+    - Intricate family trees with multiple marriages, divorces, and remarriages
+    - Complex multi-generational relationship chains requiring careful deductive mapping
+    - Sophisticated problems involving half-siblings, step-relations, and adoptions
+    - Advanced kinship scenarios with extended family relationships and inheritance
+    - Situations requiring understanding of family law, generational succession, and complex hierarchies
+
+    SUPERIOR QUALITY STANDARDS:
+    1. Each problem must have exactly ONE definitive solution reachable through logical deduction
+    2. Reasoning must demonstrate systematic elimination of all alternative possibilities
+    3. Solutions must show comprehensive understanding of geometric and relational constraints
+    4. Problems must require genuine analytical insight, not pattern recognition
+    5. Chain-of-thought must be methodical, thorough, and demonstrate exceptional logical rigor
+
+    Advanced Chain-of-Thought Structure:
+    - Systematically identify and categorize all given information and constraints
+    - Map out the complete problem space and all possible relationships/positions
+    - Test each possible scenario methodically, documenting why each fails or succeeds
+    - Demonstrate sophisticated contradiction identification and resolution
+    - Verify the final solution against every constraint with rigorous validation
+    - Show exceptional analytical depth that goes beyond surface-level reasoning
+
+    Return ONLY valid JSON:
+    [
+      {{
+        "question": "In a circular arrangement of 10 people around a prestigious conference table, A demands to sit next to both B and C, but B and C have an irreconcilable personal conflict and refuse to sit next to each other under any circumstances. D, who is A's business partner, must sit directly opposite A. E, D's personal assistant, must sit next to D. F is mediating between two specific executives. G has specific seating requirements relative to H. Given these complex interpersonal and positional constraints, demonstrate through systematic analysis which specific pair cannot be seated together in any valid arrangement.",
+        "reasoning": "Step 1: Let me systematically analyze this complex circular arrangement problem with multiple sophisticated constraints. The circular table of 10 positions creates specific geometric relationships where each person has exactly two neighbors and opposite positions are 5 seats apart. Step 2: A's requirement to sit next to both B and C, while B and C cannot sit next to each other, creates an immediate geometric challenge. In a circle, if A has two neighbors (B and C), then B and C would be adjacent unless positioned with A between them, but that would still make them neighbors. Step 3: This positioning creates a fundamental constraint that severely limits possible arrangements. The only way B and C can both be next to A without being next to each other is if they occupy positions that are not adjacent, but in a circle of 10, the geometric constraints make this extremely challenging. Step 4: D must sit directly opposite A, occupying the position exactly 5 seats away in either direction. This fixes D's position relative to A and creates a structural anchor for the arrangement. Step 5: E must sit next to D, limiting E to exactly two possible positions adjacent to D's fixed location. Step 6: F's mediating role and G's specific requirements relative to H create additional complex constraints that further restrict the possible arrangements. Step 7: Testing all mathematically possible arrangements (considering the circular nature and fixed positions) reveals that certain pairs create irresolvable conflicts. Step 8: Through systematic elimination of invalid configurations, we can determine which specific pair cannot coexist in any valid arrangement while satisfying all given constraints.",
+        "answer": "Based on the sophisticated geometric constraints of the 10-person circular table and the complex interpersonal requirements, B and C cannot sit together under any circumstances because their positioning would create an irresolvable conflict with A's dual adjacency requirement, B and C's separation constraint, D's opposite positioning, E's adjacency to D, and F and G's specific requirements.",
+        "domain": "seating_arrangements"
+      }},
+      {{
+        "question": "Dr. Sarah Mitchell is the daughter of Professor Michael's older brother. Professor Michael's father, who was a renowned academic, has a daughter named Dr. Anna Thompson who is exactly five years older than Sarah. Dr. Anna Thompson's husband, Mr. Robert Thompson, has a brother who is married to Sarah's maternal aunt. Sarah's maternal aunt has a son who completed his doctorate at the same university where Michael's nephew is currently pursuing his master's degree. Michael's sister married into a prominent legal family. Given this intricate web of academic, professional, and familial relationships spanning multiple generations and involving complex marital connections, determine through systematic deductive analysis how Michael is related to Robert Thompson.",
+        "reasoning": "Step 1: Let me systematically map out this complex multi-generational family relationship network with academic and professional connections. Sarah is the daughter of Michael's brother, establishing that Michael's brother is Sarah's father. Step 2: Michael's father has a daughter named Anna who is five years older than Sarah. This establishes Anna as Michael's sister and provides crucial generational timing information. Step 3: Anna's husband is Robert Thompson, making Robert Michael's brother-in-law through marriage. Step 4: Robert has a brother who is married to Sarah's maternal aunt. Sarah's maternal aunt is the sister of Sarah's mother. Step 5: Since Sarah's father is Michael's brother, Sarah's mother is Michael's sister-in-law. Therefore, Sarah's maternal aunt is Michael's wife's sister. Step 6: Robert's brother is married to Michael's wife's sister, creating a complex marital relationship between the two families. Step 7: The academic connections provide additional verification: Sarah's cousin (son of her maternal aunt) completed his doctorate at the same university where Michael's nephew studies, confirming the family connections. Step 8: Michael's sister married into a legal family, providing additional context but not directly affecting the relationship to Robert. Step 9: Through systematic tracing of each relationship chain and verification against known connections, we can determine the precise relationship between Michael and Robert Thompson.",
+        "answer": "Michael is the brother-in-law of Robert Thompson because Michael's sister Anna is married to Robert, making Robert Michael's brother-in-law through direct marital connection.",
+        "domain": "blood_relations"
+      }}
+    ]
+
+    Source Text:
+    {text}
+  
+  # Quality rating prompt for logical reasoning content
+  qa_rating: |
+    You are a highly intelligent AI with an IQ of 170, serving as an elite examiner for prestigious logical reasoning competitions worldwide. Your task is to rigorously evaluate question-answer pairs with the highest standards of analytical excellence.
+
+    RATE each logical reasoning question-answer pair on a scale from 1-10 using these COMPETITION-LEVEL CRITERIA:
+
+    ACCURACY & LOGICAL VALIDITY (0-3 points):
+    - Is the logical reasoning completely sound and free from any errors or fallacies?
+    - Are all deductive steps mathematically and logically rigorous?
+    - Is the final answer definitively correct based on the given constraints?
+    - Does the solution demonstrate complete understanding of geometric/relational principles?
+
+    REASONING SOPHISTICATION (0-3 points):
+    - Does the solution demonstrate advanced systematic analytical thinking?
+    - Are multiple scenarios properly tested and contradictions systematically eliminated?
+    - Does the reasoning show exceptional depth beyond surface-level analysis?
+    - Is the problem-solving approach worthy of top-tier competition standards?
+
+    PROBLEM QUALITY (0-2 points):
+    - Is the question genuinely challenging and requiring superior analytical insight?
+    - Does it test sophisticated logical concepts rather than rote patterns?
+    - Is the problem original and not a trivial variation of common problems?
+    - Does it effectively discriminate between different levels of reasoning ability?
+
+    SOLUTION CLARITY & COMPLETENESS (0-2 points):
+    - Is every reasoning step clearly articulated with complete sentences?
+    - Does the explanation demonstrate comprehensive understanding?
+    - Is the solution elegant and demonstrates mastery of the subject matter?
+    - Would this solution impress judges at a national-level reasoning competition?
+
+    COMPETITION SUITABILITY (1-10 TOTAL):
+    - 9-10: Exceptional - worthy of international competition finals
+    - 7-8: Excellent - suitable for national-level competitions
+    - 5-6: Good - appropriate for advanced training
+    - 3-4: Fair - needs significant improvement
+    - 1-2: Poor - fundamental flaws in logic or clarity
+
+    CRITICAL REQUIREMENTS:
+    - Be extremely strict in your evaluation - only truly exceptional reasoning deserves high scores
+    - Penalize heavily for any logical errors, incomplete reasoning, or unclear explanations
+    - Reward sophisticated analytical depth and systematic problem-solving approaches
+    - Ensure the rating reflects competition-level standards, not casual problem-solving
+
+    YOU MUST RETURN VALID JSON WITH THIS EXACT SCHEMA:
+    {{
+      "question": "Exact question text",
+      "answer": "Exact answer text",
+      "rating": 8
+    }}
+
+    OR FOR MULTIPLE PAIRS:
+    [
+      {{
+        "question": "Exact question text 1",
+        "answer": "Exact answer text 1",
+        "rating": 9
+      }},
+      {{
+        "question": "Exact question text 2",
+        "answer": "Exact answer text 2",
+        "rating": 7
+      }}
+    ]
+
+    *** RETURN ONLY JSON - NO EXPLANATION OR MARKDOWN ***
+
+    Evaluate these QA pairs with competition-level rigor:
+    {pairs}

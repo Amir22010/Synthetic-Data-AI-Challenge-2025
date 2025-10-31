@@ -1,0 +1,7067 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INDEX 
+
+SET NO. 
+
+PAGE NO. 
+
+SET - 1 
+
+SET - 2 
+
+SET - 3 
+
+SET - 4 
+
+SET - 5 
+
+SET - 6 
+
+SET - 7 
+
+SET - 8 
+
+SET - 9 
+
+SET - 10 
+
+SET - 11 
+
+SET - 12 
+
+SET - 13 
+
+SET - 14 
+
+SET - 15 
+
+SET - 16 
+
+SET - 17 
+
+SET - 18 
+
+SET - 19 
+
+SET - 20 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+ 
+Warning:  Smartkeeda  possesses  all  copyrights  on  its  content.  This  doesn’t  allow  anyone  to  use  its 
+content  for  commercial  purposes.  If  any  infringement  is  found,  legal  action  will  be  taken  against  the 
+individual  or  entity.  If  you  want  to  use  the  content  for  commercial  purposes,  kindly  write  to  us  at 
+admin@smartkeeda.com 
+
+100 Seating Arrangement Questions for Bank Exams. 
+(Level : Easy to Moderate) 
+
+Set – 1 
+
+Directions: Study the following information carefully and answer the questions given beside. 
+
+There are eight persons - Mita, Niya, Om, Pari, Qiya, Rati, Shri and Tiya. All of them are sitting 
+in a straight row and are facing in the South direction but not necessarily in the same order. 
+There are only two persons between Rati and Pari. The number of persons between Qiya and 
+Mita is  same as  the number of persons between Pari and Shri. Om is  not a neighbor of Shri 
+who is immediate left of Niya. Qiya is second to the left of Rati who is fourth from the right 
+corner. Mita sits at any corner of the row. Tiya sits immediate right of Qiya. 
+
+1. 
+
+How many persons are seated to the left of Niya?  
+
+A. One  
+
+B. Three 
+
+C. Four  
+
+D. Six 
+
+E. None of these 
+
+2. 
+
+Four of the following five are alike in some way and thus form a group. Which of the 
+following does not belong to the group? 
+
+A. Om   
+
+B. Rati   
+
+C. Shri   
+
+D. Qiya  
+
+E. Pari 
+
+3.  Who among the following is/are immediate  neighbour(s) of Qiya? 
+
+A. Tiya  
+
+B. Om   
+
+C. Both A and B 
+
+D. Either A or B 
+
+E. Shri 
+
+4.  Who among the following sits second to the left of the person who sits third from the 
+
+right end? 
+
+A. Mita  
+
+B. Tiya   
+
+C. Pari   
+
+D. Niya  
+
+E. None of these 
+
+5.   Who among the following sits third to the left of Rati? 
+
+A. Om   
+
+B. Pari   
+
+C. Niya  
+
+D. Mita  
+
+E. None of these 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 2 
+
+Nine persons Anu, Bablu, Cheenu, Dona, Esha, Faria, Gaurav, Harish and Ishita are sitting in a 
+row and all are facing north. It is known that Cheenu sits exactly in the middle and there is no 
+person to the right of Ishita. Dona is fourth to the right of Faria. Gaurav and Harish are sitting 
+next to each other. Esha is the neighbor of Dona but not of Cheenu. 
+
+Harish  doesn't  sit  at  any  extreme  corner.Dona  is  not  sitting  adjacent  to  either  Cheenu  or 
+Ishita.Anu is second to the right of Harish. 
+
+6.  Who is sitting to the immediate left of Cheenu? 
+
+A. Faria 
+
+B. Anu   
+
+C. Harish 
+
+D. Dona 
+
+E. None of these 
+
+7.  Who is sitting between Bablu and Esha? 
+
+A. Dona 
+
+B. Faria 
+
+C. Gaurav 
+
+D. Cheenu 
+
+E. None of these 
+
+8. 
+
+Four of the following five are alike in a certain way and thus forms a group. Which of 
+the following does not belong to that group? 
+
+A. Gaurav and Harish  B. Cheenu and Bablu  C. Faria and Gaurav  D. Dona and Esha 
+
+E. Esha and Ishita 
+
+9.  Who is sitting third to the right of Harish? 
+
+A. Bablu 
+
+B. Dona 
+
+C. Faria 
+
+D. Cheenu 
+
+E. None of these 
+
+10.   Who is sitting at the left most seat of the row? 
+
+A. Faria 
+
+B. Bablu 
+
+C. Gaurav 
+
+D. Dona 
+
+E. None of these 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 3 
+
+Ten friends Shiv, Anant, Rajat, Ankit, Vishal, Vijay, Shivam, Sanju, Karan and Tappu sit around a 
+rectangular  table  such  that  two  persons  sit  along  each  length  of  the  table,  one  person  sits 
+along each breadth of the table and one person sits at the corner. Each of them faces towards 
+the table. 
+
+Anant, Vishal and Tappu sit in the same row. 
+Shiv and Vijay sit in the same row. 
+Vishal and Karan sit at the corner but they do not sit in the same row. 
+Shivam  sits  opposite  to  Sanju  and  Anant  sits  opposite  to  Ankit  but  none  of  them  sits  at  the 
+corner and exactly two of them sit along the length. 
+Sanju sits third to the right of Karan and is adjacent to Vijay. 
+Vishal is not a neighbour of Vijay. 
+
+11.  Who sits to the immediate left of Vijay? 
+
+A. Shiv  
+
+B. Anant 
+
+C. Sanju 
+
+D. Karan 
+
+E. None of these 
+
+12. 
+
+Four of the following five are alike in some way and hence form a group. Which of the 
+following is the one that does not belong to the group? 
+
+A. Shivam 
+
+B. Karan 
+
+C. Sanju 
+
+D. Rajat 
+
+E. Tappu 
+
+13.  Who among the following was sitting third to the left of Shivam? 
+
+A. Ankit 
+
+B. Vishal 
+
+C. Shiv  
+
+D. Anant 
+
+E. None of these 
+
+14.  What is the minimum number of persons sitting between Tappu and Shivam? 
+
+A. Zero  
+
+B. Three 
+
+C. One  
+
+D. Two  
+
+E. More than three 
+
+15.   Who among the following was sitting second to the right of Rajat? 
+
+A. 1990 
+
+B. 1977 
+
+C. 1982 
+
+D. 2002 
+
+E. None of these 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 4 
+
+Eight boxes of different colors viz. Red, Black, White, Yellow, Violet, Brown, Grey and Pink are 
+placed  at  equidistance  on  a  circular  table  facing  the  centre,  but  not  necessarily  in  the  same 
+order. Their weights (in kg) are – 19, 23, 26, 28, 31, 38, 43 and 49, again not necessarily in the 
+same order.  
+
+Black box is third to the left of the box weighing 38 kg. Grey box is third to the left of Yellow 
+box.  The  box  weighing  38  kg  is  a  neighbor  of  both  Brown  box  and  Grey  box.  Brown  box  is 
+second to the left of Grey box. Pink box is second to the right of Red box. Box weighing 49 kg is 
+second to the left of Violet box. Only one box is there between Yellow and White boxes. Black 
+box which is the fourth highest weighted box in the group is immediately heavier than Violet 
+box but immediately lighter than Red box. White box is neither the heaviest nor the lightest. 
+Yellow box is of 26 kg. Pink box’s weight is not an even number. The box weighing 26 kg and 19 
+kg are not immediate neighbors. The sum of White box and Brown box is 62 kg. 
+
+16.  Which among the following boxes is placed between the box weighing 38 kg and the 
+
+pink box? 
+
+A. Anand 
+
+B. Dharam 
+
+C. Eshan 
+
+D. Chitresh 
+
+E. None of these 
+
+17. 
+
+If  the  positions  of  Brown  and  Grey  boxes  are  interchanged  then  which  among  the 
+following is true? 
+I. Grey box is third to the right of the box weighing 26 kg. 
+II. The immediate neighbours of Brown box are Red and Violet box. 
+III. Grey box is fourth to the left of Pink box. 
+
+A. Only I 
+
+B. Only II 
+
+C. Either I or III 
+
+D. Both II and III 
+
+E. All, I, II and III 
+
+18. 
+
+Four of the following five are alike in a certain way and hence form a group. Which of 
+the following does not belong to the group? 
+
+A. Grey Box 
+
+B. Brown Box   
+
+C. Black Box 
+
+D. Red Box 
+
+E. White Box 
+
+19.  Sum of the weight of which of the following pairs comes to 74 kg? 
+
+A. Black and Grey 
+
+B. Brown and Violet  C. Black and white 
+
+D. Red and white 
+
+E. Brown and Grey 
+
+20.   Which of the following boxes is the third lightest? 
+
+A. The box which is at immediate left of violet box 
+C. The box which is third to the right of Brown box      D. Pink box    
+
+    B. The box which is third to the right of the heaviest box 
+
+E. None of these 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 5 
+
+Eight persons- A, B, C, D, P, Q, R and S are sitting in a row in which some of them are facing 
+north while some of them are facing south. Only 3 persons sit to the left of R. 3 persons sit 
+between R and Q. B is 2nd to the left of Q. More than 2 people’s sits between B and S, D is 2nd 
+to the left of S. Neighbours of R are facing south. Neighbours of P face the same direction. C is 
+2nd  to  the  right  of  A.  A  and  P  face  opposite  directions  and  similarly  B  and  Q  face  opposite 
+directions too. 
+
+21.  How many person(s) sits to left of P?  
+
+A. 1 
+
+B. 2 
+
+C. 3 
+
+D. 4 
+
+           E. Can’t be determined  
+
+22.  Who among the following is third to the right of B? 
+
+A. R 
+
+B. C 
+
+C. D 
+
+D. A 
+
+           E. Can’t be determined 
+
+23.  Which of the following combinations correctly show the neighbour(s) of D? 
+
+A. S 
+
+B. R, C   
+
+C. Q 
+
+D. P, R   
+
+           E. Can’t be determined 
+
+24.  Who among the following sits at the extreme left end of the row? 
+
+A. R 
+
+B. S 
+
+C. Q 
+
+D. A 
+
+          E. Can’t be determined 
+
+25.   How many person(s) sits between D and A? 
+
+A. 1 
+
+B. 2 
+
+C. 3 
+
+D. 4 
+
+           E. Can’t be determined 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 6 
+
+Certain number of persons sitting in a linear row and all of them are facing in north direction. 
+Only ten persons sit to the left of E. F sits eight to the left of E. The person A sits fourth to the 
+right of B. C sits to the immediate left of D. D sits third from the extreme right end of the row. 
+Number of person sit between E and D is same as B and E. Only six people sit between A and C. 
+
+26.  How many seats are there in the linear row? 
+
+A. 21 
+
+B. 23 
+
+C. 17 
+
+D. 19 
+
+E. None of these 
+
+27.  What is the position of C with respect to E? 
+
+A. Third to the right  B. Seventh to the left  C. Ninth to the left 
+
+D. Fifth to the right 
+
+E. None of these 
+
+28.  How many seats are there between A and E? 
+
+A. None 
+
+B. Only 1 
+
+C. Only 2 
+
+D. Only 3 
+
+E. None of these 
+
+29.  Four of the following five are alike in a certain way and thus form a group. Which of 
+
+the following does not belong to the group? 
+
+A. F 
+
+B. D 
+
+C. B 
+
+D. E 
+
+E. C 
+
+30.   How many seats are there to the left of B? 
+
+A. Three 
+
+B. Two  
+
+C. Four  
+
+D. Six 
+
+E. Seven 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 7 
+
+Vicky, Sonu, Nupur, Kumar, Vikas, Nonu, Ela and Kusum are sitting around a circular table but 
+not necessarily in the same order. Not all are facing the centre. Immediate neighbours facing 
+the  same  direction  means  if  one  neighbour  faces  the  centre  then  the  other  neighbour  also 
+faces  the  centre  and  if  one  neighbour  faces  outward  then  the  other  neighbour  also  faces 
+outward. Immediate neighbour faces the opposite direction means if one neighbour faces the 
+centre then the other neighbour faces outward and vice versa. 
+
+Vicky sits third to the right of Vikas. Vicky is not an immediate neighbour of either Ela or Sonu. 
+Kumar and Vicky face the direction same as that of Vikas. 
+Only one person sits between Sonu and Nonu. Kusum sits third to the right of Nonu. 
+Kumar sits on the immediate right of Kusum. Kusum faces outward. 
+Nupur sits second to the left of Ela. Ela is not an immediate neighbour of Nonu. 
+Nupur  faces  a  direction  opposite  that  of  Nonu.  The  immediate  neighbours  of  Nupur  face 
+opposite direction. 
+
+31. 
+
+Four of the following five are alike in a certain way based on the directions they are 
+forming and so form a group. Which is the one that does not belong to that group? 
+
+A. Sonu, Nupur 
+
+B. Kusum, Kumar 
+
+C. Ela, Kusum   
+
+D. Vikas, Vicky  
+
+E. Nonu, Vikas 
+
+32.  Who among the following sit exactly between Kusum and Nonu when counted from 
+
+the right of Kusum? 
+
+A. Ela and Vicky 
+
+B. Kumar and Ela 
+
+C. Nupur and Sonu  D. Vicky and Kumar  E. None of these 
+
+33.  What is Nupur’s position with respect to Vikas? 
+
+A. Immediate right 
+
+B. Third to the right  C. Second to the right D. Third to the left 
+
+E. None of these 
+
+34.  Who amongst the following are immediate neighbours of Ela? 
+
+A. Kumar and Vikas  B. Sonu and Kumar  C. Vicky and Kusum  D. Vikas and Sonu 
+
+E. None of these 
+
+35.   Which of the following persons is sitting fourth to right of Sonu? 
+
+A. Vikas 
+
+B. Kumar 
+
+C. Sonu 
+
+D. Nonu 
+
+E. None of these 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 8 
+Eight persons S, T, U, V, W, X , Y and Z are sitting (not necessarily in the same order) around a 
+circular table facing the centre in the ‘Central Library’. All of them like different novelists viz. 
+Arvind Adiga, Chetan Bhagat, Jhumpa Lahiri, Amish Tripathi, Amitav Ghosh , Ruskin Bond, V.S. 
+Naipaul and Arundhati Roy but not necessarily in the same order. 
+
+  The one who likes Chetan Bhagat is  to  the immediate right  of W and W  does  not like 
+
+Arvind Adiga. 
+
+  T is sitting fourth to the right of Z. 
+  X   likes  Amish  Tripathi  and  is  sitting  third  to  the  right  of  the  one  who  likes  Chetan 
+
+Bhagat. 
+
+  The one who likes Ruskin Bond is sitting second to the left of the one who likes Amish 
+
+Tripathi. 
+
+  The one who likes V.S. Naipaul is sitting second to the left of W. 
+  S who likes Jhumpa Lahiri is sitting exactly between X and Z. 
+  The  one  who  likes  Amitav  Ghosh  is  sitting  second  to  the  right  of  the  one  who  likes 
+
+Jhumpa Lahiri. 
+
+  U is sitting third to the left of X. 
+  W is sitting third to the left of Y. 
+  Neither T nor Z is an immediate neighbour of W. 
+
+36.  What is the position of the one who likes Jhumpa Lahiri with respect to the one likes 
+
+Ruskin Bond? 
+
+A. Second to the left 
+D. Fifth from the right  
+
+B. Third to the right 
+E. Fourth to the left 
+
+C. Sixth from the left 
+
+37.  Which of the following novelists is liked by W? 
+
+A. Amitav Ghosh 
+
+B. Ruskin Bond 
+
+C. Either A or B 
+
+D. Arundhati Roy 
+
+E. None of these 
+
+38.  How  many  persons  are  sitting  between  U  and  the  one  who  likes  Amitav  Ghosh,  when 
+
+counted from the left of latter? 
+
+A. One  
+
+B. Two  
+
+C. Three 
+
+D. Four  
+
+E. More than four 
+
+39.  X is related to Arundhati Roy in a way, S is related to Chetan Bhagat in the same way 
+
+then who is related to Arvind Adiga in the same way? 
+
+A. V 
+
+B. T 
+
+C. Z 
+
+D. Can't be determined        E. None of these 
+
+40.   Which of the following combinations is wrongly matched? 
+
+A. U – Chetan Bhagat   
+D. W – Arundhati Roy  
+
+B. V – Amitav Ghosh 
+E. All are correctly matched 
+
+C. T – Arvind Adiga 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 9 
+
+Eight  persons  –  A,  B,  C,  D,  E,  F,  G,  and  H  are  sitting  in  a  straight  line  facing  north.  All  have 
+different  ages  (in  years)  –  7,  10,  13,  18,  28,  30,  36,  and  42  but  not  necessarily  in  the  same 
+order. 
+
+G is sitting second to left of the one who is 18 years old. Two persons are sitting between G 
+and B. Person having age 13 is sitting immediate right of B. D is immediate neighbor of B. G is 
+as much younger than D as he is older than H. None of G, H, and D  are sitting immediate to 
+one another. C is sitting third to right of the one who is 7 years old. A is sitting second to right 
+of the one who is 36 years old. At least three persons are sitting between G and A. F is sitting 
+third to right of the one who is 10 years older than him. A is not the oldest. 
+
+41. 
+
+A. A 
+
+Four of the following five are alike and thus form a group. Which is the one that does 
+not belong to the group? 
+
+B. E 
+
+C. G 
+
+D. D 
+
+E. F 
+
+42.  What is the position of the one whose age is 28 years with respect to the one who is 
+
+the oldest among all? 
+
+A. Second to the left  B. Third to the left 
+
+C. Second to the right D. Third to the right  E. Immediate left 
+
+43.  Who among the following sit(s) at the extreme end? 
+
+A. H 
+
+B. B 
+
+C. A 
+
+D. Both B and C 
+
+E. Both A and C 
+
+44.  What is the difference between the ages of D and C? 
+
+A. 20 
+
+B. 29 
+
+C. 8 
+
+D. 15 
+
+E. 30 
+
+45.   Who among the following is 30 years old? 
+
+A. C 
+
+B. G 
+
+C. A 
+
+D. F 
+
+E. None of these 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 10 
+
+Six vessels were placed in a row. The vessels were named A, B, C, D, E and F. They contained 
+different volumes of Milk from 1 to 6 liters but not necessarily in the same order. The vessels 
+are differentiated with respect to following colors Blue, Green, Red, Black, Purple and Yellow 
+but not necessarily in the same order. Consider all the vessels were facing north direction. 
+
+The vessel F was third to the right of Black colored vessel. 
+
+The Purple colored vessel had the thrice the volume of Milk as in the Vessel E. 
+
+The vessel D was placed exactly between the Red colored vessel and the vessel A. 
+
+The Green vessel had 4 liters of Milk and it was at either of the extreme ends. 
+
+Total volume of Milk in the vessel F and the volume of Milk to its immediate right were equal 
+to the volume of Milk in the vessel A. 
+
+The vessel D and the vessel E were at a gap of two vessels. 
+
+The vessel C was second to the left of the vessel having 6 liters of Milk. 
+
+The vessel D had 3 liters of Milk. 
+
+The Blue vessel had more volume of Milk then vessel E. 
+
+46.  Which among the following vessels has 6 liters Milk? 
+
+A. Blue colored vessel  
+D. Purple colored vessel  
+
+B. Yellow colored vessel 
+E. Can't be determined 
+
+C. Black colored vessel 
+
+47.  Which among the following vessels is placed 2nd to the left of Purple colored vessel? 
+
+A. The vessel with 2 liters Milk 
+D. Vessel E 
+
+B. Vessel C 
+E. Can't be determined 
+
+C. The vessel with 3 liters Milk 
+
+48.  How much liters of milk is there in the Black colored vessel? 
+
+A. 1 liter 
+
+B. 2 liters 
+
+C. 5 liters 
+
+D. 3 liters 
+
+           E. Can't be determined 
+
+49.  How many vessels are placed between Yellow and Blue colored vessel? 
+
+A. None 
+
+B. Three 
+
+C. One  
+
+D. Two  
+
+           E. Can't be determined 
+
+50.   What is the sum of the quantity of Milk in Yellow and Black colored vessel? 
+
+A. 7 liters 
+
+B. 9 liters 
+
+C. 8 liters 
+
+D. 11 liters 
+
+E. None of these 
+
+ 
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 11 
+
+Eight  friends  Ekansh,  Idenya,  Madhav,  Rahman,  Sadyant,  Ojasya,  Charan  and  Tanaya  are 
+seated  on  a  circular  table.  Some  of  them  face  towards  the  centre  and  some  of  them  face 
+outside  the  centre.  Each  of  them  likes  different  colours  such  as  Green,  Cyan,  Brown,  Black, 
+Indigo, Blue, White and Maroon. All the given information is not necessarily in the same order. 
+
+The person who  likes  White and Blue sits opposite to  each other and they do  not face each 
+other. Charan sits second to the left of Rahman. Idenya sits second to the right of Madhav who 
+is a neighbour of the one who likes Cyan. Rahman and Sadyant sit opposite to each other and 
+neither of them likes Cyan. Ekansh sits second to the right of Idenya. Rahman and Ojasya are 
+immediate  neighbors.  Not  more  than  two  persons  face  the  same  direction  sit  together.  The 
+person  who  likes  Maroon  sits  second  to  the  left  of  Sadyant.  The  immediate  neighbours  of 
+Madhav  face  same  direction.  The  person  who  likes  White  sits  immediate  to  the  right  of 
+Sadyant.  Charan  likes  Maroon  color.The  person  who  likes  Blue  faces  outside  the  circle.  The 
+person who likes Black sits second to the right of Ekansh. The one who likes Indigo and Green 
+are immediate neighbours. Rahman do not like Brown. The one who likes Maroon sits third to 
+the right of person who likes Green. Ojasya and Charan face the same direction. 
+
+51.  Who among the following persons sit second to the right of one who sits third to the 
+
+left of Madhav? 
+
+A. Charan 
+
+B. Tanaya 
+
+C. Ojasya 
+
+D. Rahman 
+
+           E. Can't be determined 
+
+52.  Who among the following persons sit second to the left of the one who likes Cyan? 
+
+A. The one who likes Black  
+D. The one who likes Brown    
+
+B. The one who likes White  
+E. Can't be determined 
+
+C. The one who likes Maroon  
+
+53. 
+
+Four of the following five are alike in a certain way and hence form a group. Which of 
+the following does not belong to the group? 
+
+A. The one who likes Maroon  
+D. The one who likes Cyan  
+
+B. Ekansh  
+E. Ojasya 
+
+C. The one who likes White  
+
+54.  How many persons sit between the person who likes Indigo and the person who likes 
+
+Green (when counted clockwise direction from Green)? 
+
+A. Six 
+
+B. Five   
+
+C. Four  
+
+D. None 
+
+E. Three 
+
+55.   Who among the following persons sit between the one who likes White and Black ? 
+
+A. Sadyant  
+
+B. Tanaya  
+
+C. Madhav  
+
+D. Idenya  
+
+E. Charan 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 12 
+Prince,  Qamir,  Rohit,  Sohan,  Tony,  Umesh,  Vinod  and  Wahid  went  to  a  theatre  to  watch  a 
+movie “GOLD”. They were seated in a straight row facing towards the screen which was in the 
+north direction. The total bill of all 8 tickets was Rs. 500 and was split among them unevenly 
+such that no two persons paid the same amount. 
+
+Prince was 4th to the left of the one who paid Rs. 39 which is not the least paid amount. 
+The one who paid Rs. 79 was neighbouring Tony. 
+Rohit was immediate right of the one who paid half of the amount paid by Vinod. 
+
+Sum of the amount paid by Prince and Qamar was Rs. 160, where the amount paid by Prince is 
+a perfect square between 30 and 90 and the amount paid by Qamar is a prime number. 
+
+Wahid was seated third to the right of Prince and Prince was not an immediate neighbour of 
+Tony. 
+
+Tony was seated at one of the extreme ends and paid a sum that was a square between 35 
+and 70, which was not the least amount to be paid. 
+
+Vinod paid a sum of Rs. 84 and was third to the left of the one who paid Rs. 75. 
+Sohan paid Rs. 39 but was not sitting at the extreme end. 
+Nobody paid an amount more than Rs. 85. 
+
+56.  What is the least amount and paid by whom of the following? 
+
+A. Rs. 32, Umesh 
+
+B. Rs. 36, Wahid 
+
+C. Rs. 36, Umesh 
+
+D. Rs. 42, Umesh 
+
+E. Rs. 38, Wahid 
+
+57.  Which  of  the  following  is  the  difference  of  the  amounts  paid  by  the  persons  at  the 
+
+extreme ends? 
+
+A. 25 
+
+B. 27 
+
+C. 35 
+
+D. 20 
+
+E. None of these 
+
+58.  Which of the following amounts is paid by Tony? 
+
+A. Rs. 64 
+
+B. Rs. 36 
+
+C. Rs. 25 
+
+D. Rs. 49 
+
+E. None of these 
+
+59.  Four of the following five are alike in certain way and thus form a group. Which of the 
+
+following does not belong to the group? 
+
+A. Tony 
+
+B. Prince 
+
+C. Sohan 
+
+D. Rohit 
+
+E. Qamar 
+
+60.  Which of the following combinations is not correct? 
+
+A. Sohan – 39   
+
+B. Prince – 81   
+
+C. Wahid – 26   
+
+D. Vinod – 84   
+
+E. Tony – 64 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 13 
+
+Ten  persons  are  seated  in  two  parallel  rows,  each  having  six  seats.  Two  seats  are  vacant. 
+Lavanya, Manoj, Nitin, Oviya and Pravin are sitting in Row-1 and facing north direction. Qasim, 
+Rahul,  Tahir,  Sairam  and  Uday  are  sitting  in  Row-2  and  facing  south  direction.  They  all  like 
+different  colours  among  Violet,  Indigo,  Blue,  Green,  Yellow,  Orange,  Red,  White,  Black  and 
+Purple but not necessarily in the same order. 
+
+No  person sits between Sairam and Tahir, who is facing Pravin. Pravin sits immediate left of 
+vacant seat. Sairam faces Lavanya, who likes Red color. Qasim likes Green colour sits fourth to 
+the  left  of  Sairam.  The  person  who  likes  Indigo  sits  third  to  the  right  of  person  who  likes 
+Yellow. Manoj likes Blue and sits at the extreme end. Pravin doesn’t like Yellow and the person 
+who  likes  Yellow  faces  north  direction.  Manoj  does  not  face  the  person  who  likes  Green 
+colour. Uday likes Purple colour and sits at one of the extreme ends. Oviya sits third to the left 
+of the person who likes Indigo colour. Rahul likes Orange colour and sits third to the left of the 
+person  who  likes  Black  colour.  The  person  who  likes  Violet  colour  and  the  person  who  likes 
+White colour are facing each other. The person who likes Violet colour sits second to the right 
+of Lavanya. Manoj sits to the left of Pravin. 
+
+61.  Who sits between Tahir and the person who likes Green? 
+
+A. The person who likes white 
+D. The person who likes black 
+
+B. The person who likes violet 
+E. None of these 
+
+C. The person who likes orange 
+
+62. 
+
+Four of the following five are alike in a certain way and hence form a group. Which of 
+the following does not belong to the group? 
+
+A. The person who likes green 
+D. The person who likes indigo 
+
+B. The person who likes purple 
+E. The person who likes violet 
+
+C. The person who likes blue 
+
+63.  What is the position of the person who likes Orange? 
+
+A. Fifth from left end   
+D. Fourth from the right end   
+
+B. Third from the right end 
+E. None of the above 
+
+C. Second from the left end 
+
+64.  Who sits between the person who likes Blue and the person who likes Violet? 
+
+A. The person who likes Red and person Pravin B. The person who likes Yellow and the person who likes indigo 
+C. The person Tahir and Pravin 
+E. None of the above 
+
+D. The person who likes Yellow and the person who likes Red 
+
+65.   Who sits to the immediate right of the person who likes White? 
+
+A. The person who likes orange 
+D. The person who likes indigo 
+
+B. The person who likes black  
+E. None of these 
+
+C. The person who likes purple 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 14 
+Eight  persons  –  Ajay,  Bimal,  Chander,  Dhanush,  Erik,  Feroz,  Gaurav  and  Harish  are  sitting 
+around a circular  table facing towards the centre. They have different amount of chocolates 
+with  them  viz.  4,  7,  12,  17,  18,  21,  34  and  36.  No  two  persons  have  same  number  of 
+chocolates. 
+The person opposite to Bimal had 7 chocolates. 
+Ajay was sitting opposite to the person having 21 chocolates. 
+Ajay and Bimal were seated at a gap of two. 
+Harish was sitting third to the left of the one who had 18 chocolates. 
+Bimal had twice the number of chocolates that Erik had. 
+Harish and Gaurav were seated at a gap of 1 person. 
+The difference of the number of chocolates that Ajay and Bimal had was two, where the 
+number of chocolates with Ajay was a perfect square. 
+Erik and Feroz had consecutive number of chocolates. The number of chocolates that Erik had 
+was a prime number. 
+Gaurav had thrice the number of chocolates as that with Dhanush, who was sitting to the 
+immediate right of Bimal. 
+The number of chocolates with Gaurav was opposite of the number of chocolates with Harish. 
+i.e. if Harish has 'mn' number of chocolates, then Gaurav will have 'nm' number of chocolates. 
+Gaurav had less chocolates than Harish and the number of chocolates with both of them were 
+in double digits. 
+
+66.  Who among the following has the second least number of chocolates? 
+
+A. Dhanush 
+
+B. Chander 
+
+C. Feroz 
+
+D. Gaurav 
+
+E. None of these 
+
+67.  Which of the following combinations is correct? 
+
+A. Gaurav – 21  
+
+B. Feroz – 17 
+
+C. Dhanush – 4 
+
+D. All are correct 
+
+E. None is correct 
+
+68.  Ajay has how many chocolates more than the one who sits second to the left of the 
+
+one having least number of chocolates? 
+
+A. 15 
+
+B. 32 
+
+C. 29 
+
+D. 19 
+
+E. None of these 
+
+69.  Four of the following five are alike in some way and thus form a group. Which is the 
+
+one that does not belong to the group? 
+
+A. Ajay  
+
+B. Feroz 
+
+C. Dhanush 
+
+D. Bimal 
+
+E. Harish 
+
+70.   What is the position of the one who has 18 chocolates with respect to the one who 
+
+has 12 chocolates? 
+
+A. Second to the left 
+E. Fourth to the left 
+
+B. Third to the right 
+
+C. Sixth from the left   
+
+D. Fifth from the right 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 15 
+
+Ten  persons  namely  Pravin,  Queen,  Raman,  Seetha,  Tushar,  Umesh,  Vinoth,  Wahab,  Ximon 
+and Yousuf are sitting in two parallel rows containing five people each in such a way that there 
+is an equal distance between adjacent persons. People sitting in Row-1 facing north direction 
+while people sitting in Row-2 facing south direction. Therefore people sitting in Row-1 face the 
+people  sitting  in  Row-2.  They  were  born  in  following  months  among  January,  March,  April, 
+May, June, July and August. Exactly two persons were born in each of the month of April, May 
+and June. All the above information is not necessarily in the same order. 
+
+Seetha sits exactly in the middle of the north facing row. Tushar sits with Ximon and Wahab 
+and opposite to Umesh. Pravin sits at the extreme right end of the south facing row. Only one 
+person sits between the two persons who were born in April. Queen sits opposite to Raman 
+and to the immediate right of the person, who was born in May month. Raman doesn’t face 
+south direction. Wahab was born in August month. The person who was born in March sits to 
+the  immediate  right  of  Yousuf  and  opposite  to  the  person  who  is  born  in  April.  The  person 
+born in January sits to the right of the person born in July but they don’t sit at any of the ends. 
+Only one person sits between the two persons who were born in May. 
+
+71.  Who sits to the immediate right of Umesh? 
+
+A. The one who was born in June 
+D. The one who was born in May 
+
+B. The one who was born in July 
+E. None of the above   
+
+C. The one who was born in March 
+
+72.  Which of the following in pairs are born in same month? 
+
+A. Yousuf and Vinoth  B. Pravin and Queen  C. Raman and Tushar  D. Both A and B 
+
+E. Both A and C 
+
+73. 
+
+In which month was the person born who sits opposite to Ximon? 
+
+A. January 
+
+B. July   
+
+C. May  
+
+D. June  
+
+E. None of the above 
+
+74.  Four of the following five are alike in a certain way and hence form a group. Which of 
+
+the following does not belong to the group? 
+
+A. Raman-March 
+
+B. Tushar-April 
+
+C. Umesh-January 
+
+D. Vinoth-June  
+
+E. Yousuf-July 
+
+75.   Which of the following statements is definitely true? 
+
+A. Only two persons are sit between Pravin and Ximon. 
+B. The persons were born in June month sitting in different rows. 
+C. The one who was born in March sits third to the left of Umesh. 
+D. The one who was born in August month and the one who was born in March month are sitting diagonally 
+opposite to each other. 
+E. None of the above 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 16 
+
+Some persons are sitting around a circular table facing towards the centre and at an equal 
+distance from each other. Each of these persons has a different income greater than 11 Lakhs 
+but less than 20 Lakhs. 
+
+Only one seat was vacant. 
+Anuj’s income is in multiple of 5 but it is not the highest. 
+There are two seats between Jaya and Reet. 
+Anuj sits opposite to Faiz but neither of them are sitting adjacent to Jaya. 
+None of the seats adjacent to Anuj is vacant. 
+The one, whose income is 19 Lakhs, is sitting on the seat which is to the immediate right of 
+Pari’s seat. 
+Reet’s income is in perfect square number. 
+Jaya’s income is in even number. 
+Pari sits on the seat which is second to the right of one, whose income is 13 Lakhs. 
+The income of the persons sitting adjacent to vacant seat is the just next number of income 
+the persons sitting adjacent to them. 
+The number of persons between Reet and dev are same as the number of persons between 
+Anuj and Mala. 
+
+76.  How many persons are sitting around the circular table? 
+
+A. Six 
+
+B. Seven 
+
+C. Eight 
+
+D. Nine  
+
+E. Ten 
+
+77.  Who among the following is sitting opposite to Mala? 
+
+A. No one 
+
+B. Faiz   
+
+C. Pari   
+
+D. Reet  
+
+           E. Can’t be determined 
+
+78.  What is the income of Pari? 
+
+A. 12 Lakhs 
+
+B. 18 Lakhs 
+
+C. 14 Lakhs 
+
+D. Either A or B 
+
+E. Either A or C 
+
+79.  What is the position of Vacant seat with respect to Dev? 
+
+A. Third to the right  B. Immediate left 
+D. Second to the left  E. Can’t be determined 
+
+C. Fourth the right 
+
+80.   Four of the following five are alike in some way and hence form a group. Which of the 
+
+following is the one that does not belong to the group? 
+
+A. Faiz   
+
+B. Anuj  
+
+C. Jaya  
+
+D. Mala 
+
+E. Dev 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 17 
+
+Eight persons Viraj, Sumeet, Rahul, Anup, Hiten, Deepak , Deepika and Kunal are  sitting in a 
+circle  facing  the  centre.  All  of  them  like  different  hindi  entertainment  channels  –  Star  plus, 
+Sony, Colors, Zee TV, Star Bharat , &tv, SAB and DD National. They are not necessarily seated 
+in the mentioned order. 
+
+  The one who likes Sony is to the immediate right of Hiten and Hiten does not like Star 
+
+plus. 
+
+  Sumeet is sitting fourth to the right of Kunal. 
+  Deepak  likes  Zee TV and is sitting third to the right of the one who likes Sony. 
+  The one who likes &tv is sitting second to the left of the one who likes Zee TV. 
+  The one who likes SAB is sitting second to the left of Hiten. 
+  Viraj who likes Colors is sitting exactly between Deepak and Kunal. 
+  The one who likes Star Bharat is sitting second to the right of the one who likes Colors. 
+  Rahul is sitting third to the left of Deepak. 
+  Hiten is sitting third to the left of Deepika. 
+  Neither Sumeet nor Kunal is an immediate neighbour of Hiten. 
+
+81.  Who among the following sits third to the right of Deepika? 
+
+A. Hiten 
+
+B. Kunal 
+
+C. Viraj  
+
+D. Anup 
+
+E. None of these 
+
+82.  Who among the following sits opposite to the one who likes Zee TV? 
+
+A. Star Plus 
+
+B. SAB   
+
+C. Star Bharat   
+
+D. DD National 
+
+E. None of these 
+
+83.  What is the position of the one who likes Star plus with respect to Hiten? 
+
+A. Third to the right  B. Sixth to the left 
+
+C. Immediate right  D. Third to the left 
+
+E. None of these 
+
+84. 
+
+If Viraj is related to Star Bharat in a certain way, Hiten is related to &tv in the same 
+way then who among the following is related to Sony? 
+
+A. Rahul 
+
+B. Deepak 
+
+C. Sumeet 
+
+D. Deepika 
+
+E. Anup 
+
+85.   Which of the following combinations is false? 
+
+A. Hiten - DD National   B. Anup - Star plus  C. Kunal - SAB   
+
+D. Sumeet - &tv 
+
+E. Viraj – Colors 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 18 
+
+Six  persons  –  Bala,  Siya,  Raja,  Vani,  Pant  and  Minu  were  sitting  in  a  straight  facing  towards 
+north,  and  each  person  had  a  different  age  and  the  order  of  the  ages  of  these  persons  is 
+shown below: 
+
+Vani (109) > Siya (95) > Minu (91) > Pant (118) > Bala (100) > Raja (86) 
+
+The numbers shown in the bracket shows the marks obtained by these persons in the IQ test. 
+Each  person  was  born  in  different  city  –  Pune,  Agra,  Noida,  Ranchi,  Patna  and  Jhansi  not 
+necessarily in the same order. 
+
+The eldest person was 3rd to the right of the one born in Jhansi. 
+Siya was 3rd to the left of the one born in Pune. 
+Number of persons to the left of Siya was equal to the number of persons to the right of the 
+one born in Agra. 
+Siya was to the immediate left of Minu. 
+Vani was born in Ranchi. 
+The person with the highest marks was at one of the extreme end. 
+The one born in Patna was to the immediate left of the person with the lowest marks. 
+Siya was not neighbouring the person with the lowest marks. 
+
+86.  The one who scored third highest marks was born in which city? 
+
+A. Pune 
+
+B. Agra  
+
+C. Noida 
+
+D. Patna 
+
+E. Jhansi 
+
+87.  How many person(s) scored more marks than the one who was born in Patna? 
+
+A. One  
+
+B. Two  
+
+C. Three 
+
+D. Four  
+
+E. Five 
+
+88.  Which of the following persons was sitting at an extreme end? 
+
+A. Raja  
+
+B. Bala  
+
+C. Vani  
+
+D. Minu 
+
+E. Siya 
+
+89.  What was the difference of the marks scored by the persons who were born in Noida 
+
+and Patna? 
+
+A. 5 
+
+B. 9 
+
+C. 11 
+
+D. 14 
+
+E. 22 
+
+90.   How many person(s) were there between Bala and the one who was born in Agra? 
+
+A. None 
+
+B. One  
+
+C. Two  
+
+D. Three 
+
+E. Four 
+
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 19 
+
+Nine cars – Nano, Creta, Verna, Polo, Brezza, Duster, WagonR, Captur and Amaze, were parked 
+in a circular parking lot which has space to park at least 10 cars. All the cars were parked facing 
+towards the centre. 
+
+Polo was parked second to the left of Captur and was at a gap of 3 spots from Duster. 
+Amaze was parked on the immediate right of Duster. 
+Number  of  spots  between  Creta  and  Brezza  when  counted  from  the  left  of  Creta  was  one 
+more than the number of spots between Brezza and Amaze when counted from the right of 
+Amaze. 
+Brezza was parked neighbouring Nano and was second to the left of WagonR. 
+WagonR  and  Polo  were  parked  at  a  gap  of  5  spots  and  only  one  car  was  parked  on  one  of 
+those 5 spots. 
+Verna was parked at a gap of 1 spot from Duster. 
+Only  2 cars were parked between Nano  and Duster,  but Nano  was not parked neighbouring 
+Verna. 
+Not more than 2 spots were there between Brezza and Verna when counted from the right of 
+Verna. 
+
+91.  What is the position of Creta with respect to Polo? 
+
+A. Fourth to the right   
+D. Fourth to the left 
+
+B. Second to the right  
+E. None of these 
+
+C. Third to the left 
+
+92.  How many vacant spots were there between WagonR and Duster, when counted from 
+
+the left of WagonR? 
+
+A. 2 
+
+B. 3 
+
+C. 5 
+
+D. 7 
+
+E. None of these 
+
+93.  What is the position of Captur with respect to Nano? 
+
+A. Sixth to the left 
+D. Fifth to the left 
+
+B. Seventh to the right 
+E. None of these 
+
+C. Eighth to the left 
+
+94.  How many car(s) were parked between Creta and Verna, when counted from the right 
+
+of Verna? 
+
+A. One  
+
+B. Two  
+
+C. Three 
+
+D. Four  
+
+E. Five 
+
+95.  How many cars can be parked in the parking lot? 
+
+A. 12 
+
+B. 14 
+
+C. 15 
+
+D. 17 
+
+E. 18 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set – 20 
+
+In  a  linear  row  of  8  persons  from  A  to  H,  four  people  face  towards  north  and  four  towards 
+south. Further information is given below. 
+
+B is third to the left of C, who faces (i) ______. Only D is adjacent to C. B is on the immediate 
+right of G, who faces north. (ii) _____ is second to the left of G and faces north. A and E are 
+immediate neighbors, where the latter is at an extreme end. F is second to the right of B, who 
+faces  (iii)  ________.  Not  more  than  two  persons  facing  same  direction  are  adjacent  to  each 
+other.  H  is  on  the  immediate  right  of  (iv)  ______  .  The  immediate  neighbors  of  A  face  (v) 
+______ direction. 
+
+96.  Which of the following will fill the blank (ii)? 
+
+A. C 
+
+B. A 
+
+C. F 
+
+D. D 
+
+E. None of these 
+
+97.  Which of the following will fill the blank (iv)? 
+
+A. A 
+
+B. B 
+
+C. E 
+
+D. D 
+
+E. None of these 
+
+98.  Which of the following will fill the blank (i)? 
+
+A. South 
+D. Both options B and C 
+
+B. The direction opposite to the direction faced by H. 
+E. Can't be determined 
+
+C. North 
+
+99.  Which of the following will fill the blank (iii)? 
+
+A. The direction same as faced by C   
+C. The direction opposite to the direction faced by B 
+
+B. The direction same as faced by D 
+D. North 
+
+E. None of these 
+
+100.   Which of the following will fill the blank (v)? 
+
+A. South 
+D. The direction opposite to the direction faced by B 
+
+B. North 
+
+C. The direction same as faced by C 
+E. None of these 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+D 
+
+11 
+
+E 
+
+21 
+
+A 
+
+31 
+
+E 
+
+41 
+
+D 
+
+51 
+
+B 
+
+61 
+
+C 
+
+71 
+
+A 
+
+81 
+
+B 
+
+91 
+
+C 
+
+2 
+
+E 
+
+12 
+
+C 
+
+22 
+
+C 
+
+32 
+
+D 
+
+42 
+
+A 
+
+52 
+
+D 
+
+62 
+
+E 
+
+72 
+
+A 
+
+82 
+
+D 
+
+92 
+
+A 
+
+3 
+
+C 
+
+13 
+
+D 
+
+23 
+
+D 
+
+33 
+
+D 
+
+43 
+
+E 
+
+53 
+
+C 
+
+63 
+
+C 
+
+73 
+
+B 
+
+83 
+
+A 
+
+93 
+
+A 
+
+CORRECT ANSWERS: 
+
+4 
+
+B 
+
+14 
+
+C 
+
+24 
+
+B 
+
+34 
+
+D 
+
+44 
+
+B 
+
+54 
+
+D 
+
+64 
+
+D 
+
+74 
+
+E 
+
+84 
+
+E 
+
+94 
+
+C 
+
+5 
+
+A 
+
+15 
+
+A 
+
+25 
+
+C 
+
+35 
+
+B 
+
+45 
+
+C 
+
+55 
+
+A 
+
+65 
+
+E 
+
+75 
+
+E 
+
+85 
+
+B 
+
+95 
+
+D 
+
+1 
+
+B 
+
+16 
+
+B 
+
+26 
+
+D 
+
+36 
+
+B 
+
+46 
+
+D 
+
+56 
+
+B 
+
+66 
+
+B 
+
+76 
+
+B 
+
+86 
+
+D 
+
+96 
+
+B 
+
+2 
+
+A 
+
+17 
+
+A 
+
+27 
+
+D 
+
+37 
+
+D 
+
+47 
+
+B 
+
+57 
+
+D 
+
+67 
+
+C 
+
+77 
+
+D 
+
+87 
+
+B 
+
+97 
+
+D 
+
+3 
+
+C 
+
+18 
+
+D 
+
+28 
+
+B 
+
+38 
+
+E 
+
+48 
+
+C 
+
+58 
+
+A 
+
+68 
+
+A 
+
+78 
+
+D 
+
+88 
+
+E 
+
+98 
+
+C 
+
+4 
+
+D 
+
+19 
+
+C 
+
+29 
+
+E 
+
+39 
+
+A 
+
+49 
+
+D 
+
+59 
+
+E 
+
+69 
+
+E 
+
+79 
+
+A 
+
+89 
+
+A 
+
+99 
+
+B 
+
+5 
+
+C 
+
+20 
+
+B 
+
+30 
+
+C 
+
+40 
+
+C 
+
+50 
+
+A 
+
+60 
+
+C 
+
+70 
+
+D 
+
+80 
+
+C 
+
+90 
+
+C 
+
+100 
+
+A 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explanations: 
+
+Common Explanations (1-5): 
+
+Reference: 
+Qiya is second to the left of Rati who is fourth from the right corner. 
+
+Tiya sits immediate right of Qiya. 
+
+There are only two persons between Rati and Pari. 
+
+Inference: 
+Based on the given hints following two cases can be drawn: 
+
+Case1 When Pari is third to the left of Rati 
+
+Row/Persons→ 
+(Facing South)↓ 
+
+Rati 
+
+Tiya 
+
+Qiya 
+
+Pari 
+
+←Right end                                                                                                                           → Left end 
+
+Case2 When Pari is third to the right of Rati 
+
+Row/Persons→ 
+(Facing South)↓ 
+←Right end                                                                                                                                 → Left end 
+
+Qiya 
+
+Tiya 
+
+Rati 
+
+Pari 
+
+Reference: 
+The number of persons between Qiya and Mita is same as the number of persons between Pari and Shri. 
+Mita sits at any corner of the row. 
+
+Om is not a neighbor of Shri who is immediate left of Niya. 
+
+Inference: 
+Case1 When Pari is third to the left of Rati and number of persons between Mita and Qiya are 4 
+
+Row/Persons→ 
+(Facing South)↓ 
+
+Mita 
+
+Shri 
+
+Rati 
+
+Tiya 
+
+Qiya 
+
+Pari 
+
+←Right end                                                                                                                                  → Left end 
+
+In Case1, Positions of Om and Niya cannot be ascertained without violating the third hint, thus Case1 
+Fails here. 
+
+Case2 When Pari is third to the right of Rati and number of persons between Mita and Qiya is 1 
+
+Row/Persons→ 
+(Facing South)↓ 
+
+Pari 
+
+Niya 
+
+Shri 
+
+Rati 
+
+Tiya 
+
+Qiya 
+
+Om 
+
+Mita 
+
+←Right end                                                                                                                                                   → Left end 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+1. 
+
+From the following explanation it is clear that six persons are seated towards the left of Niya. 
+
+Option D, is hence the correct answer. 
+
+2.   
+
+From the following explanation it is clear that Pari is the only one among the given options, who sits at 
+an extreme end, rest person sit in the middle of the row. 
+
+Option E, is hence the correct answer. 
+
+3.  
+
+From the following explanation it is clear that Om and Tiya both are the immediate neighbours of Qiya. 
+
+Option C, is hence the correct answer. 
+
+4.   
+
+From the following explanation it is clear that the person sitting third from the right end is Shri and 
+second to the left of Shri is Tiya. 
+
+Option B, is hence the correct answer. 
+
+5.  
+
+From the following explanation it is clear that Om is sitting third to the left of Rati. 
+
+Option A, is hence the correct answer. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (6-10): 
+
+Reference: 
+It is known that Cheenu sits exactly in the middle and there is no person to the right of Ishita. 
+
+Inference: 
+There is no one sitting to the right of Ishita, means she is sitting at the right most end of the row. 
+
+Reference: 
+Dona is not sitting adjacent to either Cheenu or Ishita. 
+
+Inference: 
+
+Reference: 
+Dona is fourth to the right of Faria. 
+
+Inference: 
+As Dona cannot sit adjacent to Cheenu and Ishita, so, therefore, there is only place left i.e. third from the right 
+end of the row for Faria. 
+
+Reference: 
+Gaurav and Harish are sitting next to each other. Harish doesn't sit at any extreme corner. 
+
+Inference: 
+
+Reference: 
+Esha is the neighbor of Dona but not of Cheenu. 
+
+Inference:  
+
+Reference: 
+Anu is second to the right of Harish. 
+
+Inference: 
+
+Now, only Bablu is left to be placed at the only left position. 
+
+Final image: 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+6.   
+
+From the following explanation we get 
+
+Anu is sitting to the immediate left of Cheenu. 
+
+Option B, is hence the correct answer. 
+
+7. 
+
+From the following explanation we get 
+
+Dona is sitting between Bablu and Esha. 
+
+Option A, is hence the correct answer. 
+
+8. 
+
+From the following explanation we get 
+
+Faria and Gaurav do not belong to that group. 
+
+Option C, is hence the correct answer. 
+
+9.   
+
+From the following explanation we get 
+
+Cheenu sits third to the right of Harish. 
+
+Option D, is hence the correct answer. 
+
+10. 
+
+From the following explanation we get 
+
+Gaurav is seated at the left most corner of the row. 
+
+Option C, is hence the correct answer. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (11-15): 
+
+Reference: 
+
+Vishal and Karan sit at the corner but they do not sit at the same row. 
+
+Inference: 
+
+Here, we have two possible scenarios in which we can use the above hints accordingly. 
+: 
+
+Case 1 
+
+Case 2: 
+
+Reference: 
+Sanju sit third to the right of Karan and adjacent to Vijay. 
+
+Shivam sits opposite to Sanju and Anant sits opposite to Ankit but none of them sit at the corner exactly two 
+of them sit along the length. 
+
+Vishal is not a neighbour of Vijay. 
+
+Inference: 
+At  this  point  we  cannot  place  Sanju  third  to  the  right  of  Karan  in  Case  1  as  doing  this  will  contradict  the 
+information that Sanju does not sit at the corner. So, case 1 fails. 
+
+After using the above hints our case 2 can be redrawn as: 
+
+Case 2: 
+
+As it is given that exactly two among Shivam, Sanju, Anant and Ankit sit at the length of the table and we can 
+clearly see that Shivam and Sanju are the ones sitting at length of table. 
+
+Now, it is also given that none among Shivam, Sanju, Anant and Ankit sit at the corner. So, we can say that 
+Anant and Ankit will sit along the breadth of the table and face each other. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 2: 
+
+Reference: 
+Anant, Vishal and Tappu sit at the same row. 
+Shiv and Vijay sit in the same row. 
+
+Inference: 
+Using  the  above  hint  we  can  fix  the  positions  of  all  the  persons  in  the  table  and  can  complete  the 
+arrangement. 
+
+Case 2: 
+
+11.    Following the final solution we can say that Ankit sits to the immediate left of Vijay. 
+
+Hence, the correct answer is option E. 
+
+12. 
+
+Following the final solution we can say that Sanju is the one that does not belong to the group because 
+except Sanju all the other persons were sitting in the same row. 
+
+Hence, the correct answer is option C. 
+
+13. 
+
+Following the final solution we can say that Anant was sitting third to the left of Shivam. 
+
+Hence, the correct answer is option D. 
+
+14.    Following the final solution we can say that minimum number of persons sitting between Tappu and 
+
+Shivam was one. 
+Hence, the correct answer is option C. 
+
+15. 
+
+Following the final solution we can say that Karan was sitting second to the right of Rajat. 
+Hence, the correct answer is option A. 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+Common Explanations (16-20): 
+
+Reference: 
+Yellow box is of 26 kg. 
+The box weighing 26 kg and 19 kg are not immediate neighbors. 
+Only one box is there between Yellow and White boxes. 
+Grey box is third to the left of Yellow box. 
+Brown box is second to the left of Grey box. 
+
+Inference: 
+Following two cases can be drawn from the above hints. 
+
+Case 1 
+
+Case 2 
+
+Reference: 
+Black box which is the fourth highest weighted box in the group is immediately heavier than Violet box but 
+immediately lighter than Red box. 
+White box is neither the heaviest not the lightest. 
+The sum of White box and Brown box is 62 kg. 
+
+Inference: 
+From the given weights (in kg) - 19, 23, 26, 28, 31, 38, 43 and 49, the fourth highest weight is 31 kg. 
+So, the weight of Black box is 31 kg, which is immediate heavier than violet box i.e. 28 kg. and immediate 
+lighter than Red box i.e. 38 kg. 
+Weight of white box can’t be either 49 kg. or 19 kg. 
+So it’s weight should be among the remaining weights – 19, 23 and 43 kg. 
+With the available options, the only combination that makes the sum of 62 kg is 19 and 43. 
+So the weights of brown and white boxes are 19 and 43 kg respectively. 
+
+We will use some of these weights in the coming hints. 
+
+Case 1 
+
+Case 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference: 
+Black box is third to the left of the box weighing 38 kg. 
+The box weighing 38 kg is a neighbor of both Brown box and Grey box. 
+Pink box is second to the right of Red box. 
+
+Inference: 
+Thus case2 gets eliminated, as position of white and pink boxes clashes here. 
+We have already derived the weight of red box as 38 kg, so placing the value in the Case 1 of the following 
+arrangement. 
+
+So, we will continue with case 1 only. 
+
+Reference: 
+Box weighing 49 kg is second to the left of Violet box. 
+
+Inference: 
+The remaining vacant position is assigned to Violet box, which ascertains the weight sof Pink box as 43 kg. and 
+Grey box as 49 kg. We had already inferred the weight of violet box, so the final arrangement will look like 
+this. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.    Following the common explanation, we get that the box between the box weighing 38 kg i.e. Red box 
+
+and Pink box is "Grey box i.e. the box weighing 49 kg." 
+
+Hence option B is correct. 
+
+17. 
+
+18. 
+
+Following the common explanation, it is clear that "Grey box is third to the right of the box weighing 26 
+kg" is the only true statement. 
+
+Hence option A is correct. 
+
+Following the common explanation, it is clear that "Red box is the odd one out, as the weights of all 
+other given boxes are odd numbers except the weight of Red box, which is an even number." 
+
+Hence option D is correct. 
+
+19.    Following the common explanation, it is clear that the weight of black box is 31 kg and the weight of 
+
+white box is 43 kg. 
+
+Thus the required sum i.e. 31 + 43 = 74 kg. is obtained. 
+
+Hence option C is correct. 
+
+20. 
+
+Following the common explanation, it is clear that the third lightest box is Yellow box i.e. the box which 
+is third to the right of the heaviest box. 
+
+Hence option B is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (21-25): 
+Reference: 
+Only 3 persons sit to the left of R. 
+
+3 persons sit between R and Q. 
+
+Inference: 
+As we don’t know that in which direction exactly R is facing. So, we can say that there possible scenarios in 
+which we can use the above information correctly. 
+
+Case 1: 
+R faces north. 
+
+Case 2: 
+R faces south. 
+
+Reference: 
+B is 2nd to the left of Q. 
+
+Neighbours of R face the south. 
+
+B and Q face in opposite direction. 
+
+Inference: 
+We can use the above information in both of the cases accordingly as shown in the figures: 
+
+Reference: 
+More than 2 people’s sits between B and S. 
+D is 2nd to the left of S. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inference: 
+After studying the first information we can say that either 3 or 4 persons are sitting between B and S. and with 
+the second hint we can place D according to S in the row and we can say that there are exactly 4 persons are 
+sitting between B and S. 
+
+Reference: 
+Neighbours of P face the same direction. 
+
+A and P faces in opposite direction. 
+
+C is 2nd to the right of A. 
+
+Inference: 
+With the first hint we can say that our case 2 is an invalid case as we cannot place P with both of its neighbour 
+facing the same direction. 
+
+And after placing P in case 1 we can fix the position of A and C easily and can complete the puzzle. 
+
+21.    Following the final solution we can say that only 1 person sits to left of P. 
+
+Hence, the correct answer is option A 
+
+22. 
+
+Following the final solution we can say that D is third to the right of B. 
+
+Hence, the correct answer is option C. 
+
+23. 
+
+Following the final solution we can say that P and R are the neighbours of D. 
+
+Hence, the correct answer is option D. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24.    Following the final solution we can say that S sits at the extreme left of the row 
+
+Hence, the correct answer is option B. 
+
+25. 
+
+Following the final solution we can say that 3 persons sits between D and A. 
+
+Hence, the correct answer is option C. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common explanation: (Q. 26 to Q. 30) 
+
+References: 
+ D sits third from the extreme right end of the row. 
+
+C sits to the immediate left of D 
+
+Only six people sit between A and C. 
+
+The person A sits fourth to the right of B. 
+
+Inferences: 
+ From above statements, 
+
+We don’t know the number of seats in a linear row. So we will solve based on the above hints. 
+
+Let the seat at extreme right end be 1 and its immediate left is 2 and so on in increasing order till left end. 
+
+D sits 3rd seat from right end (reference point-1) 
+
+C sits at 4th seat i.e. immediate left of D (reference point-2) 
+
+The person A sits at 11 seat i.e. six people sit between A and C (reference point-3) 
+
+B sits at 15th seat i.e. A sits fourth to the right of B (reference point-4) 
+
+By using above information we get the following seating as shown below, 
+
+Person 
+(North) 
+Seat 
+Number 
+
+B 
+
+A 
+
+C  D 
+
+19  18  17  16  15  14  13  12  11  10 
+
+9 
+
+8 
+
+7 
+
+6 
+
+5 
+
+4 
+
+3 
+
+2 
+
+1 
+
+References: 
+ Number of person sit between E and D is same as B and E. 
+
+Only ten persons sit to the left of E. 
+
+F sits eight to the left of E. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Inferences: 
+ From above statements, 
+
+If we observe the seating there are 11 seats in between B and C. 
+
+As per 1st reference point, E sits in the middle of B and D. Therefore E sits at 9th seat i.e. 5 people sit to the 
+right of E and 5 people sit to the left of E. 
+
+Given, only ten persons sit to the left of E. Therefore we conclude that there are 19 seats in the linear row. 
+
+Finally, F sits at 17th seat i.e. F sits 8th to the left of E (reference point-3) 
+
+All conditions get satisfied and we get the completed seating [19 seats] as shown below, 
+
+Person 
+(North) 
+Seat 
+Number 
+
+F 
+
+B 
+
+A 
+
+E 
+
+C  D 
+
+19  18  17  16  15  14  13  12  11  10 
+
+9 
+
+8 
+
+7 
+
+6 
+
+5 
+
+4 
+
+3 
+
+2 
+
+1 
+
+26.    Following the common explanations, we get "19 seats are there in the linear row". 
+
+Hence, option D is correct. 
+
+27. 
+
+Following the common explanations, we get "C sits 5th to the right of E". 
+
+Hence, option D is correct. 
+
+28. 
+
+Following the final arrangement, it's clear that there is only one seat between A and E.  
+
+Option B is hence the correct answer. 
+
+29.    Following the final arrangement, it's clear that only C sits on even numbered seat. 
+
+Remaining people sits on odd numbered seat.  
+
+Option E is hence the correct answer. 
+
+30. 
+
+Following the final arrangement, it's clear that there are Four seat to the left of B. 
+
+Option C is hence the correct answer. 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (31-35): 
+
+References: 
+Kusum sits third to the right of Nonu. 
+Kumar sits on the immediate right of Kusum. 
+Kusum faces outward. 
+Only one person sits between Sonu and Nonu. 
+Ela is not an immediate neighbour of Nonu. 
+
+References: 
+Nupur sits second to the left of Ela.  
+The immediate neighbours of Nupur face opposite direction. 
+
+We thus get two possible positions of Nupur with his/her neighbours as shown in Case I and Case II 
+respectively. 
+
+References: 
+Vicky sits third to the right of Vikas. Vicky is not an immediate neighbour of either Ela or Sonu. 
+Kumar and Vicky face the direction same as that of Vikas. 
+
+Now the only two positions where we can place Vicky and Vikas is shown in Case I. In Case II, if we place Vikas 
+to the left of Nupur with opposite direction to the second neighbour of Nupur, the condition 'Vicky sits third to 
+the right of Vikas' doesn't get fulfilled. Case II thus gets eliminated. 
+
+Using the other pieces of information, we get the final chart as follows: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+31.    Observing the final seating arrangement we can say that in Option E Nonu and Vikas are facing in 
+
+opposite direction, while in all other options first person facing the same direction in which second 
+person facing. 
+
+Hence, the correct answer is option E. 
+
+32.  Observing the final seating arrangement, we can say that Vicky and Kumar are sitting exactly between 
+
+Kusum and Nonu when counted from the right of Kusum. 
+
+Hence, option D is correct. 
+
+33.  Observing the final seating arragement we can say that Nupur is sitting third to the left of Vikas. 
+
+Option D is hence the correct answer. 
+
+34.    Observing the final seating arrangement, we can say that the immediate neighbours of Ela are Vikas 
+
+and Sonu. 
+
+Option D is hence the correct answer. 
+
+35.  Observing the final seating arrangement we can say that Kumar is sitting fourth to right of Sonu. 
+
+Option B is hence the correct answer. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (36-40): 
+
+Reference: 
+
+  U is sitting third to the left of X. 
+  X  likes Amish Tripathi and is sitting third to the right of the one who likes Chetan Bhagat. 
+  S who likes Jhumpa Lahiri is sitting exactly between X and Z. 
+
+Inference: 
+Following two cases are possible with the above mentioned hints. 
+
+Reference: 
+
+  The one who likes Amitav Ghosh is sitting second to the right of the one who likes Jhumpa Lahiri. 
+  T is sitting fourth to the right of Z. 
+  Neither T nor Z is an immediate neighbour of W. 
+  The one who likes Chetan Bhagat is to the immediate right of W and W does not like Arvind Adiga. 
+  The one who likes V.S. Naipaul is sitting second to the left of W. 
+
+Inference: 
+The above hints can easily be placed in both the cases in the following manner. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Reference: 
+
+  The one who likes Ruskin Bond is sitting second to the left of the one who likes Amish Tripathi. 
+  W is sitting third to the left of Y. 
+
+Inference: 
+In accordance with the last hint we can say that Case 1 fails, as here W is third to the right of Y which violates 
+the last hint. 
+
+Thus by fixing the position of V at the vacant place, we get the final arrangement through Case 2. 
+
+36.    From the following explanation it is clear that the one who likes Jhumpa Lahiri is third to the left of the 
+
+one who likes Ruskin Bond. 
+
+Hence option B is correct. 
+
+37. 
+
+From the following explanation it is clear that W likes Arundhati Roy. 
+
+Hence option D is correct. 
+
+38. 
+
+From the following explanation it is clear that five persons sit between U and the one who likes Amitav 
+Ghosh when counted from the left of latter. 
+
+Hence option E is correct. 
+
+39.    From the following explanation it is clear that 'V' is related to Arvind Adiga(liked by the person sitting 
+opposite to V) in the same way as X is related to Arundhati Roy (liked by the person sitting opposite to 
+X) and S is related to Chetan Bhagat. 
+
+Hence option A is correct. 
+
+40. 
+
+From the following explanation it is clear that "T – Arvind Adiga" is wrongly matched. 
+
+Hence option C is correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+Common explanation : (Q. 41 to Q. 45) 
+
+Reference: 
+
+G is sitting second to left of the one who is 18 years old.  
+Two persons are sitting between G and B.  
+Person having age 13 is sitting immediate right of B.  
+
+Inference: 
+
+Following two cases are possible from the given hints. 
+
+Case1: When G is third to the left of B 
+
+Persons 
+Age 
+
+Case2: When G is third to the right of B 
+
+G 
+
+B 
+
+18 
+
+G 
+
+13 
+
+18 
+
+Persons 
+Age 
+
+B 
+
+13 
+
+Reference: 
+
+D is immediate neighbour of B.  
+G is as much younger than D as he is older than H.  
+None of G, H, and D are sitting immediate to one another.  
+
+Inference: 
+
+Given ages are - 7, 10, 13, 18, 28, 30, 36, and 42  
+To satisfy the second hint now we'll check the possible combinations. 
+We have one such combination where age difference is equal throughout. 7, 10 and 13 (difference is 3)  
+Thus the ages of G, D and H are 10, 13 and 7 respectively. 
+
+Case1: When G is third to the left of B 
+
+Persons 
+Age 
+
+ H 
+
+G 
+10  
+
+Case2: When G is third to the right of B 
+
+Persons 
+Age 
+
+B 
+
+ D 
+13 
+
+H  
+
+H  
+
+18 
+
+G 
+ 10 
+
+B 
+
+H  
+
+ D 
+13 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+ 
+Reference: 
+C is sitting third to right of the one who is 7 years old. 
+A is sitting second to right of the one who is 36 years old.  
+At least three persons are sitting between G and A.  
+
+Inference: 
+Case1: When G is third to the left of B 
+
+Persons 
+Age 
+
+H 
+7 
+
+G 
+10  
+
+C 
+
+B 
+ 36 
+
+D 
+13 
+
+18 
+
+Case2: When G is third to the right of B 
+[Eliminated] because number of persons between A and G are not atleast 3. 
+
+Persons 
+Age 
+
+H 
+7 
+
+B  
+
+D 
+13  
+
+C 
+
+G  
+10 
+
+36  
+
+Reference: 
+F is sitting third to right of the one who is 10 years older than him. 
+A is not the oldest. 
+
+A 
+
+A 
+
+Inference: 
+The only possible place for F is to the immediate left of B. Then his age will be 18 years. 
+The vacant place is filled by the only left person i.e. E. 
+Thus as per the first hint age of E is 28 years. 
+As A is not the oldest, that means his age is not 42 years and the remaining ages are - 42 and 30. 
+So, ages of A and C are 30 and 42 respectively. 
+Thus the final arrangement is as follows. 
+
+Case1: When G is third to the left of B 
+
+Persons 
+Age 
+
+H 
+7 
+
+E 
+28 
+
+G 
+10 
+
+C 
+42 
+
+F 
+18 
+
+B 
+ 36 
+
+D 
+13 
+
+A 
+30 
+
+41.    From the following explanation it is clear that D is the only one whose age is an odd number, thus is 
+
+the odd one out. 
+
+Hence option D is correct. 
+
+42. 
+
+From the following explanation it is clear that the person whose age is 28 years is second to the left of 
+the one who is the oldest person. 
+
+Hence option A is correct. 
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43. 
+
+From the following explanation it is clear that H and A are sitting at the extreme ends. 
+
+Hence option E is correct. 
+
+44.    From the following explanation it is clear that the difference of the ages of C and D is 29. 
+
+Hence option B is correct. 
+
+45. 
+
+From the following explanation it is clear that "T – Arvind Adiga" is wrongly matched. 
+
+Hence option C is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (46-50): 
+
+References  
+
+     1.   The vessel F was third to the right of Black colored vessel. 
+   2.  The Green vessel had 4 liters of Milk and it was at either of the extreme ends. 
+   3.  Total  volume  of  Milk  in  the  vessel  F  and  the  volume  of  Milk  to  its  immediate  right  were  equal  to  the 
+
+volume of Milk in the vessel A. 
+
+   4.  The vessel D was placed exactly between the Red colored vessel and the vessel A. 
+   5.  The vessel D had 3 liters of Milk. 
+   6.  The vessel D and the vessel E were at a gap of two vessels. 
+   7.  The vessel C was second to the left of the vessel having 6 liters of Milk 
+
+Inferences 
+ From above statements, 
+     ●   The Milk in vessels A, B, C, D, E and F are 1, 2, 3, 4, 5 and 6 liters but not necessarily in the same order. 
+   ●  If Black colored vessel is placed at extreme left end, then Green colored vessel placed at extreme right 
+
+end (Case-1). 
+
+   ●  If Black colored vessel is placed at 2nd from left end, then Green colored vessel can be placed at either of 
+
+the ends (we get two cases-2 & 3) 
+
+   ●  If Black colored vessel is placed at 2nd from left end, then Green colored vessel can be placed at either of 
+the  ends,  but  the  vessel  F  comes  at  extreme  right  end,  by  this  it  violates  point-3.  Hence  this  is  not 
+possible. 
+
+   ●  Now, the vessel D has 3 liters Milk and placed exactly between the Red colored vessel and the vessel A. 
+
+From this, it is clearly observe that the vessel D is not placed at either of the ends. 
+
+   ●  With reference to 4th, 5th, 6th & 7th point, the vessel D can be placed in each case. 
+
+In Case-1 :- the vessel D is placed 2nd from right end, then the vessel F becomes Red colored and the vessel A 
+becomes Green colored. The vessel C is placed at extreme left end and the vessel E is placed at 2nd from left 
+end, by this 4th, 5th, 6th & 7th point get satisfied (only possibility) 
+
+Vessels (North) 
+Milk (Liters) 
+Color 
+
+Case: 1 
+E 
+        6 
+
+C 
+
+F  D 
+   3 
+
+A 
+4 
+
+Black            Red        Green 
+
+In Case-2 :- the vessel D is placed 3rd from left end, then the vessel C becomes Red colored and the vessel A 
+becomes Black colored. The vessel C is placed at 3rd from right end and the vessel E is placed at from right end, 
+by this the immediate right of vessel F has vessel E with 6 liters. If we observe the 3rd reference point, it is not 
+possible since the maximum liters in any vessel are 6 liters. So this case can be eliminated. 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+Case: 2 [Eliminated] 
+Reference point-3 Violates 
+
+Vessels (North) 
+Milk (Liters) 
+Color 
+
+A 
+
+4 
+
+Green  Black 
+
+C 
+
+F  E 
+D 
+3 
+   6 
+        Red                
+
+In Case-3 & 3-A :- the vessel D can be placed at either at 3rd or 4th from left end. But neither of the cases, the 
+reference point-7 gets satisfied. Hence we eliminated the following cases. 
+
+Case: 3[Eliminated] 
+Reference point-7 Violates 
+
+Vessels (North) 
+Milk (Liters) 
+Color 
+
+A  D 
+3 
+
+F 
+
+E 
+4 
+
+       Black        Red        Green 
+
+Case: 3-A[Eliminated] 
+Reference point-7 Violates 
+A  D  F 
+   3 
+       Black               Red Green 
+
+Vessels (North) 
+Milk (Liters) 
+Color 
+
+4 
+
+E 
+
+References  
+
+     1.  Total  volume  of  Milk  in  the  vessel  F  and  the  volume  of  Milk  to  its  immediate  right  were  equal  to  the 
+
+volume of Milk in the vessel A. 
+
+   2. The Purple colored vessel had the thrice the volume of Milk as in the Vessel E. 
+   3. The Blue vessel had more volume of Milk then vessel E. 
+
+ Inferences 
+ From above statements, 
+
+     ●  Note: Only case-1 is left to continue the arrangements. 
+   ● With respect to the 1st point, the vessel F has 1 liter milk; by this its immediate right vessel D has 3 liters 
+milk. [Given condition, Vessel F + Vessel D = Vessel A, we know Vessel A has 4 liters milk i.e. 3 + 1 = 4 liters 
+milk. Thus the given condition satisfied. 
+
+   ● From table, vessel B has 6 liters milk. 
+   ● Remaining liters available are 2 and 5. 
+   ● With reference to 2nd point, the vessel E should have 2 liters milk, by this the vessel B becomes Purple 
+
+colored (2*3 =6, i.e. thrice the volume of Milk as in the Vessel E) 
+
+   ● Finally, the vessel C has 5 liters milk. 
+   ● With reference to 3rd point, the vessel D is Blue colored (Vessel D, 3 > Vessel E, 2) 
+   ● Finally,  Vessel  E  becomes  Yellow  colored  vessel.  Thus  we  get  the  completed  arrangement  as  shown  in 
+
+table. 
+
+ 
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+ 
+  
+ 
+ 
+ 
+Vessels (North) 
+Milk (Liters) 
+Color 
+
+Case: 1 
+
+E 
+2 
+
+B 
+6 
+
+C 
+5 
+
+F 
+1 
+
+D 
+3 
+
+A 
+4 
+
+Black  Yellow  Purple  Red 
+
+Blue  Green 
+
+46.    The following common explanation, we get "B - P Purple clored - 6 liters". 
+
+Hence, option D is correct. 
+
+47. 
+
+The following common explanation, we get "[Vessel C] [B-Purple colored-6 liters and its 2nd left is 
+Vessel C]". 
+
+Hence, option B is correct. 
+
+48. 
+
+The following common explanation, we get "Vessel C-Black colored-5 liters". 
+
+Hence, option C is correct. 
+
+49.    The following common explanation, we get "Two vessels". 
+
+Hence, option D is correct. 
+
+50. 
+
+The following common explanation, we get "7 liters". 
+
+E-Yellow - 2 liters & C - Black - 5 liters. Sum = 2 + 5 = 7 liters. 
+
+Hence, option A is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common explanation : (Q. 51 to Q.55) 
+
+References: 
+Rahman and Sadyant sit opposite to each other. 
+
+Charan sits second to the left of Rahman. 
+
+Charan likes Maroon color. 
+
+The person who likes Maroon sits second to the left of Sadyant. 
+
+The person who likes White sits immediate to the right of Sadyant. 
+
+The person who likes White and Blue sits opposite to each other and they do not face each other. 
+
+The person who likes Blue faces outside the circle. 
+
+Inferences: 
+From the above mentioned hints two cases are possible here: 
+
+Case 1: When Rahman faces outside and  
+Sadyant faces inside 
+
+Case 2: When Rahman faces inside and  
+Sadyant faces outside 
+
+References: 
+Not more than two persons face the same direction sit together. 
+
+Ojasya and Charan face the same direction. 
+
+Rahman and Ojasya are immediate neighbors. 
+
+Rahman and Sadyant sit opposite to each other and neither of them likes Cyan. 
+
+Inferences: 
+Keeping the very first hint in mind we can determine the directions of some persons in the circular 
+arrangement. 
+Here one more case arise from Case 2, which is named as Case 2A. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1: 
+ When Sadyant, Ojasya and Charan 
+face inside and Rahman faces 
+outside 
+
+Case 2: 
+ When Sadyant, Charan and Ojasya  
+face outside and  
+Rahman faces inside 
+
+Case 2(A): 
+When directions of Charan and 
+Ojasya can't be defined 
+
+Here we will make a mental note that neither Rahman nor Sadyant likes Cyan. 
+
+References: 
+Idenya sits second to the right of Madhav who is a neighbor of the one who likes Cyan. 
+
+Ekansh sits second to the right of Idenya. 
+
+The immediate neighbors of Madhav face same direction. 
+
+The person who likes Black sits second to the right of Ekansh. 
+
+Inferences: 
+Case 2 gets eliminated because there is no place for Ekansh to sit. 
+
+Thus we are left with Case 1 and Case 2A only. 
+
+Case 1: 
+
+Case 2: No place for Ekansh 
+to sit 
+[Eliminated] 
+
+Case 2(A): Satisfies all hints 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References: 
+The one who likes Indigo and Green are immediate neighbors. 
+
+Rahman do not like Brown. 
+
+Ojasya and Charan face the same direction.       
+
+The one who likes Maroon sits third to the right of person who likes Green. 
+
+Inferences: 
+Here Case1 gets eliminated as there is no place to accommodate green color. 
+
+Thus we are left with case 2A only. 
+
+Thus, by filling the empty places we get the arrangement as follows. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+51.    Following the common explanation, we get "Tanaya". 
+
+Madhav’s third left is Rahman. Rahman’s second right is Tanaya. 
+
+Hence, Option B is correct. 
+
+52. 
+
+Following the common explanation, we get "The one who likes Brown". 
+
+Hence, Option D is correct. 
+
+53. 
+
+Following the common explanation, we get "The one who likes White-Madhav faces centre". 
+
+Remaining all persons faces outside the centre. 
+
+Hence, Option C is correct. 
+
+54.    Following the common explanation, we get "None". 
+
+Hence, Option D is correct. 
+
+55. 
+
+Following the common explanation, we get "Sadyant". 
+
+Hence, Option A is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (56-60): 
+
+Reference: 
+
+  The one who paid Rs. 79 was neighbouring Tony. 
+  Tony was seated at one of the extreme ends and paid a sum that was a square between 35 and 70, 
+
+which was not the least amount to be paid. 
+
+  Prince was 4th to the left of the one who paid Rs. 39 which is not the least paid amount. 
+  Sohan paid Rs. 39 but was not sitting at the extreme end. 
+  Wahid was seated third to the right of Prince and Prince was not an immediate neighbor of Tony. 
+
+Inference: 
+Following three cases are possible from the given hints. 
+
+The possible amounts paid by Tony are- 36, 49 and 64. 
+
+Person 
+Amount 
+
+Prince 
+
+Person 
+Amount 
+
+Prince 
+
+Person 
+Amount 
+
+Tony 
+
+Prince 
+79 
+
+Prince 
+
+Case 1 
+
+Case 1A 
+Wahid 
+
+Case 2 
+
+Wahid 
+
+Sohan 
+39 
+
+Prince 
+79 
+
+Tony 
+
+Sohan 
+39 
+
+Tony 
+
+Prince 
+79 
+
+Sohan 
+39 
+
+Wahid 
+
+Reference: 
+
+  Sum  of  the  amount  paid  by  Prince  and  Qamar  was  Rs.  160,  where  the  amount  paid  by  Prince  is  a 
+
+perfect square between 30 and 90 and the amount paid by Qamar is a prime number. 
+
+  Nobody paid an amount more than Rs. 85. 
+
+Inference: 
+Here we know that nobody paid an amount more than Rs. 85 and given the amount paid by Prince is a perfect 
+square. 
+
+So, the possible amount paid by Prince in the given scenario is Rs. 81 
+And amount paid by Qamar is 160 – 81 =79, which is a prime number and both the amounts are less than 85. 
+
+Person 
+Amount 
+
+Prince 
+81 
+
+Person 
+Amount 
+
+Prince 
+81 
+
+Person 
+Amount 
+
+Tony 
+
+Qamar 
+79 
+
+Prince 
+81 
+
+Case 1 
+
+Case 1 A 
+Wahid 
+
+Case 2 
+
+Wahid 
+
+Sohan  Qamar 
+
+Tony 
+
+39 
+
+79 
+
+Sohan 
+39 
+
+Tony 
+
+Qamar 
+79 
+
+Sohan 
+39 
+
+Wahid 
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Reference: 
+
+  Vinod paid a sum of Rs. 84 and was third to the left of the one who paid Rs. 75. 
+  Rohit was immediate right of the one who paid half of the amount paid by Vinod. 
+
+Inference: 
+
+Reference: 
+
+Case 1 
+Rohit  Wahid 
+
+Sohan  Qamar 
+
+Tony 
+
+Person 
+Amount 
+
+Vinod 
+84 
+
+Prince 
+81 
+
+75 
+Case 1A: Eliminated because there is no place to fix Rohit’s position as per the last 
+hint. 
+
+79 
+
+39 
+
+42 
+
+Person 
+Amount 
+
+Prince 
+81 
+
+Vinod  Wahid 
+
+84 
+
+Sohan 
+39 
+
+Qamar 
+79 
+
+Tony 
+
+75 
+
+Case 2: Eliminated because there is no place to fix Rohit’s position as per the last 
+hint. 
+
+Person 
+Amount 
+
+Tony 
+
+Qamar 
+79 
+
+Prince 
+81 
+
+Vinod  Wahid 
+
+84 
+
+Sohan 
+39 
+
+75 
+
+  Prince was 4th to the left of the one who paid Rs. 39 which is not the least paid amount. 
+  Tony was seated at one of the extreme ends and paid a sum that was a square between 35 and 70, 
+
+which was not the least amount to be paid. 
+
+Inference: 
+
+  Thus we are left with case 1 only and the vacant position is filled with the only left person i.e.  Umesh. 
+  The possible amounts paid by Tony are- 36, 49 and 64. 
+  And also neither 39 is the least amount nor the amount paid by Tony is the least one. Thus, Wahid paid 
+
+the least amount. 
+
+  Thus Tony didn’t pay Rs. 36. 
+ 
+
+If Tony paid Rs. 49 then the amount paid by Wahid is 500 – (84+81+42+75+39+79+49) => 51, which is 
+not the least. 
+If Tony paid Rs. 64 then the amount paid by Wahid is 500 – (84+81+42+75+39+79+64) => 36, which is 
+the least amount in the given scenario. 
+
+ 
+
+  Thus the final arrangement is obtained as follows. 
+
+Person 
+Amount 
+
+Vinod 
+84 
+
+Prince  Umesh 
+
+Rohit  Wahid 
+
+Sohan  Qamar 
+
+81 
+
+42 
+
+75 
+
+36 
+
+39 
+
+79 
+
+Tony 
+64 
+
+Case 1 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+56.    From the following explanation it is clear that Wahid paid the least amount which is Rs. 36. 
+
+Hence option B is correct. 
+
+57. 
+
+From the following explanation it is clear that the difference between the amounts paid by the persons 
+at extreme ends is 84 – 64 = 20. 
+
+Hence option D is correct. 
+
+58. 
+
+From the following explanation it is clear that Tony paid Rs. 64. 
+
+Hence option A is correct. 
+
+59.    From the following explanation it is clear that "Qamar" is the odd one out because the amount paid by 
+
+him is a prime number whereas the amount paid by all others are composite numbers. 
+
+Hence option E is correct. 
+
+60.    From the following explanation it is clear that "Wahid – 26" is the incorrect combination. 
+
+Hence option C is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common explanation : (61 - 65) 
+
+References: 
+
+Lavanya, Manoj, Nitin, Oviya and Pravin are sitting in Row-1 and facing north direction. 
+
+Qasim, Rahul, Tahir, Sairam and Uday are sitting in Row-2 and facing south direction. 
+
+Manoj likes Blue and sits at the extreme end. 
+
+Manoj does not face the person who likes Green colour. 
+
+Manoj sits to the left of Pravin. 
+
+Qasim likes Green colour and sits fourth to the left of Sairam. 
+
+Sairam faces Lavanya, who likes Red colour. 
+
+No person sits between Sairam and Tahir, who is facing Pravin. 
+
+Pravin sits immediate left of vacant seat. 
+
+Inferences: 
+From above statements, 
+
+Manoj likes Blue sits at the extreme end. Manoj does not face the person who likes Green colour.  Manoj sits 
+to the left of Pravin. 
+
+Manoj sits to the left of Pravin. Therefore Manoj sits extreme left end in Row-1. 
+
+No person sits between Sairam and Tahir, who is facing Pravin. 
+
+Here, we get one more possibility i.e. Sairam and Tahir are may be the immediate neighbors or one vacant is 
+there between Sairam and Tahir. It is shown in following case, 
+
+By using all other information we get the following case, 
+
+Case 1: Manoj sits at the extreme left end of the Row-1 and likes Blue colour (only possibility). Sairam and 
+Tahir are immediate neighbors. 
+
+Colour [Row-2] 
+Person [South] 
+
+Case:1 
+
+Sairam 
+
+Tahir 
+
+Green 
+Qasim 
+
+Person [North]  Manoj 
+Blue 
+Colour[Row-1] 
+
+Lavanya  Pravin 
+
+Red 
+
+Vacant 
+
+   Manoj 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Case 1-A: Manoj sits at the extreme left end of the Row-1 and likes Blue colour (only possibility). There is one 
+vacant seat is there between Sairam and Tahir. 
+
+Colour [Row-2] 
+Person [South] 
+
+Case:1-A 
+
+Sairam 
+
+Vacant 
+
+Person [North]  Manoj 
+Blue 
+Colour[Row-1] 
+
+Lavanya 
+Red 
+
+Tahir 
+
+Pravin 
+
+Vacant 
+
+Green 
+Qasim 
+
+Manoj 
+
+References: 
+The person who likes Indigo sits third to the right of person who likes Yellow. 
+
+Pravin doesn’t like Yellow and the person who likes Yellow faces north direction. 
+
+Inferences: 
+From above statements, 
+
+Case 1: There is no place for the one who likes Indigo and the one who likes Yellow with 2 gaps in Row-1. 
+Hence this case becomes invalid and can be eliminated. 
+
+Case:1 [Eliminated] No place for yellow and Indigo 
+
+Colour [Row-2] 
+Person [South] 
+
+Sairam 
+
+Tahir 
+
+Person [North]  Manoj 
+Blue 
+Colour[Row-1] 
+
+Lavanya  Pravin 
+Yellow 
+
+Red 
+
+Vacant 
+
+Green 
+Qasim 
+
+Manoj 
+
+Case  1-A:  The  one  who  likes  Indigo  sits  on  extreme  right  end  and  the  one  who  likes  Yellow  sits  on  the 
+immediate right of Lavanya in Row-1. 
+
+Colour [Row-2] 
+Person [South] 
+
+Case:1-A 
+
+Sairam 
+
+Vacant 
+
+Person [North]  Manoj 
+Blue 
+Colour[Row-1] 
+
+Lavanya 
+Red 
+
+Yellow 
+
+Tahir 
+
+Pravin 
+
+Green 
+Qasim 
+
+Vacant 
+
+Indigo 
+
+Note: Only case1-A is left to continue. 
+
+References: 
+Oviya sits third to the left of the person who likes Indigo colour. 
+
+Uday likes Purple colour and sits at one of the extreme ends. 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Inferences: 
+From above statements, 
+
+Oviya sits third to the left of the person who likes Indigo color. 
+
+Here, Oviya likes Yellow colour and Nitin (only person left in Row-1) likes Indigo color. 
+
+Uday likes Purple colour and sit at extreme right end in Row-2 
+
+By using all other information we get the following case, 
+
+Colour [Row-2]  Purple 
+Person [South]  Uday 
+
+Sairam 
+
+Vacant 
+
+Case:1-A 
+
+Person [North]  Manoj 
+Blue 
+Colour[Row-1] 
+
+Lavanya  Oviya 
+Yellow 
+
+Red 
+
+Tahir 
+
+Pravin 
+
+Vacant 
+
+Green 
+Qasim 
+
+Nitin 
+Indigo 
+
+References: 
+The person who likes Violet color sits second to the right of Lavanya. 
+
+The person who likes Violet colour and the person who likes White colour are facing each other. 
+
+Rahul likes Orange colour and sits third to the left of the person who likes Black colour. 
+
+Inferences: 
+From above statements, 
+
+Pravin likes Violet colour and Tahir likes White colour. 
+
+Rahul likes Orange colour and Sairam likes Black colour. 
+
+Thus we get the completed case as follows, 
+
+Colour [Row-2]  Purple 
+Person [South]  Uday 
+
+Black 
+Sairam 
+
+Vacant 
+
+White  Orange  Green 
+Rahul  Qasim 
+Tahir 
+
+Case:1-A 
+
+Person [North]  Manoj 
+Blue 
+Colour[Row-1] 
+
+Lavanya  Oviya 
+
+Pravin 
+Yellow  Violet 
+
+Vacant 
+
+Nitin 
+Indigo 
+
+Red 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+61.    The following common explanation , we get "Rahul-Orange", 
+
+Hence, option C is correct. 
+
+62. 
+
+The  following  common  explanation  ,  we  get  "Pravin,  the  person  who  likes  Violet  doesn’t  sit  at  any 
+corner", 
+
+Remaining 4 options (colours) are placed at extreme ends 
+
+Hence, option E is correct. 
+
+63. 
+
+The following common explanation, we get "Second from the left end in Row-2", 
+
+Hence, option C is correct. 
+
+64.    The following common explanation , we get "The person who likes Yellow and the person who likes 
+
+Red", 
+
+Manoj likes Blue & Pravin like Violet. 
+
+Oviya (Yellow) and Lavanya (Red) sit between Manoj and Pravin. 
+
+Hence, option D is correct. 
+
+65. 
+
+The following common explanation, we get "None of these", 
+
+Tahir likes White and his immediate right is vacant seat. 
+
+Hence, option E is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common explanation : (Q. 66 to Q.70) 
+
+Reference: 
+Gaurav had thrice the number of chocolates as that with Dhanush, who was sitting to the immediate right of 
+Bimal. 
+
+The person opposite to Bimal had 7 chocolates. 
+
+The number of chocolates that Erik had was a prime number. 
+
+Bimal had twice the number of chocolates that Erik had. 
+
+They have different amount of chocolates with them viz. 4, 7,12, 17, 18, 21, 34 and 36. 
+
+Inference: 
+From the given number of chocolates, prime numbers are 7 and 17 only. But twice of 7 is 14, which is not 
+among the given numbers. Thus the number of chocolates with Erik is17. 
+
+Then as per the fourth hint, number of choclates with Bimal would be 34 accordingly. 
+
+Then for number of chocolates with Gaurav and Dhanush, as per our first hint there are only two 
+combinations which are 4 – 12 and 7 – 21 among the given set of numbers. 
+
+But since we know that the person having 7 chocolates sits opposite to Bimal and Dhanush sits to the 
+immediate right of Bimal, thus Dhanush will be having 4 chocolates. 
+
+So, the number of chocolates with Dhanush is 4 and Gaurav is 12. 
+
+No. of 
+Chocolates 
+
+34 
+
+4 
+17 
+
+12 
+
+Persons 
+
+Ajay 
+Bimal 
+Chander 
+Dhanush 
+Erik 
+Feroz 
+Gaurav 
+Harish 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+                 
+ 
+Reference: 
+Ajay was sitting opposite to the person having 21 chocolates. 
+
+The difference of the number of chocolates that Ajay and Bimal had was two, where the number of chocolates 
+with Ajay was a perfect square. 
+
+Ajay and Bimal were seated at a gap of two. 
+
+Inference: 
+The number of chocolates with Bimal is 34, and the difference between Ajay and Bimal's chocolates is 2, thus 
+number of chocolates with Ajay would be 36 (perfect square of 6). 
+
+No. of 
+Chocolates 
+36 
+34 
+
+4 
+17 
+
+12 
+
+Persons 
+
+Ajay 
+Bimal 
+Chander 
+Dhanush 
+Erik 
+Feroz 
+Gaurav 
+Harish 
+
+Reference: 
+Harish was sitting third to the left of the one who had 18 chocolates. 
+
+Harish and Gaurav were seated at a gap of 1 person. 
+
+Erik and Feroz had consecutive number of chocolates.  
+
+The number of chocolates with Gaurav was opposite of the digits of the number of chocolates with Harish. i.e. 
+if Harish has 'mn' number of chocolates, then Gaurav will have 'nm' number of chocolates. 
+
+Harish had more chocolates than Gaurav and the number of chocolates with both of them were in double 
+digits. 
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inference: 
+
+We already know that Erik has 17 chocolates, so the number of chocolates with Feroz is 18 (refer third hint). 
+
+Now the numbers left are - 7 and 21 and the persons left are Harish and Chander. 
+
+With the fourth hint it is clear that number of chocolates with Harish is 21 (which is opposite to 12[Gaurav's 
+chocolates] and more than Gaurav) 
+
+So Chander will be having 7 chocolates and sits opposite to Bimal. 
+
+Persons 
+
+Ajay 
+Bimal 
+Chander 
+Dhanush 
+Erik 
+Feroz 
+Gaurav 
+Harish 
+
+No. of 
+Chocolates 
+36 
+34 
+7 
+4 
+17 
+18 
+12 
+21 
+
+66.    From the following explanation it is clear that Chander has the seocnd least number of chocolates. 
+
+Hence option B is correct. 
+
+67. 
+
+From the following explanation it is clear that "Dhanush – 4" is the correct combination. 
+
+Hence option C is correct. 
+
+68. 
+
+The person having least number of chocolates is Dhanush and the person second to his left is Harish 
+having 21 chocolates. 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ajay has 36 chocolates. 
+
+Required difference = 36 – 21 -> 15. 
+
+Thus, Ajay has 15 chocolates more than the one who sits second to the left of one who has the least 
+number of chocolates. 
+
+Hence option A is correct. 
+
+69.    From the following explanation it is clear that the odd one out here is 'Harish' who has an odd number 
+
+of chocolates. 
+
+Rest of the persons have even number of chocolates. 
+
+Hence option E is correct. 
+
+70. 
+
+From the following explanation it is clear that the one who has 18 chocolates is fifth to the right of the 
+one who has 12 chocolates. 
+
+Hence option D is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (71-75): 
+
+References: 
+Seetha sits exactly in the middle of the north facing row. 
+
+Pravin sits at the extreme right end of the south facing row. 
+
+Tushar sits with Ximon and Wahab and opposite to Umesh. 
+
+Wahab was born in August month. 
+
+Inferences: 
+From above statements 
+
+Seetha sits exactly in the middle of the north facing row. 
+
+Seetha sits exactly in the middle of the Row-1 and faces north direction. 
+
+Pravin sits at the extreme right end of the south facing row. 
+
+Pravin sits at the extreme right end of the Row-2 and faces south direction. 
+
+Tushar sits with Ximon and Wahab and opposite to Umesh. Wahab was born in August month. 
+
+Here we get two possibilities i.e. 
+
+Case 1: Tushar is an immediate neighbor of both Ximon and Wahab. Tushar sits opposite to Umesh. Wahab 
+was born in August month. Here there is no place for Tushar in the Row-1. If Tushar sits in the Row-2 i.e. 
+2nd from the left end (only possibility) and then and then Wahab sits to the immediate right of Tushar & he 
+was born in August month. Also, Ximon sits to the immediate left of Tushar. Finally, Umesh sits opposite to 
+Tushar. 
+
+Case 2: Tushar is an immediate neighbor of both Ximon and Wahab. Tushar sits opposite to Umesh. Wahab 
+was born in August month. Here there is no place for Tushar in the Row-1. If Tushar sits in the Row-2 i.e. 
+2nd from the left end (only possibility) and then and then Wahab sits to the immediate left of Tushar & he was 
+born in August month. Also, Ximon sits to the immediate right of Tushar. Finally, Umesh sits opposite to 
+Tushar. 
+
+By using all above information, we get the initial seating as follows, 
+
+Month [South] 
+Person [Row-2]  Pravin 
+
+August 
+Wahab  Tushar 
+
+Ximon 
+
+Case :1 
+
+Person [Row-1] 
+Month [North] 
+
+Seetha  Umesh 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Month [South] 
+Person [Row-2]  Pravin 
+
+Ximon 
+
+August 
+Tushar  Wahab 
+
+Case :2 
+
+Person [Row-1] 
+Month [North] 
+
+Seetha  Umesh 
+
+References: 
+Queen sits opposite to Raman and to the immediate right of the person, who was born in May month. Raman 
+doesn’t face south direction. 
+
+Only one person sits between the two persons who were born in May. 
+
+Inferences: 
+From above statements 
+
+Queen sits opposite to Raman and to the immediate right of the person, who was born in May month. Raman 
+doesn’t face south direction. 
+
+Raman faces north direction and sits opposite to Queen. Queen faces south direction and sits to the 
+immediate right of the person, who was born in May month. 
+
+Case 1: With respect to above statement, there is no place for Queen in case-1. Thus case-1 becomes invalid 
+and it can be eliminated. 
+
+Case :1 [Eliminated] 
+No place for Queen, who sits to the immediate right of the 
+person, who was born in May month in Row-2 
+
+Month [South] 
+Person [Row-2]  Pravin 
+
+August 
+Wahab 
+
+Tushar 
+
+Ximon 
+
+Person [Row-1] 
+Month [North] 
+
+Seetha  Umesh 
+
+Case  2:  Here,  Raman  sits  2nd from  the  left  end  of  the  Row-1  and  he  faces  Queen  (only  possibility).  As  per 
+statement,  Ximon  was  born  in  May  month.  Queen  sits  to  the  immediate  right  of  Ximon.  Given,  only  one 
+person sits between the two persons who were born in May. Therefore, Pravin was born in May month. 
+
+All the statements gets satisfied and we get the following seating, 
+
+Month [South]  May 
+Person [Row-2]  Pravin  Queen 
+
+May 
+Ximon 
+
+August 
+Tushar  Wahab 
+
+Case :2 
+
+Person [Row-1] 
+Month [North] 
+
+Raman  Seetha  Umesh 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Note: Case-1 gets eliminated and we have Case-2 to continue. 
+
+References: 
+The person who was born in March sits to the immediate right of Yousuf and opposite to the person who is 
+born in April. 
+
+Only one person sits between the two persons who were born in April. 
+
+The person born in January sits to the right of the person born in July but they don’t sit at any of the ends. 
+
+Exactly two persons were born in each of the month of April, May and June. 
+
+Inferences: 
+From above statements 
+
+The person who was born in March sits to the immediate right of Yousuf and opposite to the person who is 
+born in April. 
+
+Here, Yousuf sits at extreme left end of the Row-1 (only possibility) and Raman was born in March & he sits to 
+the immediate right of Yousuf. Raman faces Queen, who was born in April as per statement. 
+
+Only one person sits between the two persons who were born in April. 
+
+Here, both Queen and Tushar were born in April & only Ximon sits between Queen and Tushar. 
+
+The person born in January sits to the right of the person born in July but they don’t sit at any of the ends. 
+
+Finally, Vinoth sits at extreme right end of the Row-1 (only person left among ten). As per above statement, 
+Seetha was born in July and Umesh was born in January i.e. they are sitting from 3rd and 2nd from the right end 
+of the Row-1 respectively. 
+
+Exactly two persons were born in each of the month of April, May and June. 
+
+Finally, Yousuf and Vinoth were born in June month (only possibility). Thus we get the completed seating 
+arrangement as shown below. 
+
+Case :2 
+April 
+Month [South]  May 
+Person [Row-2]  Pravin  Queen 
+
+May 
+Ximon 
+
+August 
+April 
+Tushar  Wahab 
+
+Person [Row-1]  Yousuf  Raman  Seetha  Umesh  Vinoth 
+June 
+Month [North] 
+
+June  March 
+
+January 
+
+July 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+71.    The following common explanation, we get "The one who was born in June". 
+
+Vinoth who was born in June month and sits to the immediate right of Umesh. 
+
+Hence, option A is correct. 
+
+72. 
+
+The following common explanation, we get "Yousuf and Vinoth were born in June month". 
+
+Hence, option A is correct. 
+
+73. 
+
+The following common explanation, we get “July". 
+
+Ximon sits opposite to Seetha. Seetha was born in July month. 
+
+Hence, option B is correct. 
+
+74.    The following common explanation, we get ”Yousuf-July, wrongly paired i.e. Yousuf was born in June 
+
+month". 
+
+Remaining 4 options are correctly paired. 
+
+Hence, option E is correct. 
+
+75. 
+
+The following common explanation, we get “None of the above". 
+
+All the statements are false. 
+
+Hence, option E is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common explanation : (Q. 76 to Q. 80) 
+
+Reference: 
+Some persons are sitting around a circular table facing towards the centre and at an equal distance from each 
+other. Each of these persons has a different income greater than 11 Lakhs but less than 20 Lakhs. 
+
+Inference: 
+Here, we can say that there were at most 8 seats in the arrangement and we keep the rest of the information 
+in mind while solving the puzzle. 
+
+Reference: 
+Anuj sits opposite to Faiz but neither of them are sitting adjacent to Jaya. 
+
+Inference: 
+Using the above information we can say that there were even numbers of seats around the circular table as it 
+is  given  that  Anuj  is  sitting  opposite  to  Faiz  and  we  know  that  all  these  persons  are  equidistant  from  each 
+other which cannot be possible if the number of seats is odd. 
+
+Here,  we  will  make  a  mental  note  that  neither  Jaya  nor  Reet  are  sitting  adjacent  to  Jaya. 
+
+Reference: 
+There are two seats between Jaya and Reet. 
+
+Inference: 
+At this point we can say that were exactly 8 seats in the arrangement because of the number of seats is less 
+than 8 the above hints will not follow. 
+
+At this point we can fix the position of Jaya, Reet, Anuj and Faiz as: 
+
+Case 1: 
+
+Case 2: 
+
+Reference: 
+
+Anuj’s income is in multiple of 5 but it is not the highest. 
+
+Reet’s income is in perfect square number. 
+
+Jaya’s income is in even number. 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Inference: 
+
+After using the above hints, we have: 
+
+Anuj’ income = 15 Lakhs 
+
+Reet’s income = 16 Lakhs 
+
+Here, we will make mental note that income of Jaya was an even number. 
+
+Reference: 
+
+Pari sits on the seat which is second to the right of one, whose income is 13 Lakhs. 
+
+The one, whose income is 19 Lakhs, is sitting on the seat which is to the immediate right of Pari’s seat. 
+
+Inference: 
+
+Here, there are three possible scenarios in which we can use the above hints in case 1. 
+
+Case 1-A 
+
+Case 1-B: 
+
+Case 1-C: 
+
+Case 2: 
+
+Reference: 
+
+Only one seat was vacant. 
+
+None of the seats adjacent to Anuj is vacant. 
+
+Inference: 
+
+At this point our Case 1-A, Case 1-B and Case 2 are contradicting with the above hints. So we can say that Case 
+1-A, Case 1-B and Case 2 are invalid cases. 
+
+Reference: 
+
+The income of the persons sitting adjacent to vacant seat is the just next number of income the persons sitting 
+adjacent to them. 
+The number of persons between Reet and Dev are same as the number of persons between Anuj and Mala. 
+
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+  
+  
+Inference: 
+ After using the above hints, we have: 
+
+Case 1-C:  
+
+76.    Following the final solution we can say that seven persons are sitting around the circular table. 
+
+Hence, the correct answer is option B. 
+
+77. 
+
+Following the final solution we can say that Reet is sitting opposite to Mala. 
+
+Hence, the correct answer is option D. 
+
+78. 
+
+Following the final solution we can say that we have no information about the income  of Pari but we 
+have only two option left with us that must be lie in between 11 Lakhs and 20 Lakhs i.e 12 Lakhs and 18 
+Lakhs so we can say that Pari income must be either 12 Lakhs or 18 Lakhs. 
+
+Hence, the correct answer is option D. 
+
+79.    Following the final solution we can say that the vacant seat third to the right of Dev. 
+
+Hence, the correct answer is option A. 
+
+80. 
+
+Following the final solution we can say that Jaya is the one that does not belong to the group because 
+of all the persons given in the option Jaya is the only persons whose income is in even number. 
+
+Hence, the correct answer is option C. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (81-85): 
+
+Reference: 
+
+  Rahul is sitting third to the left of Deepak. 
+  Deepak likes  Zee TV and is sitting third to the right of the one who likes Sony. 
+  The one who likes &tv is sitting second to the left of the one who likes Zee TV. 
+
+Inference: 
+On the basis of above direct hints, following arrangement can be drawn: 
+
+ Reference: 
+
+  The one who likes Sony is to the immediate right of Hiten and Hiten does not like Star plus. 
+  The one who likes SAB is sitting second to the left of Hiten. 
+  Hiten is sitting third to the left of Deepika. 
+
+Inference: 
+
+On the basis of above direct hints, following arrangement can be drawn: 
+
+Reference: 
+
+  Neither Sumeet nor Kunal is an immediate neighbour of Hiten. 
+  Viraj who likes Colors is sitting exactly between Deepak and Kunal. 
+
+Inference: 
+With the first hint it is clear that neither Sumeet nor Kunal can sit adjacent to Hiten and Viraj sits exactly  
+between Deepak and Kunal, So, Kunal must be sitting second to the right of Deepak and Viraj sits immediate 
+right of Deepak. 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+The only left place for Sumeet is thus, second to the left of Deepak. 
+
+Reference:  
+
+  The one who likes Star Bharat is sitting second to the right of the one who likes Colors. 
+
+Inference: 
+As Hiten does not like Star plus, so Deepika must like Star plus. 
+
+Hiten must like the only left channel i.e. DD National. 
+
+And the only left person i.e. Anup must  be sitting at immediate left of Hiten. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+81.    From the following explanation it is clear that Kunal sits third to the right of Deepika. 
+
+Hence option B is correct. 
+
+82. 
+
+From the following explanation it is clear that the one who likes DD National sits opposite to the one 
+who likes Zee TV. 
+
+Hence option D is correct. 
+
+83. 
+
+From the following explanation it is clear that the one who likes Star plus is third to the right of Hiten. 
+
+Hence option A is correct. 
+
+84.    From the following explanation it is clear that Anup is related to Sony in the same way as Viraj is 
+
+related to Star Bharat and Hiten is related to &tv. 
+
+Logic: The person is related to channel as second to the left of the channel. 
+
+Hence option E is correct. 
+
+85. 
+
+From the following explanation it is clear that Anup-Star plus is the false combination. 
+
+Hence option B is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (86-90): 
+
+Reference: 
+Six  persons  –  Bala,  Siya,  Raja,  Vani, Pant and Minu  were  sitting  in  a  straight  facing towards  north,  and  each 
+is  shown  below: 
+person  had  a  different  age  and  the  order  of  the  ages  of  these  persons 
+
+Vani (109) > Siya (95) > Minu (91) > Pant (118) > Bala (100) > Raja (86) 
+
+The numbers shown in the bracket shows the marks obtained by these persons in the IQ test. Each person was 
+born  in  different  city  –  Pune,  Agra,  Noida,  Ranchi,  Patna  and  Jhansi  not  necessarily  in  the  same  order. 
+
+Inference: 
+After using the above hints, we have: 
+
+Eldest 
+
+ Order of Age  Person  Marks 
+109 
+95 
+91 
+118 
+86 
+100 
+
+Vani 
+Siya 
+Minu 
+Pant 
+Raja 
+Bala 
+
+Youngest 
+
+We will keep the rest of the information in mind while solving the puzzle. 
+
+Reference: 
+The person with the highest marks was at one of the extreme end. 
+Number of persons to the left of Siya was equal to the number of persons to the right of the one born in Agra. 
+Siya was 3rd to the left of the one born in Pune. 
+
+Inference: 
+We already know that Pant scored highest marks. 
+Here, we have three possible scenarios in which the above hints can be used accordingly. 
+
+Case 1: 
+
+Case 2: 
+
+Case 3: 
+
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+Reference: 
+Siya was to the immediate left of Minu. 
+The eldest person was 3rd to the right of the one born in Jhansi. 
+Vani was born in Ranchi. 
+
+Inference: 
+We already know that Vani is the eldest person. 
+Here, we have three possible scenarios in which the above hints can be used accordingly. 
+
+Case 1: 
+
+Case 2: 
+
+Case 3: 
+
+Reference: 
+The one born in Patna was to the immediate left of the person with the lowest marks. 
+
+Siya was not neighbouring the person with the lowest marks. 
+
+Inference: 
+ We already know that Raja scored the lowest marks. 
+
+At this point we cannot fix the position of Raja in case 1 and case 3 according to the given hints so we can say 
+that case 1 and case 3 are invalid cases. 
+
+Case 2: 
+
+At this point we can say that Siya was born in Noida and Bala was born in Patna. 
+
+Case 2: 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+86.    Following the final solution we can say that the one who scored third highest marks was born in Patna. 
+
+Hence, the correct answer is option D. 
+
+87. 
+
+Following  the  final  solution  we  can  say  that  two  persons  scored  more  marks  than  the  one  who  was 
+born in Patna. 
+
+Hence, the correct answer is option B. 
+
+88. 
+
+Following the final solution we can say that Siya was sitting at an extreme end. 
+
+Hence, the correct answer is option E. 
+
+89.    Following the final solution we can say that the marks scored by the persons who were born in Noida 
+
+and Patna were 95 and 100 respectively. 
+
+Required Difference = 100 – 95 = 5 
+
+Hence, the correct answer is option A. 
+
+90. 
+
+Following the final solution we can say that two persons were there between Bala and the one who 
+was born in Agra. 
+
+Hence, the correct answer is option C. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Explanations (91-95): 
+
+Reference: 
+Nine cars – Nano, Creta, Verna, Polo, Brezza, Duster, WagonR, Captur and Amaze, were parked in a circular 
+parking  lot  which  has  space  to  park  at  least  10  cars.  All  the  cars  were  parked  facing  towards  the  centre. 
+
+Inference: 
+We will keep this information in mind while solving the puzzle. 
+
+Reference: 
+Polo was parked second to the left of Captur and was at a gap of 3 spots from Duster. 
+Amaze was parked on the immediate right of Duster. 
+WagonR and Polo were parked at a gap of 5 spots and only one car was parked on one of those 5 spots. 
+
+Inference: 
+Here, we have two possible scenarios in which above hints can be used accordingly. 
+
+Case 1: 
+
+Case 2: 
+
+Here, we cannot fix the position of WagonR on the sixth to the right of Polo in case 1 and sixth to the left of 
+polo in case 2 as this will contradict the hints that only one car was parked between WagonR and Polo. 
+Reference: 
+Brezza was parked neighbouring Nano and was second to the left of WagonR. 
+Verna was parked at a gap of 1 spot from Duster. 
+
+Inference: 
+At  this  point  we  cannot  fix  the  position  of  Brezza  second  to  the  left  of  WagonR  in  case  2  because  this  will 
+contradict with the information that only one car was parked between WagonR and Polo. 
+
+After using the above hints in case 1, we have: 
+
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+Case 1-A: 
+
+Case 1-B: 
+
+Reference: 
+Only 2 cars were parked between Nano and Duster, but Nano was not parked neighbouring Verna. 
+Not more than 2 spots were there between Brezza and Verna when counted from the right of Verna. 
+
+Inference: 
+At this point we cannot use the above hints in case 1-B as this is contradicting with the hints that only 2 cars 
+were parked between Nano and Duster so we can say that case 1-B is an invalid case. 
+
+Case 1-A: 
+
+Reference: 
+Number  of  spots  between  Creta  and  Brezza  when  counted  from  the  left  of  Creta  was  one  more  than  the 
+number of spots between Brezza and Amaze when counted from the right of Amaze. 
+
+Inference: 
+After using the above hints we can fix the position of Creta easily. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+Case 1-A: 
+
+91.    Following the final solution, we can say that Creta was third to the left of Polo. 
+
+Hence, the correct answer is option C. 
+
+92. 
+
+Following the final solution, we can say that there were 2 vacant spots between WagonR and Duster, 
+when counted from the left of WagonR. 
+
+Hence, the correct answer is option A. 
+
+93. 
+
+Following the final solution, we can say that Captur was sixth to the left of Nano. 
+
+Hence, the correct answer is option A. 
+
+94.    Following the final solution, we can say that three cars were parked between Creta and Verna, when 
+
+counted from the right of Verna. 
+
+Hence, the correct answer is option C. 
+
+95.    Following the final solution, we can say that 17 cars can be parked in the parking lot. 
+
+Hence, the correct answer is option D. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Common Explanations (96-100): 
+
+Reference: 
+B is third to the left of C, who faces (i) ______. 
+Only D is adjacent to C. 
+B is on the immediate right of G, who faces north. 
+
+Inference: 
+With the second hint is clear that C is at an extreme end, only then it is possible for C to have only one 
+immediate neighbor i.e. D. 
+
+But we don’t know whether C is at extreme right end or extreme left end, so we can have two possible cases. 
+
+Case-1: When C is at extreme right end and faces north 
+
+Case-2: When C is at extreme left end and faces south. 
+
+Reference: 
+F is second to the right of B, who faces (iii) ________. 
+Not more than two persons facing same direction are adjacent to each other. 
+
+Inference: 
+We can have different implications of the first hint in both the cases. 
+
+In Case-1: B must face South in order to place F second to its right. 
+
+In Case-2: B must face North in order to place F second to its right. 
+As per the second hint, the immediate neighbors of B and G must face south direction. 
+
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+Reference: 
+(ii) _____ is second to the left of G and faces north. 
+A and E are immediate neighbors, where the latter is at an extreme end. 
+
+Inference: 
+Case-2 gets eliminated due to non-fulfillment of the first hint, because the person sitting second to the left of 
+G does not face north direction. 
+
+Thus, we will proceed with case-1 only. We don’t know the person sitting second to the left of G, but we 
+definitely know that he/she faces north direction. 
+
+A and E are immediate neighbors with E being positioned at extreme end, thus A must be adjacent to F and E 
+is at extreme left end. 
+
+Reference: 
+H is on the immediate right of (iv) ______ 
+Not more than two persons facing same direction are adjacent to each other. 
+
+Inference: 
+The only place left for H, is immediate left of B. Thus D faces south, only then H will be on immediate right of 
+D. 
+
+As per the second hint, H must face north direction and F must face south direction. 
+
+Reference: 
+The immediate neighbors of A face (v) ______ direction. 
+In a linear row of 8 persons from A to H, four people face towards north and four towards south. 
+
+Inference: 
+As four persons face south direction, thus E must face south direction. 
+Therefore the immediate neighbors of A face south direction. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+96.    Following the final solution, we get 
+
+A will fill the blank (ii). 
+
+Hence option B is correct. 
+
+97. 
+
+Following the final solution, we get 
+
+D will fill the blank (iv). 
+
+Hence option D is correct. 
+
+98. 
+
+Following the final solution, we get 
+
+North will fill the blank (i). 
+
+Hence option C is correct. 
+
+99.    Following the final solution, we get 
+
+‘The direction same as faced by D’ will fill the blank (iii). 
+
+Hence option B is correct. 
+
+100.  Following the final solution, we get 
+
+South will fill the blank (v). 
+
+Hence option A is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us  
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

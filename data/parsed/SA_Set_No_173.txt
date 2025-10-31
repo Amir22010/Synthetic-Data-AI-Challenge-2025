@@ -1,0 +1,544 @@
+ 
+  
+ 
+Seating Arrangement for RBI Grade B, SBI Clerk Mains, IBPS Clerk 
+Mains and RBI Assistant Mains Exams. 
+SA Set No 173 
+
+Directions: Study the following information carefully and answer the questions given beside. 
+
+Certain number of persons are sitting around a circular table and facing towards the center of 
+the table. Some of them own different cars. No two persons have same car. 
+
+Three persons are sitting between Thakur and the one, who owns Renault. Two persons are 
+sitting  between  Thakur  and  Prince.  Robert  is  sitting  second  to  the  left  of  Prince.  Samuel  is 
+sitting  second  to  the  left  of  Robert.  Samuel  and  Thakur  are  not  the  immediate  neighbors. 
+Qasim is sitting second to the right of Thakur. The one, who owns Ford, is sitting third to the 
+left of Qasim. The one, who owns Hyundai, is sitting second to the left of the one, who owns 
+Ford.  Three  persons  are  not  sitting  between  the  one,  who  owns  Renault  and  the  one,  who 
+owns  Honda,  when  counted  from  the  right  of  the  one,  who  owns  Honda.  The  one,  who  sits 
+immediate left of Samuel, owns Honda. Number of persons sitting between Qasim and Prince, 
+when  counted  from  right  of  Prince  is  four  times  as  the  number  of  persons  sitting  between 
+Samuel and Qasim, when counted from left of Samuel. 
+
+Questions : 
+
+1.  Who owns Ford car? 
+
+A. The one who sits third to the right of Robert. 
+B. The one, who sits sixth to the right of the one, who owns Honda. 
+C. The one who sits fifth to the left of Samuel. 
+D. The one who sits immediate right of the one, who owns Hyundai. 
+E. None of these 
+
+2.  Who sits third to the right of the one, who owns Honda car? 
+
+A. Samuel 
+
+B. Qasim 
+
+C. Robert 
+
+D. Prince 
+
+E. None of these 
+
+3. 
+
+A. 9 
+
+4. 
+
+How many persons are sitting in the circle? 
+
+B. 13 
+
+C. 12 
+
+D. 11 
+
+E. None of these 
+
+If Gerard sits third to the left of Patel, who owns Audi car and then which among the 
+following statement is True? 
+
+A. Gerard sits immediate right of the one, who owns Hyundai. 
+B. Qasim and Patel are immediate neighbors. 
+D. Two persons sit between Robert and Gerard, counted from right of Robert. 
+E. All the above 
+
+C. Patel sits third to the left of Samuel. 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  
+
+If Raina sits to the immediate right of Mohan, then Raina owns ______________ car? 
+
+A. Honda 
+
+B. Renault 
+
+C. Ford  
+
+D. Hyundai 
+
+E. None 
+
+Correct Answers: 
+
+1 
+C 
+
+2 
+C 
+
+3 
+D 
+
+4 
+E 
+
+5 
+C 
+
+      Join us 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+       Join us 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+  
+ 
+               
+ 
+ 
+              
+ 
+ 
+ 
+ 
+Common explanation : 
+
+References: 
+Certain number of persons is sitting in a circular table and is facing towards the center of the table. 
+
+Some of them own different cars. 
+
+No two persons have same car. 
+
+Inferences: 
+From above statements, 
+
+Keep above information in mind while solving this seating. 
+
+References: 
+Robert is sitting second to the left of Prince. 
+
+Samuel is sitting second to the left of Robert. 
+
+Inferences: 
+From above statements, 
+
+Let the position of the person be numbered as 1 to till last in clockwise direction. 
+
+Let the Prince sits at 1 and then Robert and Samuel will sit at 3 and 5 respectively. 
+
+By using above information we get the following seating, 
+
+References: 
+Two persons are sitting between Thakur and Prince. 
+
+Samuel and Thakur are not the immediate neighbors. 
+
+Inferences: 
+From above statements, 
+
+Thakur can’t sit at 4 (adjacent to Samuel) 
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+Therefore, Thakur sits third to the right of Prince as shown, 
+
+Note: Thakur position is known only based on other statements. 
+
+References: 
+Qasim is sitting second to the right of Thakur. 
+
+Number of persons sitting between Qasim and Prince, when counted from right of Prince is four times as the 
+number of persons sitting between Samuel and Qasim, when counted from left of Samuel. 
+
+Inferences: 
+From above statements, 
+
+Qasim is sitting second to the right of Thakur. 
+
+Given, Number of persons sitting between Qasim and Prince, when counted from right of Prince = 4 × number 
+of persons sitting between Samuel and Qasim, when counted from left of Samuel 
+
+As per above seating, number of persons sitting between Qasim and Prince, when counted from right of Prince 
+is 4 
+
+4 = 4 × number of persons sitting between Samuel and Qasim, when counted from left of Samuel 
+
+Therefore number of person sitting between Samuel and Qasim, when counted from left of Samuel, is 1. 
+
+Thus we can conclude that there are 11 persons sitting in the circle and Qasim and Thakur sit at 7 and 9 
+respectively as shown, 
+
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+References: 
+The one, who sits immediate left of Samuel, owns Honda. 
+
+The one, who owns Ford, is sitting third to the left of Qasim. 
+
+The one, who owns Hyundai, is sitting second to the left of the one, who owns Ford. 
+
+Three persons are sitting between Thakur and the one, who owns Renault. 
+
+Inferences: 
+From above statements, 
+
+The one, who sits at 6, owns Honda (immediate left of Samuel) 
+
+The one, who sits at 10, owns Ford (third to the left of Qasim) 
+
+Prince owns Hyundai (second to the left of the one, who owns Ford) 
+
+Three persons are sitting between Thakur and the one, who owns Renault i.e. either Samuel or the one who 
+sits at 2, owns Renault. 
+
+By using above information we get the following seating, 
+
+References: 
+Three persons are not sitting between the one, who owns Renault and the one, who owns Honda, when 
+counted from the right of the one, who owns Honda. 
+
+Inferences: 
+From above statements, 
+
+If the one, who owns Renault, sits at 2, then there are 3 persons sitting between the one, who owns Renault 
+and the one, who owns Honda, when counted from the right of the one, who owns Honda, which is not 
+possible. 
+
+Therefore Samuel owns Renault. 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+All the given conditions get satisfied and we get the completed seating, 
+
+      Join us 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+        Join us 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+  
+ 
+               
+ 
+ 
+                                              
+ 
+ 
+ 
+ 
+ 
+ 
+Answers: 
+
+1.   
+
+Following the common explanation, we get "The one who sits fifth to the left of Samuel, owns Ford 
+car". 
+
+Hence, option C is correct. 
+
+2. 
+
+Following the common explanation, we get "Robert". 
+
+Robert sits third to the right of the one, who owns Honda car 
+
+Hence, option C is correct. 
+
+3. 
+
+Following the common explanation, we get "11 persons". 
+
+Hence, option D is correct. 
+
+4.   
+
+Following the common explanation, we get "All the above". 
+
+All statements are True (refer below seating) 
+
+As per question, Gerard and Patel (Audi) sit at 11 and 8 respectively, only possibility. 
+
+Hence, option E is correct. 
+
+      Join us 
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+       Join us 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+      
+  
+ 
+               
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+5. 
+
+Following the common explanation, we get "Ford". 
+
+As per question, Raina and Mohan sit at 10, 11 respectively, only possibility. Raina owns Ford car. 
+
+Hence, option C is correct. 
+
+www.smartkeeda.com   | https://testzone.smartkeeda.com/# 
+
+Join us
+
+SBI | RBI | IBPS |RRB | SSC | NIACL | EPFO | UGC NET |LIC | Railways | CLAT | RJS 
+
+Join us
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+  
+ 
+               
+ 
+ 
+       
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+       
+ 
+

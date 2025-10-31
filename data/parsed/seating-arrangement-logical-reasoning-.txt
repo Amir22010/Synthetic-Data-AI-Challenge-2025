@@ -1,0 +1,489 @@
+Logical Reasoning 
+(Seating Arrangement)
+
+1. Read the following information to answer the given questions.
+(i) A, B, C, D, E, F and G are playing cards sitting around a circular table
+(ii) D is not neighbour of C or E.
+(iii)A is neighbour of B and C.
+(iv) G, who is second to the left of D, is the neighbour of E and F.
+Which of the following is correct?
+A. B is between A and D
+B. D is between F and G.
+C. E is to the immediate right of G
+D. F is to the immediate left of G
+Answer: A. B is between A and D
+Explanation:
+G is second to the left of D and G is the neighbour of E and F.
+That is, G is sitting between E and F. But D is not neighbour of E.
+Hence, EGFD --> ACE
+Now, A is sitting between B and C.
+But D is not neighbour of C.
+So, B is the neighbour of D.
+B is between A and D
+
+2. A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not 
+sitting with E who is on the left end of the bench. C is on the second position from the right. A is
+to the right of B and E. A and C are sitting together. In which position A is sitting ?
+A. Between B and D
+B. Between B and C
+C. Between E and D
+D. Between C and E
+Answer: B. Between B and C
+Explanation:
+
+3. Read the following information to answer the given questions.
+(i) A, B, C, D, E, F and G are playing cards sitting around a circular table
+(ii) D is not neighbour of C or E.
+(iii)A is neighbour of B and C.
+(iv) G, who is second to the left of D, is the neighbour of E and F.
+Which of the following will be D's position after E and D interchange their places?
+A. BD
+B. EC
+C. AE
+D. GF
+Answer: D. GF
+
+1
+
+Explanation: 
+G is second to the left of D and G is the neighbour of E and F.
+That is, G is sitting between E and F. But D is not neighbour of E.
+Hence, EGFD --> ACE
+Now, A is sitting between B and C.
+But D is not neighbour of C.
+So, B is the neighbour of D.
+F sits to the immediate right of C
+
+3.  Read the following information to answer the given questions.
+(i) A, B, C, D, E, F and G are playing cards sitting around a circular table
+(ii) D is not neighbour of C or E.
+(iii)A is neighbour of B and C.
+(iv) G, who is second to the left of D, is the neighbour of E and F.
+ Which of the following will be D's position after E and D interchange their places?
+A. Neighbour to G and C
+B. To the immediate right of F
+C. Neighbour of C and A
+D. To the immediate left of C
+Answer: A. Neighbour to G and C
+Explanation: 
+G is second to the left of D and G is the neighbour of E and F.
+That is, G is sitting between E and F. But D is not neighbour of E.
+Hence, EGFD --> ACE
+Now, A is sitting between B and C.
+But D is not neighbour of C.
+So, B is the neighbour of D.
+F sits to the immediate right of C.
+
+4.  Read the following information to answer the given questions.
+(i) A, B, C, D, E, F and G are playing cards sitting around a circular table
+(ii) D is not neighbour of C or E.
+(iii)A is neighbour of B and C.
+(iv) G, who is second to the left of D, is the neighbour of E and F.
+Which of the following has the second person sitting between the first and third person?
+A. DAB
+B. BCA
+C. GFD
+D. GCE
+Answer: C. GFD
+Explanation: 
+G is second to the left of D and G is the neighbour of E and F.
+That is, G is sitting between E and F. But D is not neighbour of E.
+Hence, EGFD --> ACE
+Now, A is sitting between B and C.
+But D is not neighbour of C.
+So, B is the neighbour of D.
+F is sitting between G and D.
+
+2
+
+5.  Read the following information to answer the given questions.
+(i) A, B, C, D, E, F and G are playing cards sitting around a circular table
+(ii) D is not neighbour of C or E.
+(iii)A is neighbour of B and C.
+(iv) G, who is second to the left of D, is the neighbour of E and F.
+Which of the following is wrong?
+A. A is to the immediate right of B
+B. B is to the immediate left of D
+C. F is between G and D
+D. E is between G and C
+Answer: C. F is between G and D'
+Explanation: 
+G is second to the left of D and G is the neighbour of E and F.
+That is, G is sitting between E and F. But D is not neighbour of E.
+Hence, EGFD --> ACE
+Now, A is sitting between B and C.
+But D is not neighbour of C.
+So, B is the neighbour of D.
+B is to the immediate left of D.
+
+6. A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not 
+sitting with E who is on the left end of the bench. C is on the second position from the right. A is
+to the right of B and E. A and C are sitting together. In which position A is sitting ?
+A. Between B and D
+B. Between B and C
+C. Between E and D
+D. Between C and E
+Answer: B. Between B and C
+Explanation:
+
+Therefore, A is sitting in between B and C.
+
+7.  P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:
+P is second to the right of T who is the neighbour of R and V.
+S is not the neighbour of P.
+V is the neighbour of U.
+Q is not between S and W. W is not between U and S.
+Which two of the following are not neighbours ?
+A. RV
+B. UV
+C. RP
+D. QW
+Answer: A. RV
+Explanation:
+
+3
+
+8. P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:
+P is second to the right of T who is the neighbour of R and V.
+S is not the neighbour of P.
+V is the neighbour of U.
+Q is not between S and W. W is not between U and S. 
+Which one is immediate right to the V ?
+A. P
+B. U
+C. R
+D. T
+Answer: T
+Explanation:
+
+T is immediate right to the V.
+
+9. P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:
+P is second to the right of T who is the neighbour of R and V.
+S is not the neighbour of P.
+V is the neighbour of U.
+Q is not between S and W. W is not between U and S.
+Which of the following is correct ?
+A. P is to the immediate right of Q
+B. R is between U and V
+C. Q is to the immediate left of W
+D. U is between W and S
+Answer: C. Q is to the immediate left of W
+Explanation:
+
+10.  P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:
+
+4
+
+P is second to the right of T who is the neighbour of R and V.
+S is not the neighbour of P.
+V is the neighbour of U.
+Q is not between S and W. W is not between U and S.
+What is the position of S ?
+A. Between U and V
+B. Second to the right of P
+C. To the immediate right of W
+D. Data inadequate.
+Answer: C. To the immediate right of W
+Explanation:
+
+11. Study the following information carefully to answer these questions:
+P, Q, R, S, T, U and V are sitting along a circle and facing at the centre.
+P is between T and S.
+U is between. Q and V.
+Q is 2nd to the right of T.
+V is _______ .
+A. 2nd to the lef of P
+B. between P and U
+C. to the immediate left of U
+D. 4th to the left of T
+Answer: A. 2nd to the left of P
+Explanation:
+Seating arrangement is as follows:
+
+12. Study the following information carefully to answer these questions:
+P, Q, R, S, T, U and V are sitting along a circle and facing at the centre.
+P is between T and S.
+U is between. Q and V.
+Q is 2nd to the right of T.
+What is the position of R?
+A. Cannot be determined
+B. Between Q and T
+C. To the immediate left of T
+
+5
+
+D. 2nd to the right of Q
+Answer: B. Between Q and T
+Explanation: 
+Seating arrangement is as follows:
+
+13. A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table with equal distance between 
+them, facing the centre but not necessarily in the same order. A sits second to the right of G. 
+Only 2 persons sitting between A and H.C sit second to the left of H.Only 3 persons sit between 
+H and F.B sits on the immediate left of D. Who among the following sits second to the right of F
+?
+A.B
+B.C
+C.D
+D.G
+Answer: B. C
+Explanation:
+
+14. A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table with equal distance between 
+them, facing the centre but not necessarily in the same order. A sits second to the right of G. 
+Only 2 persons sitting between A and H.C sit second to the left of H.Only 3 persons sit between 
+H and F.B sits on the immediate left of D. If all the persons are made to sit in alphabetical order 
+in clockwise direction, starting from A , the positions of how many, excluding A would remain 
+unchanged ?
+A.One
+B.Two
+C.Three
+D.Four
+Answer: A. One
+Explanation:
+
+6
+
+15. A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table with equal distance between 
+them, facing the centre but not necessarily in the same order. A sits second to the right of G. 
+Only 2 persons sitting between A and H.C sit second to the left of H.Only 3 persons sit between 
+H and F.B sits on the immediate left of D. Which of the following statement is true with respect 
+to  E  ?
+A.E is an immediate neighbour of B
+B.Only one person sitting between E and F
+C.Only 3 persons sitting between E and G
+D.A sits third to the right of E
+Answer:  C. Only 3 persons sitting between E and G
+Explanation:
+
+16. A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table with equal distance between 
+them, facing the centre but not necessarily in the same order. A sits second to the right of G. 
+Only 2 persons sitting between A and H.C sit second to the left of H.Only 3 persons sit between 
+H and F.B sits on the immediate left of D. Who among the following represent the immediate 
+neighbour of  G ?
+A.E,D
+B.H,C
+C.H,D
+D.D,F
+Answer: D. D,F
+Explanation:
+
+17. A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table with equal distance between 
+them, facing the centre but not necessarily in the same order. A sits second to the right of G. 
+Only 2 persons sitting between A and H.C sit second to the left of H.Only 3 persons sit between 
+H and F.B sits on the immediate left of D. Four of the following are alike as per the given 
+arrangement and thus form a group, which of the following does not belong to that group ?
+A.HA
+B.GH
+C.CG
+D.FD
+Answer: D. FD
+
+7
+
+Explanation:
+
+18.  A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table. Two of them are not facing the 
+centre but sit opposite each other.G is the second to the right of A and third to the right of C. B is
+second to the left of C and fourth to the right of D. E is second to the right of H and is facing the 
+centre.The person facing outwards is an immediate neighbour  of G and A. D sits second to the 
+right of Cand is not a immediate neighbour of A. Who among the following is an immediate 
+neighbour of E ?
+A.C,B
+B.A,F
+C.B,H
+D.Cannot be determined
+Answer: A. C,B
+Explanation:
+
+19.  A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table. Two of them are not facing the 
+centre but sit opposite each other.G is the second to the right of A and third to the right of C. B is
+second to the left of C and fourth to the right of D. E is second to the right of H and is facing the 
+centre.The person facing outwards is an immediate neighbour  of G and A. D sits second to the 
+right of Cand is not a immediate neighbour of A. Who among the following is  second to the left 
+of F?
+A.B
+B.E
+C.G
+D.D
+Answer: D. D
+Explanation:
+
+8
+
+20.  A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table. Two of them are not facing the 
+centre but sit opposite each other.G is the second to the right of A and third to the right of C. B is
+second to the left of C and fourth to the right of D. E is second to the right of H and is facing the 
+centre.The person facing outwards is an immediate neighbour  of G and A. D sits second to the 
+right of Cand is not a immediate neighbour of A. Who among the following sits second to the 
+right of C ?
+A.H
+B.F
+C.D
+D.A
+Answer: C. D
+Explanation:
+
+21.  A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table. Two of them are not facing the 
+centre but sit opposite each other.G is the second to the right of A and third to the right of C. B is
+second to the left of C and fourth to the right of D. E is second to the right of H and is facing the 
+centre.The person facing outwards is an immediate neighbour  of G and A. D sits second to the 
+right of Cand is not a immediate neighbour of A. Who among the following  are not facing the 
+centre ?
+A.CA
+B.CF
+C.GF
+D.EB
+Answer: B. CF
+Explanation:
+
+22.  A ,B ,C ,D ,E ,F ,G and H are sitting around a circular table. Two of them are not facing the 
+centre but sit opposite each other.G is the second to the right of A and third to the right of C. B is
+second to the left of C and fourth to the right of D. E is second to the right of H and is facing the 
+centre.The person facing outwards is an immediate neighbour  of G and A. D sits second to the 
+right of Cand is not a immediate neighbour of A. Who among the following  is third to the left of
+B ?
+A.G
+
+9
+
+B.H
+C.C
+D.Cannot be determined
+Answer: B. H
+Explanation:
+
+23. Five girls are sitting on a bench to be photographed. Seema is to the left of Rani and to the 
+right of Bindu. Mary is to the right of Rani. Reeta is between Rani and Mary. Who is sitting 
+immediate right to Reeta ?
+A. Bindu
+B. Rani
+C. Mary
+D. Seema
+Answer: C. Mary
+Explanation:
+
+Mary is sitting immediate right to Reeta.
+
+24. Five girls are sitting on a bench to be photographed. Seema is to the left of Rani and to the 
+right of Bindu. Mary is to the right of Rani. Reeta is between Rani and Mary.
+A. Bindu
+B. Rani
+C. Mary
+D. Seema
+Answer: B. Rani
+Explanation:
+
+Rani is in the middle of the photograph.
+
+25. Five girls are sitting on a bench to be photographed. Seema is to the left of Rani and to the 
+right of Bindu. Mary is to the right of Rani. Who is second from the right ? 
+A. Bindu
+B. Rani
+C. Reeta
+D. Seema
+Answer: C. Reeta
+
+10
+
+Explanation:
+
+Reeta is sitting second from the right.
+
+26. Five girls are sitting on a bench to be photographed. Seema is to the left of Rani and to the 
+right of Bindu. Mary is to the right of Rani. Who is second from the left in photograph ?
+A. Reeta
+B. Mary
+C. Bindu
+D. Seema
+Answer: D. Seema
+Explanation:
+
+Seema is sitting second from the left in photograph.
+
+27. Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between 
+Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to 
+each other. Who is sitting right to Prakash ?
+A. Mukesh
+B. Deepa
+C. Pankaj
+D. Lalit
+Answer: D. Lalit
+Explanation:
+
+Hence, Lalit is sitting right to Prakash.
+
+28. Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between 
+Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to 
+each other. Who is just right to Pankaj ?
+A. Deepa
+B. Lalit
+C. Prakash
+D. Priti
+Answer: A. Deepa
+Explanation:
+
+11
+
+Hence, Deepa is sitting just right to Pankaj.
+
+29. Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between 
+Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to 
+each other. Who are the neighbours of Mukesh ?
+A. Prakash and Deepa
+B. Deepa and Priti
+C. Priti and Pankaj
+D. Lalit and Priti
+Answer: C. Priti and Pankaj
+Explanation:
+
+Hence, Priti and Pankaj are the neighbours of Mukesh.
+
+30. Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between 
+Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to 
+each other. Who is sitting opposite to Priti ?
+A. Prakash
+B. Deepa
+C. Pankaj
+D. Lalit
+Answer: B. Deepa
+Explanation:
+
+Hence, Deepa is sitting opposite to Priti.
+
+31.  Study the following information carefully to answer these questions:
+
+12
+
+ 
+A, B, C, D, E, F and G are sitting on a wall facing east. C is just right of D. B is on end point and
+E is his neighbour. G is sitting between E and F. D is third from south end. C want his seat as 
+third from north, he will have to exchange the seat from which person?
+A. G
+B. F
+C. E
+D. Cannot be determined
+
+Answer: B. Deepa
+Explanation:
+Given information diagrammatically can be shown as follows:
+
+He will have to exchange his seat from G.
+
+32. A, B, C, D, E, F and G are sitting on a wall facing east. C is just right of D.
+B is on end point and E is his neighbour. G is sitting between E and F. D is third from south end. 
+Who is seated right side of E ?
+A. F
+B. D
+C. C
+D. G
+Answer: D. G
+Explanation:
+Given information diagrammatically can be shown as follows:
+
+G is seated right side of E.
+
+13
+
+

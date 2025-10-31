@@ -1,0 +1,413 @@
+{
+  "summary": "The logical reasoning content covers seating arrangement problems, where individuals are arranged in a circular or linear fashion, and the goal is to determine specific positions or relationships between individuals. Key solving strategies include constraint satisfaction, where given conditions are used to narrow down possible arrangements, and relationship mapping, where the connections between individuals are used to deduce their positions. Important concepts and principles for logical deduction include analyzing given information, identifying direct and indirect relationships, and using process of elimination to arrive at a solution. By applying these strategies and concepts, one can solve complex seating arrangement problems and determine the correct positions of individuals.",
+  "qa_pairs": [
+    {
+      "question": "In a circular arrangement of 8 people around a conference table, A must sit next to both B and C, but B and C cannot sit next to each other. D must sit opposite A, and E must sit next to D. Given these constraints, who cannot sit together under any circumstances?",
+      "answer": "Step 1: First, let me visualize the circular arrangement and systematically analyze each constraint. The circular table creates specific geometric relationships where each person has exactly two neighbors. Step 2: A's requirement to sit next to both B and C, while B and C cannot be adjacent, creates an immediate geometric challenge that severely limits possible arrangements. Step 3: D must sit directly opposite A, which fixes D's position exactly across from A in the circle. Step 4: E must sit next to D, limiting E to exactly two possible positions adjacent to D. Step 5: Testing all possible arrangements reveals that certain pairs create irresolvable conflicts. Step 6: Through systematic elimination of invalid configurations, we determine which specific pair cannot coexist while satisfying all given constraints."
+    },
+    {
+      "question": "Sarah is the daughter of Michael's brother. Michael's father has a daughter named Anna who is older than Sarah. Anna's husband has a brother who is married to Sarah's aunt. How is Michael related to Anna's husband?",
+      "answer": "Step 1: Sarah is the daughter of Michael's brother, so Michael's brother is Sarah's father. Step 2: Michael's father has a daughter named Anna, so Anna is Michael's sister. Step 3: Anna's husband has a brother who is married to Sarah's aunt. Sarah's aunt is the sister of Sarah's mother. Step 4: Since Sarah's father is Michael's brother, Sarah's mother is Michael's sister-in-law. Step 5: Therefore, Sarah's aunt is Michael's wife's sister. Step 6: Anna's husband's brother is married to Michael's wife's sister, making Anna's husband and Michael brothers-in-law through their respective marriages."
+    },
+    {
+      "question": "In a linear arrangement of 5 people, A must sit at one of the ends, B must sit next to C, and D must sit next to E. Given these constraints, who can sit in the middle position?",
+      "answer": "Step 1: A must sit at one of the ends, so A has two possible positions. Step 2: B must sit next to C, so B and C can be treated as a single unit with two possible arrangements (BC or CB). Step 3: D must sit next to E, so D and E can also be treated as a single unit with two possible arrangements (DE or ED). Step 4: Considering the constraints, the middle position can be occupied by either B or D, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "John is the son of Mary's sister. Mary's brother has a daughter named Emily who is younger than John. Emily's mother has a sister who is married to John's uncle. How is Mary related to Emily's mother?",
+      "answer": "Step 1: John is the son of Mary's sister, so Mary's sister is John's mother. Step 2: Mary's brother has a daughter named Emily, so Emily is Mary's niece. Step 3: Emily's mother has a sister who is married to John's uncle. John's uncle is Mary's brother. Step 4: Therefore, Emily's mother is Mary's sister-in-law, and Mary is Emily's mother's sister-in-law."
+    },
+    {
+      "question": "In a circular arrangement of 6 people, A must sit next to B, C must sit next to D, and E must sit next to F. Given these constraints, who can sit opposite A?",
+      "answer": "Step 1: A must sit next to B, so A and B can be treated as a single unit with two possible arrangements (AB or BA). Step 2: C must sit next to D, so C and D can also be treated as a single unit with two possible arrangements (CD or DC). Step 3: E must sit next to F, so E and F can also be treated as a single unit with two possible arrangements (EF or FE). Step 4: Considering the constraints, the person opposite A can be either C, D, E, or F, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "David is the son of Rachel's brother. Rachel's sister has a son named Michael who is older than David. Michael's father has a brother who is married to David's aunt. How is Rachel related to Michael's father?",
+      "answer": "Step 1: David is the son of Rachel's brother, so Rachel's brother is David's father. Step 2: Rachel's sister has a son named Michael, so Michael is Rachel's nephew. Step 3: Michael's father has a brother who is married to David's aunt. David's aunt is Rachel's sister. Step 4: Therefore, Michael's father is Rachel's brother-in-law, and Rachel is Michael's father's sister-in-law."
+    },
+    {
+      "question": "In a linear arrangement of 6 people, A must sit at one of the ends, B must sit next to C, and D must sit next to E. Given these constraints, who can sit in the second position from the left?",
+      "answer": "Step 1: A must sit at one of the ends, so A has two possible positions. Step 2: B must sit next to C, so B and C can be treated as a single unit with two possible arrangements (BC or CB). Step 3: D must sit next to E, so D and E can also be treated as a single unit with two possible arrangements (DE or ED). Step 4: Considering the constraints, the second position from the left can be occupied by either B or D, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "Emily is the daughter of James's sister. James's brother has a daughter named Sophia who is younger than Emily. Sophia's mother has a sister who is married to Emily's uncle. How is James related to Sophia's mother?",
+      "answer": "Step 1: Emily is the daughter of James's sister, so James's sister is Emily's mother. Step 2: James's brother has a daughter named Sophia, so Sophia is James's niece. Step 3: Sophia's mother has a sister who is married to Emily's uncle. Emily's uncle is James's brother. Step 4: Therefore, Sophia's mother is James's sister-in-law, and James is Sophia's mother's brother-in-law."
+    },
+    {
+      "question": "In a circular arrangement of 8 people, A must sit next to B, C must sit next to D, and E must sit next to F. Given these constraints, who can sit opposite C?",
+      "answer": "Step 1: A must sit next to B, so A and B can be treated as a single unit with two possible arrangements (AB or BA). Step 2: C must sit next to D, so C and D can also be treated as a single unit with two possible arrangements (CD or DC). Step 3: E must sit next to F, so E and F can also be treated as a single unit with two possible arrangements (EF or FE). Step 4: Considering the constraints, the person opposite C can be either A, B, E, or F, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "Michael is the son of Elizabeth's brother. Elizabeth's sister has a son named William who is older than Michael. William's father has a brother who is married to Michael's aunt. How is Elizabeth related to William's father?",
+      "answer": "Step 1: Michael is the son of Elizabeth's brother, so Elizabeth's brother is Michael's father. Step 2: Elizabeth's sister has a son named William, so William is Elizabeth's nephew. Step 3: William's father has a brother who is married to Michael's aunt. Michael's aunt is Elizabeth's sister. Step 4: Therefore, William's father is Elizabeth's brother-in-law, and Elizabeth is William's father's sister-in-law."
+    },
+    {
+      "question": "In a linear arrangement of 7 people, A must sit at one of the ends, B must sit next to C, and D must sit next to E. Given these constraints, who can sit in the third position from the left?",
+      "answer": "Step 1: A must sit at one of the ends, so A has two possible positions. Step 2: B must sit next to C, so B and C can be treated as a single unit with two possible arrangements (BC or CB). Step 3: D must sit next to E, so D and E can also be treated as a single unit with two possible arrangements (DE or ED). Step 4: Considering the constraints, the third position from the left can be occupied by either C or D, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "David is the son of Olivia's brother. Olivia's brother has a daughter named Ava who is younger than David. Ava's mother has a sister who is married to David's uncle. How is Olivia related to Ava's mother?",
+      "answer": "Step 1: David is the son of Olivia's brother, so Olivia's brother is David's father. Step 2: Olivia's brother has a daughter named Ava, so Ava is Olivia's niece. Step 3: Ava's mother has a sister who is married to David's uncle. David's uncle is Olivia's brother. Step 4: Therefore, Ava's mother is Olivia's sister-in-law, and Olivia is Ava's mother's sister-in-law."
+    },
+    {
+      "question": "In a circular arrangement of 9 people, A must sit next to B, C must sit next to D, and E must sit next to F. Given these constraints, who can sit opposite D?",
+      "answer": "Step 1: A must sit next to B, so A and B can be treated as a single unit with two possible arrangements (AB or BA). Step 2: C must sit next to D, so C and D can also be treated as a single unit with two possible arrangements (CD or DC). Step 3: E must sit next to F, so E and F can also be treated as a single unit with two possible arrangements (EF or FE). Step 4: Considering the constraints, the person opposite D can be either A, B, E, or F, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "Emily is the daughter of Alexander's sister. Alexander's brother has a daughter named Lily who is younger than Emily. Lily's mother has a sister who is married to Emily's uncle. How is Alexander related to Lily's mother?",
+      "answer": "Step 1: Emily is the daughter of Alexander's sister, so Alexander's sister is Emily's mother. Step 2: Alexander's brother has a daughter named Lily, so Lily is Alexander's niece. Step 3: Lily's mother has a sister who is married to Emily's uncle. Emily's uncle is Alexander's brother. Step 4: Therefore, Lily's mother is Alexander's sister-in-law, and Alexander is Lily's mother's brother-in-law."
+    },
+    {
+      "question": "In a linear arrangement of 8 people, A must sit at one of the ends, B must sit next to C, and D must sit next to E. Given these constraints, who can sit in the fourth position from the left?",
+      "answer": "Step 1: A must sit at one of the ends, so A has two possible positions. Step 2: B must sit next to C, so B and C can be treated as a single unit with two possible arrangements (BC or CB). Step 3: D must sit next to E, so D and E can also be treated as a single unit with two possible arrangements (DE or ED). Step 4: Considering the constraints, the fourth position from the left can be occupied by either D or E, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "Michael is the son of Sophia's brother. Sophia's sister has a son named Jackson who is older than Michael. Jackson's father has a brother who is married to Michael's aunt. How is Sophia related to Jackson's father?",
+      "answer": "Step 1: Michael is the son of Sophia's brother, so Sophia's brother is Michael's father. Step 2: Sophia's sister has a son named Jackson, so Jackson is Sophia's nephew. Step 3: Jackson's father has a brother who is married to Michael's aunt. Michael's aunt is Sophia's sister. Step 4: Therefore, Jackson's father is Sophia's brother-in-law, and Sophia is Jackson's father's sister-in-law."
+    },
+    {
+      "question": "In a circular arrangement of 10 people, A must sit next to B, C must sit next to D, and E must sit next to F. Given these constraints, who can sit opposite F?",
+      "answer": "Step 1: A must sit next to B, so A and B can be treated as a single unit with two possible arrangements (AB or BA). Step 2: C must sit next to D, so C and D can also be treated as a single unit with two possible arrangements (CD or DC). Step 3: E must sit next to F, so E and F can also be treated as a single unit with two possible arrangements (EF or FE). Step 4: Considering the constraints, the person opposite F can be either A, B, C, or D, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "David is the son of Mia's brother. Mia's brother has a daughter named Isabella who is younger than David. Isabella's mother has a sister who is married to David's uncle. How is Mia related to Isabella's mother?",
+      "answer": "Step 1: David is the son of Mia's brother, so Mia's brother is David's father. Step 2: Mia's brother has a daughter named Isabella, so Isabella is Mia's niece. Step 3: Isabella's mother has a sister who is married to David's uncle. David's uncle is Mia's brother. Step 4: Therefore, Isabella's mother is Mia's sister-in-law, and Mia is Isabella's mother's sister-in-law."
+    },
+    {
+      "question": "In a linear arrangement of 9 people, A must sit at one of the ends, B must sit next to C, and D must sit next to E. Given these constraints, who can sit in the fifth position from the left?",
+      "answer": "Step 1: A must sit at one of the ends, so A has two possible positions. Step 2: B must sit next to C, so B and C can be treated as a single unit with two possible arrangements (BC or CB). Step 3: D must sit next to E, so D and E can also be treated as a single unit with two possible arrangements (DE or ED). Step 4: Considering the constraints, the fifth position from the left can be occupied by either E or F, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "Emily is the daughter of Ethan's sister. Ethan's brother has a daughter named Charlotte who is younger than Emily. Charlotte's mother has a sister who is married to Emily's uncle. How is Ethan related to Charlotte's mother?",
+      "answer": "Step 1: Emily is the daughter of Ethan's sister, so Ethan's sister is Emily's mother. Step 2: Ethan's brother has a daughter named Charlotte, so Charlotte is Ethan's niece. Step 3: Charlotte's mother has a sister who is married to Emily's uncle. Emily's uncle is Ethan's brother. Step 4: Therefore, Charlotte's mother is Ethan's sister-in-law, and Ethan is Charlotte's mother's brother-in-law."
+    },
+    {
+      "question": "In a circular arrangement of 11 people, A must sit next to B, C must sit next to D, and E must sit next to F. Given these constraints, who can sit opposite E?",
+      "answer": "Step 1: A must sit next to B, so A and B can be treated as a single unit with two possible arrangements (AB or BA). Step 2: C must sit next to D, so C and D can also be treated as a single unit with two possible arrangements (CD or DC). Step 3: E must sit next to F, so E and F can also be treated as a single unit with two possible arrangements (EF or FE). Step 4: Considering the constraints, the person opposite E can be either A, B, C, or D, depending on the specific arrangement of the other individuals."
+    },
+    {
+      "question": "In a circular arrangement of 8 people around a conference table, A must sit next to both B and C, but B and C cannot sit next to each other. D must sit opposite A, and E must sit next to D. Given these constraints, who cannot sit together under any circumstances?",
+      "answer": "Step 1: First, let me visualize the circular arrangement and systematically analyze each constraint. The circular table creates specific geometric relationships where each person has exactly two neighbors. Step 2: A's requirement to sit next to both B and C, while B and C cannot be adjacent, creates an immediate geometric challenge that severely limits possible arrangements. Step 3: D must sit directly opposite A, which fixes D's position exactly across from A in the circle. Step 4: E must sit next to D, limiting E to exactly two possible positions adjacent to D. Step 5: Testing all possible arrangements reveals that certain pairs create irresolvable conflicts. Step 6: Through systematic elimination of invalid configurations, we determine which specific pair cannot coexist while satisfying all given constraints."
+    },
+    {
+      "question": "Sarah is the daughter of Michael's brother. Michael's father has a daughter named Anna who is older than Sarah. Anna's husband has a brother who is married to Sarah's aunt. How is Michael related to Anna's husband?",
+      "answer": "Step 1: Sarah is the daughter of Michael's brother, so Michael's brother is Sarah's father. Step 2: Michael's father has a daughter named Anna, so Anna is Michael's sister. Step 3: Anna's husband has a brother who is married to Sarah's aunt. Sarah's aunt is the sister of Sarah's mother. Step 4: Since Sarah's father is Michael's brother, Sarah's mother is Michael's sister-in-law. Step 5: Therefore, Sarah's aunt is Michael's wife's sister. Step 6: Anna's husband's brother is married to Michael's wife's sister, making Anna's husband and Michael brothers-in-law through their respective marriages."
+    },
+    {
+      "question": "A, B, C, D, E, F, and G are sitting around a circular table. D is not a neighbor of C or E. A is a neighbor of B and C. G, who is second to the left of D, is the neighbor of E and F. Which of the following is wrong?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: D is not a neighbor of C or E, so D must be between B and F. Step 3: A is a neighbor of B and C, so A must be between B and C. Step 4: G is second to the left of D and is the neighbor of E and F, so G must be between E and F. Step 5: Through systematic elimination, we can determine which statement is incorrect."
+    },
+    {
+      "question": "P, Q, R, S, T, U, V, and W are sitting around a circular table. P is second to the right of T, who is the neighbor of R and V. S is not the neighbor of P. V is the neighbor of U. Q is not between S and W. W is not between U and S. Which two of the following are not neighbors?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: P is second to the right of T, so P must be between T and V. Step 3: S is not the neighbor of P, so S must be between U and W. Step 4: V is the neighbor of U, so V must be between U and T. Step 5: Through systematic elimination, we can determine which two individuals are not neighbors."
+    },
+    {
+      "question": "A, B, C, D, and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E, who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position is A sitting?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: E is on the left end, so E must be in position 1. Step 3: A is to the right of B and E, so A must be in position 3 or 4. Step 4: C is on the second position from the right, so C must be in position 4. Step 5: A and C are sitting together, so A must be in position 3."
+    },
+    {
+      "question": "P, Q, R, S, T, U, and V are sitting along a circle and facing the center. P is between T and S. U is between Q and V. Q is 2nd to the right of T. What is the position of R?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: P is between T and S, so P must be in position 2 or 3. Step 3: U is between Q and V, so U must be in position 4 or 5. Step 4: Q is 2nd to the right of T, so Q must be in position 3. Step 5: Through systematic elimination, we can determine the position of R."
+    },
+    {
+      "question": "Sarah is the daughter of Michael's brother. Michael's father has a daughter named Anna who is older than Sarah. Anna's husband has a brother who is married to Sarah's aunt. How is Sarah related to Anna's husband's brother?",
+      "answer": "Step 1: Sarah is the daughter of Michael's brother, so Michael's brother is Sarah's father. Step 2: Michael's father has a daughter named Anna, so Anna is Michael's sister. Step 3: Anna's husband has a brother who is married to Sarah's aunt. Sarah's aunt is the sister of Sarah's mother. Step 4: Since Sarah's father is Michael's brother, Sarah's mother is Michael's sister-in-law. Step 5: Therefore, Sarah's aunt is Michael's wife's sister. Step 6: Anna's husband's brother is married to Michael's wife's sister, making Anna's husband's brother Sarah's uncle."
+    },
+    {
+      "question": "A, B, C, D, E, F, and G are sitting around a circular table. D is not a neighbor of C or E. A is a neighbor of B and C. G, who is second to the left of D, is the neighbor of E and F. Which of the following is correct?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: D is not a neighbor of C or E, so D must be between B and F. Step 3: A is a neighbor of B and C, so A must be between B and C. Step 4: G is second to the left of D and is the neighbor of E and F, so G must be between E and F. Step 5: Through systematic elimination, we can determine which statement is correct."
+    },
+    {
+      "question": "P, Q, R, S, T, U, V, and W are sitting around a circular table. P is second to the right of T, who is the neighbor of R and V. S is not the neighbor of P. V is the neighbor of U. Q is not between S and W. W is not between U and S. Which one is immediate right to the V?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: P is second to the right of T, so P must be between T and V. Step 3: S is not the neighbor of P, so S must be between U and W. Step 4: V is the neighbor of U, so V must be between U and T. Step 5: Through systematic elimination, we can determine which individual is immediate right to V."
+    },
+    {
+      "question": "A, B, C, D, and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E, who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. What is the order of the individuals on the bench?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: E is on the left end, so E must be in position 1. Step 3: A is to the right of B and E, so A must be in position 3 or 4. Step 4: C is on the second position from the right, so C must be in position 4. Step 5: A and C are sitting together, so A must be in position 3. Step 6: Through systematic elimination, we can determine the order of the individuals on the bench."
+    },
+    {
+      "question": "P, Q, R, S, T, U, and V are sitting along a circle and facing the center. P is between T and S. U is between Q and V. Q is 2nd to the right of T. What is the position of V?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: P is between T and S, so P must be in position 2 or 3. Step 3: U is between Q and V, so U must be in position 4 or 5. Step 4: Q is 2nd to the right of T, so Q must be in position 3. Step 5: Through systematic elimination, we can determine the position of V."
+    },
+    {
+      "question": "Sarah is the daughter of Michael's brother. Michael's father has a daughter named Anna who is older than Sarah. Anna's husband has a brother who is married to Sarah's aunt. How is Michael related to Anna?",
+      "answer": "Step 1: Sarah is the daughter of Michael's brother, so Michael's brother is Sarah's father. Step 2: Michael's father has a daughter named Anna, so Anna is Michael's sister. Step 3: Since Anna is Michael's sister, Michael is Anna's brother."
+    },
+    {
+      "question": "A, B, C, D, E, F, and G are sitting around a circular table. D is not a neighbor of C or E. A is a neighbor of B and C. G, who is second to the left of D, is the neighbor of E and F. Which of the following is correct?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: D is not a neighbor of C or E, so D must be between B and F. Step 3: A is a neighbor of B and C, so A must be between B and C. Step 4: G is second to the left of D and is the neighbor of E and F, so G must be between E and F. Step 5: Through systematic elimination, we can determine which statement is correct."
+    },
+    {
+      "question": "P, Q, R, S, T, U, V, and W are sitting around a circular table. P is second to the right of T, who is the neighbor of R and V. S is not the neighbor of P. V is the neighbor of U. Q is not between S and W. W is not between U and S. What is the position of S?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: P is second to the right of T, so P must be between T and V. Step 3: S is not the neighbor of P, so S must be between U and W. Step 4: V is the neighbor of U, so V must be between U and T. Step 5: Through systematic elimination, we can determine the position of S."
+    },
+    {
+      "question": "A, B, C, D, and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E, who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. Who is sitting on the right end of the bench?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: E is on the left end, so E must be in position 1. Step 3: A is to the right of B and E, so A must be in position 3 or 4. Step 4: C is on the second position from the right, so C must be in position 4. Step 5: A and C are sitting together, so A must be in position 3. Step 6: Through systematic elimination, we can determine who is sitting on the right end of the bench."
+    },
+    {
+      "question": "P, Q, R, S, T, U, and V are sitting along a circle and facing the center. P is between T and S. U is between Q and V. Q is 2nd to the right of T. What is the position of Q?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: P is between T and S, so P must be in position 2 or 3. Step 3: U is between Q and V, so U must be in position 4 or 5. Step 4: Q is 2nd to the right of T, so Q must be in position 3. Step 5: Through systematic elimination, we can determine the position of Q."
+    },
+    {
+      "question": "Sarah is the daughter of Michael's brother. Michael's father has a daughter named Anna who is older than Sarah. Anna's husband has a brother who is married to Sarah's aunt. How is Sarah related to Anna's husband?",
+      "answer": "Step 1: Sarah is the daughter of Michael's brother, so Michael's brother is Sarah's father. Step 2: Michael's father has a daughter named Anna, so Anna is Michael's sister. Step 3: Anna's husband has a brother who is married to Sarah's aunt. Sarah's aunt is the sister of Sarah's mother. Step 4: Since Sarah's father is Michael's brother, Sarah's mother is Michael's sister-in-law. Step 5: Therefore, Sarah's aunt is Michael's wife's sister. Step 6: Anna's husband's brother is married to Michael's wife's sister, making Anna's husband Sarah's uncle."
+    },
+    {
+      "question": "A, B, C, D, E, F, and G are sitting around a circular table. D is not a neighbor of C or E. A is a neighbor of B and C. G, who is second to the left of D, is the neighbor of E and F. Which of the following is wrong?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: D is not a neighbor of C or E, so D must be between B and F. Step 3: A is a neighbor of B and C, so A must be between B and C. Step 4: G is second to the left of D and is the neighbor of E and F, so G must be between E and F. Step 5: Through systematic elimination, we can determine which statement is incorrect."
+    },
+    {
+      "question": "P, Q, R, S, T, U, V, and W are sitting around a circular table. P is second to the right of T, who is the neighbor of R and V. S is not the neighbor of P. V is the neighbor of U. Q is not between S and W. W is not between U and S. Which one is immediate right to the V?",
+      "answer": "Step 1: Analyze the given constraints and eliminate impossible configurations. Step 2: P is second to the right of T, so P must be between T and V. Step 3: S is not the neighbor of P, so S must be between U and W. Step 4: V is the neighbor of U, so V must be between U and T. Step 5: Through systematic elimination, we can determine which individual is immediate right to V."
+    },
+    {
+      "question": "In a circular arrangement of 8 people around a conference table, A must sit next to both B and C, but B and C cannot sit next to each other. D must sit opposite A, and E must sit next to D. Given these constraints, who cannot sit together under any circumstances?",
+      "answer": "Step 1: First, let me visualize the circular arrangement and systematically analyze each constraint. The circular table creates specific geometric relationships where each person has exactly two neighbors. Step 2: A's requirement to sit next to both B and C, while B and C cannot be adjacent, creates an immediate geometric challenge that severely limits possible arrangements. Step 3: D must sit directly opposite A, which fixes D's position exactly across from A in the circle. Step 4: E must sit next to D, limiting E to exactly two possible positions adjacent to D. Step 5: Testing all possible arrangements reveals that certain pairs create irresolvable conflicts. Step 6: Through systematic elimination of invalid configurations, we determine which specific pair cannot coexist while satisfying all given constraints."
+    },
+    {
+      "question": "Sarah is the daughter of Michael's brother. Michael's father has a daughter named Anna who is older than Sarah. Anna's husband has a brother who is married to Sarah's aunt. How is Michael related to Anna's husband?",
+      "answer": "Step 1: Sarah is the daughter of Michael's brother, so Michael's brother is Sarah's father. Step 2: Michael's father has a daughter named Anna, so Anna is Michael's sister. Step 3: Anna's husband has a brother who is married to Sarah's aunt. Sarah's aunt is the sister of Sarah's mother. Step 4: Since Sarah's father is Michael's brother, Sarah's mother is Michael's sister-in-law. Step 5: Therefore, Sarah's aunt is Michael's wife's sister. Step 6: Anna's husband's brother is married to Michael's wife's sister, making Anna's husband and Michael brothers-in-law through their respective marriages."
+    },
+    {
+      "question": "Eight people - A, B, C, D, E, F, G, and H - are sitting around a circular table. A sits second to the right of G. Only two persons sit between A and H. C sits second to the left of H. Only three persons sit between H and F. B sits on the immediate left of D. Who among the following sits second to the right of F?",
+      "answer": "Step 1: Analyze the given constraints to determine the seating arrangement. Step 2: A sits second to the right of G, so the possible positions for A are fixed relative to G. Step 3: Only two persons sit between A and H, limiting the possible positions for H. Step 4: C sits second to the left of H, further constraining the arrangement. Step 5: Only three persons sit between H and F, which helps to determine F's position. Step 6: B sits on the immediate left of D, providing additional constraints. Step 7: Using these constraints, we can deduce the seating arrangement and determine who sits second to the right of F."
+    },
+    {
+      "question": "In the same seating arrangement as the previous question, if all the persons are made to sit in alphabetical order in a clockwise direction, starting from A, the positions of how many, excluding A, would remain unchanged?",
+      "answer": "Step 1: Determine the original seating arrangement based on the given constraints. Step 2: Rearrange the individuals in alphabetical order, starting from A, and compare with the original arrangement. Step 3: Identify which individuals, excluding A, retain their original positions. Step 4: Count the number of individuals whose positions remain unchanged."
+    },
+    {
+      "question": "Which of the following statements is true with respect to E in the same seating arrangement?",
+      "answer": "Step 1: Analyze the constraints related to E's position. Step 2: Determine the possible positions for E based on the given constraints. Step 3: Evaluate each statement option in light of the deduced seating arrangement. Step 4: Identify the statement that accurately describes E's position."
+    },
+    {
+      "question": "Who among the following represents the immediate neighbor of G in the same seating arrangement?",
+      "answer": "Step 1: Identify G's position based on the given constraints. Step 2: Determine the possible positions for G's immediate neighbors. Step 3: Evaluate each option in light of the deduced seating arrangement. Step 4: Identify the correct immediate neighbor of G."
+    },
+    {
+      "question": "Four of the following are alike as per the given arrangement and thus form a group. Which of the following does not belong to that group?",
+      "answer": "Step 1: Analyze the seating arrangement and identify patterns or groups. Step 2: Evaluate each option to determine which ones share common characteristics. Step 3: Identify the option that does not belong to the group based on the deduced patterns."
+    },
+    {
+      "question": "A, B, C, D, E, F, G, and H are sitting around a circular table. Two of them are not facing the center but sit opposite each other. G is the second to the right of A and third to the right of C. B is second to the left of C and fourth to the right of D. E is second to the right of H and is facing the center. The person facing outwards is an immediate neighbor of G and A. D sits second to the right of C and is not an immediate neighbor of A. Who among the following is an immediate neighbor of E?",
+      "answer": "Step 1: Analyze the given constraints to determine the seating arrangement. Step 2: Identify the positions of G, A, and C based on the constraints. Step 3: Determine the position of B relative to C and D. Step 4: Identify the position of E based on its relation to H. Step 5: Consider the person facing outwards and their relation to G and A. Step 6: Determine the immediate neighbor of E based on the deduced arrangement."
+    },
+    {
+      "question": "In the same seating arrangement, who among the following is second to the left of F?",
+      "answer": "Step 1: Determine the seating arrangement based on the given constraints. Step 2: Identify the position of F. Step 3: Count two positions to the left of F to determine who sits second to the left. Step 4: Evaluate each option based on the deduced seating arrangement."
+    },
+    {
+      "question": "Emily is the daughter of Jack's brother. Jack's father has a son named Alex who is older than Emily. Alex's wife has a sister who is married to Emily's uncle. How is Jack related to Alex's wife?",
+      "answer": "Step 1: Emily is the daughter of Jack's brother, so Jack's brother is Emily's father. Step 2: Jack's father has a son named Alex, so Alex is Jack's brother. Step 3: Alex's wife has a sister who is married to Emily's uncle. Emily's uncle is the brother of Emily's parent. Step 4: Since Emily's father is Jack's brother, Emily's mother is Jack's sister-in-law. Step 5: Therefore, Emily's uncle is either Jack or another brother of Jack's. Step 6: Alex's wife's sister is married to Jack, making Alex's wife and Jack sisters-in-law through their respective marriages."
+    },
+    {
+      "question": "David is the son of Olivia's sister. Olivia's mother has a son named Ethan who is older than David. Ethan's wife has a brother who is married to David's aunt. How is Olivia related to Ethan's wife?",
+      "answer": "Step 1: David is the son of Olivia's sister, so Olivia's sister is David's mother. Step 2: Olivia's mother has a son named Ethan, so Ethan is Olivia's brother. Step 3: Ethan's wife has a brother who is married to David's aunt. David's aunt is the sister of David's mother. Step 4: Since David's mother is Olivia's sister, David's aunt is either Olivia or another sister of Olivia's. Step 5: Ethan's wife's brother is married to Olivia, making Ethan's wife and Olivia sisters-in-law through their respective marriages."
+    },
+    {
+      "question": "In a linear seating arrangement, five people - J, K, L, M, and N - are seated in a row. J sits at one of the ends. M sits next to L. K sits next to N. If L is not at either end, who sits at the other end?",
+      "answer": "Step 1: Determine the possible positions for J, given that J sits at one end. Step 2: Analyze the constraint that M sits next to L and consider the possible positions for L and M. Step 3: Consider the constraint that K sits next to N and evaluate the possible positions for K and N. Step 4: Combine the constraints and deduce the seating arrangement. Step 5: Identify who sits at the other end based on the deduced arrangement."
+    },
+    {
+      "question": "A, B, C, D, E, F, G, H, I, and J are seated around a circular table. A sits second to the right of F. C sits third to the left of H. E sits second to the right of B. G sits second to the left of J. If I sits between H and F, who sits to the immediate left of A?",
+      "answer": "Step 1: Analyze the given constraints to determine the seating arrangement. Step 2: Identify the positions of A, F, and C based on the constraints. Step 3: Determine the position of E relative to B. Step 4: Identify the position of G relative to J. Step 5: Consider the constraint that I sits between H and F. Step 6: Determine the immediate left neighbor of A based on the deduced arrangement."
+    },
+    {
+      "question": "Mia is the daughter of Ryan's brother. Ryan's father has a daughter named Ava who is older than Mia. Ava's husband has a brother who is married to Mia's aunt. How is Ryan related to Ava's husband?",
+      "answer": "Step 1: Mia is the daughter of Ryan's brother, so Ryan's brother is Mia's father. Step 2: Ryan's father has a daughter named Ava, so Ava is Ryan's sister. Step 3: Ava's husband has a brother who is married to Mia's aunt. Mia's aunt is the sister of Mia's mother. Step 4: Since Mia's father is Ryan's brother, Mia's mother is Ryan's sister-in-law. Step 5: Therefore, Mia's aunt is Ryan's wife's sister. Step 6: Ava's husband's brother is married to Ryan's wife's sister, making Ava's husband and Ryan brothers-in-law through their respective marriages."
+    },
+    {
+      "question": "Lily is the daughter of Jackson's brother. Jackson's father has a son named Julian who is older than Lily. Julian's wife has a sister who is married to Lily's uncle. How is Jackson related to Julian's wife?",
+      "answer": "Step 1: Lily is the daughter of Jackson's brother, so Jackson's brother is Lily's father. Step 2: Jackson's father has a son named Julian, so Julian is Jackson's brother. Step 3: Julian's wife has a sister who is married to Lily's uncle. Lily's uncle is the brother of Lily's parent. Step 4: Since Lily's father is Jackson's brother, Lily's mother is Jackson's sister-in-law. Step 5: Therefore, Lily's uncle is either Jackson or another brother of Jackson's. Step 6: Julian's wife's sister is married to Jackson, making Julian's wife and Jackson sisters-in-law through their respective marriages."
+    },
+    {
+      "question": "In a linear seating arrangement, six people - P, Q, R, S, T, and U - are seated in a row. P sits at one of the ends. R sits next to S. T sits next to U. If S is not at either end, who sits at the other end?",
+      "answer": "Step 1: Determine the possible positions for P, given that P sits at one end. Step 2: Analyze the constraint that R sits next to S and consider the possible positions for R and S. Step 3: Consider the constraint that T sits next to U and evaluate the possible positions for T and U. Step 4: Combine the constraints and deduce the seating arrangement. Step 5: Identify who sits at the other end based on the deduced arrangement."
+    },
+    {
+      "question": "A, B, C, D, E, F, G, H, I, J, K, and L are seated around a circular table. A sits second to the right of G. C sits third to the left of I. E sits second to the right of K. If H sits between F and J, who sits to the immediate left of C?",
+      "answer": "Step 1: Analyze the given constraints to determine the seating arrangement. Step 2: Identify the positions of A, G, and C based on the constraints. Step 3: Determine the position of E relative to K. Step 4: Consider the constraint that H sits between F and J. Step 5: Determine the immediate left neighbor of C based on the deduced arrangement."
+    },
+    {
+      "question": "Sofia is the daughter of Alexander's brother. Alexander's father has a daughter named Gabriella who is older than Sofia. Gabriella's husband has a brother who is married to Sofia's aunt. How is Alexander related to Gabriella's husband?",
+      "answer": "Step 1: Sofia is the daughter of Alexander's brother, so Alexander's brother is Sofia's father. Step 2: Alexander's father has a daughter named Gabriella, so Gabriella is Alexander's sister. Step 3: Gabriella's husband has a brother who is married to Sofia's aunt. Sofia's aunt is the sister of Sofia's mother. Step 4: Since Sofia's father is Alexander's brother, Sofia's mother is Alexander's sister-in-law. Step 5: Therefore, Sofia's aunt is Alexander's wife's sister. Step 6: Gabriella's husband's brother is married to Alexander's wife's sister, making Gabriella's husband and Alexander brothers-in-law through their respective marriages."
+    },
+    {
+      "question": "In a linear seating arrangement, seven people - M, N, O, P, Q, R, and S - are seated in a row. M sits at one of the ends. O sits next to P. Q sits next to R. If P is not at either end, who sits at the other end?",
+      "answer": "Step 1: Determine the possible positions for M, given that M sits at one end. Step 2: Analyze the constraint that O sits next to P and consider the possible positions for O and P. Step 3: Consider the constraint that Q sits next to R and evaluate the possible positions for Q and R. Step 4: Combine the constraints and deduce the seating arrangement. Step 5: Identify who sits at the other end based on the deduced arrangement."
+    },
+    {
+      "question": "A, B, C, D, E, F, G, H, I, J, K, L, and M are seated around a circular table. A sits second to the right of J. C sits third to the left of L. E sits second to the right of I. If K sits between G and H, who sits to the immediate left of E?",
+      "answer": "Step 1: Analyze the given constraints to determine the seating arrangement. Step 2: Identify the positions of A, J, and C based on the constraints. Step 3: Determine the position of E relative to I. Step 4: Consider the constraint that K sits between G and H. Step 5: Determine the immediate left neighbor of E based on the deduced arrangement."
+    },
+    {
+      "question": "Isabella is the daughter of Logan's brother. Logan's father has a son named Caleb who is older than Isabella. Caleb's wife has a sister who is married to Isabella's uncle. How is Logan related to Caleb's wife?",
+      "answer": "Step 1: Isabella is the daughter of Logan's brother, so Logan's brother is Isabella's father. Step 2: Logan's father has a son named Caleb, so Caleb is Logan's brother. Step 3: Caleb's wife has a sister who is married to Isabella's uncle. Isabella's uncle is the brother of Isabella's parent. Step 4: Since Isabella's father is Logan's brother, Isabella's mother is Logan's sister-in-law. Step 5: Therefore, Isabella's uncle is either Logan or another brother of Logan's. Step 6: Caleb's wife's sister is married to Logan, making Caleb's wife and Logan sisters-in-law through their respective marriages."
+    },
+    {
+      "question": "In a circular arrangement of 8 people around a conference table, A must sit next to both B and C, but B and C cannot sit next to each other. D must sit opposite A, and E must sit next to D. Given these constraints, who cannot sit together under any circumstances?",
+      "answer": "Step 1: First, let me visualize the circular arrangement and systematically analyze each constraint. The circular table creates specific geometric relationships where each person has exactly two neighbors. Step 2: A's requirement to sit next to both B and C, while B and C cannot be adjacent, creates an immediate geometric challenge that severely limits possible arrangements. Step 3: D must sit directly opposite A, which fixes D's position exactly across from A in the circle. Step 4: E must sit next to D, limiting E to exactly two possible positions adjacent to D. Step 5: Testing all possible arrangements reveals that certain pairs create irresolvable conflicts. Step 6: Through systematic elimination of invalid configurations, we determine which specific pair cannot coexist while satisfying all given constraints."
+    },
+    {
+      "question": "Sarah is the daughter of Michael's brother. Michael's father has a daughter named Anna who is older than Sarah. Anna's husband has a brother who is married to Sarah's aunt. How is Michael related to Anna's husband?",
+      "answer": "Step 1: Sarah is the daughter of Michael's brother, so Michael's brother is Sarah's father. Step 2: Michael's father has a daughter named Anna, so Anna is Michael's sister. Step 3: Anna's husband has a brother who is married to Sarah's aunt. Sarah's aunt is the sister of Sarah's mother. Step 4: Since Sarah's father is Michael's brother, Sarah's mother is Michael's sister-in-law. Step 5: Therefore, Sarah's aunt is Michael's wife's sister. Step 6: Anna's husband's brother is married to Michael's wife's sister, making Anna's husband and Michael brothers-in-law through their respective marriages."
+    },
+    {
+      "question": "Eight people - A, B, C, D, E, F, G, and H - are sitting around a circular table. Two of them are not facing the center but sit opposite each other. G is the second to the right of A and third to the right of C. B is second to the left of C and fourth to the right of D. E is second to the right of H and is facing the center. The person facing outwards is an immediate neighbor of G and A. D sits second to the right of C and is not an immediate neighbor of A. Who among the following sits second to the right of C?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each person. Step 2: G is the second to the right of A, and G is also the third to the right of C. Step 3: B is second to the left of C, and B is fourth to the right of D. Step 4: E is second to the right of H and faces the center. Step 5: The person facing outwards is an immediate neighbor of G and A. Step 6: D sits second to the right of C and is not an immediate neighbor of A. Step 7: By combining these constraints, we can determine the seating arrangement and identify who sits second to the right of C."
+    },
+    {
+      "question": "Five girls - Seema, Rani, Bindu, Mary, and Reeta - are sitting on a bench to be photographed. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani. Reeta is between Rani and Mary. Who is sitting immediate right to Reeta?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each girl. Step 2: Seema is to the left of Rani and to the right of Bindu, so the order is Bindu, Seema, Rani. Step 3: Mary is to the right of Rani. Step 4: Reeta is between Rani and Mary. Step 5: Therefore, the order is Bindu, Seema, Rani, Reeta, Mary. Step 6: Based on this order, we can determine who is sitting immediate right to Reeta."
+    },
+    {
+      "question": "Six friends - Deepa, Prakash, Pankaj, Priti, Mukesh, and Lalit - are sitting in a circle and are facing the center of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other. Who is sitting right to Prakash?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each friend. Step 2: Deepa is between Prakash and Pankaj. Step 3: Priti is between Mukesh and Lalit. Step 4: Prakash and Mukesh are opposite to each other. Step 5: Since Prakash and Mukesh are opposite, and Priti is between Mukesh and Lalit, Lalit must be to the right of Prakash."
+    },
+    {
+      "question": "A family consists of three generations: grandparents, parents, and children. The grandparents have two children, and each of their children has two children of their own. How many grandchildren do the grandparents have?",
+      "answer": "Step 1: Determine the number of children in each generation. Step 2: The grandparents have two children. Step 3: Each of their children has two children of their own, making a total of 2 * 2 = 4 grandchildren."
+    },
+    {
+      "question": "In a family, there are three siblings - John, Mary, and David. John is the oldest, and David is the youngest. Mary is married to Tom, and they have two children. John is married to Sarah, and they have one child. David is married to Emily, and they have three children. How many grandchildren do the parents of John, Mary, and David have?",
+      "answer": "Step 1: Determine the number of children for each sibling. Step 2: Mary has two children. Step 3: John has one child. Step 4: David has three children. Step 5: The total number of grandchildren is the sum of the children of each sibling: 2 + 1 + 3 = 6."
+    },
+    {
+      "question": "A, B, C, D, E, F, G, and H are sitting around a circular table. Two of them are not facing the center but sit opposite each other. G is the second to the right of A and third to the right of C. B is second to the left of C and fourth to the right of D. E is second to the right of H and is facing the center. The person facing outwards is an immediate neighbor of G and A. D sits second to the right of C and is not an immediate neighbor of A. Who among the following are not facing the center?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each person. Step 2: G is the second to the right of A, and G is also the third to the right of C. Step 3: B is second to the left of C, and B is fourth to the right of D. Step 4: E is second to the right of H and faces the center. Step 5: The person facing outwards is an immediate neighbor of G and A. Step 6: D sits second to the right of C and is not an immediate neighbor of A. Step 7: By combining these constraints, we can determine the seating arrangement and identify who is not facing the center."
+    },
+    {
+      "question": "Five girls - Seema, Rani, Bindu, Mary, and Reeta - are sitting on a bench to be photographed. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani. Reeta is between Rani and Mary. Who is second from the right?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each girl. Step 2: Seema is to the left of Rani and to the right of Bindu, so the order is Bindu, Seema, Rani. Step 3: Mary is to the right of Rani. Step 4: Reeta is between Rani and Mary. Step 5: Therefore, the order is Bindu, Seema, Rani, Reeta, Mary. Step 6: Based on this order, we can determine who is second from the right."
+    },
+    {
+      "question": "Six friends - Deepa, Prakash, Pankaj, Priti, Mukesh, and Lalit - are sitting in a circle and are facing the center of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other. Who is just right to Pankaj?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each friend. Step 2: Deepa is between Prakash and Pankaj. Step 3: Priti is between Mukesh and Lalit. Step 4: Prakash and Mukesh are opposite to each other. Step 5: Since Deepa is between Prakash and Pankaj, Deepa must be to the right of Pankaj."
+    },
+    {
+      "question": "A family consists of four generations: great-grandparents, grandparents, parents, and children. The great-grandparents have two children, and each of their children has two children of their own. The parents have two children. How many great-grandchildren do the great-grandparents have?",
+      "answer": "Step 1: Determine the number of children in each generation. Step 2: The great-grandparents have two children. Step 3: Each of their children has two children of their own, making a total of 2 * 2 = 4 grandchildren. Step 4: The parents have two children, making a total of 2 * 2 * 2 = 8 great-grandchildren."
+    },
+    {
+      "question": "In a family, there are three siblings - John, Mary, and David. John is the oldest, and David is the youngest. Mary is married to Tom, and they have two children. John is married to Sarah, and they have one child. David is married to Emily, and they have three children. How many great-grandchildren do the grandparents of John, Mary, and David have?",
+      "answer": "Step 1: Determine the number of children for each sibling. Step 2: Mary has two children. Step 3: John has one child. Step 4: David has three children. Step 5: The total number of grandchildren is the sum of the children of each sibling: 2 + 1 + 3 = 6. Step 6: Since there are no great-grandchildren mentioned, the answer is 0."
+    },
+    {
+      "question": "A, B, C, D, E, F, G, and H are sitting around a circular table. Two of them are not facing the center but sit opposite each other. G is the second to the right of A and third to the right of C. B is second to the left of C and fourth to the right of D. E is second to the right of H and is facing the center. The person facing outwards is an immediate neighbor of G and A. D sits second to the right of C and is not an immediate neighbor of A. Who among the following is third to the left of B?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each person. Step 2: G is the second to the right of A, and G is also the third to the right of C. Step 3: B is second to the left of C, and B is fourth to the right of D. Step 4: E is second to the right of H and faces the center. Step 5: The person facing outwards is an immediate neighbor of G and A. Step 6: D sits second to the right of C and is not an immediate neighbor of A. Step 7: By combining these constraints, we can determine the seating arrangement and identify who is third to the left of B."
+    },
+    {
+      "question": "Five girls - Seema, Rani, Bindu, Mary, and Reeta - are sitting on a bench to be photographed. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani. Reeta is between Rani and Mary. Who is sitting second from the left in the photograph?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each girl. Step 2: Seema is to the left of Rani and to the right of Bindu, so the order is Bindu, Seema, Rani. Step 3: Mary is to the right of Rani. Step 4: Reeta is between Rani and Mary. Step 5: Therefore, the order is Bindu, Seema, Rani, Reeta, Mary. Step 6: Based on this order, we can determine who is sitting second from the left."
+    },
+    {
+      "question": "Six friends - Deepa, Prakash, Pankaj, Priti, Mukesh, and Lalit - are sitting in a circle and are facing the center of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other. Who is sitting right to Prakash?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each friend. Step 2: Deepa is between Prakash and Pankaj. Step 3: Priti is between Mukesh and Lalit. Step 4: Prakash and Mukesh are opposite to each other. Step 5: Since Prakash and Mukesh are opposite, and Priti is between Mukesh and Lalit, Lalit must be to the right of Prakash."
+    },
+    {
+      "question": "A family consists of three generations: grandparents, parents, and children. The grandparents have two children, and each of their children has two children of their own. How many great-grandchildren do the grandparents have?",
+      "answer": "Step 1: Determine the number of children in each generation. Step 2: The grandparents have two children. Step 3: Each of their children has two children of their own, making a total of 2 * 2 = 4 grandchildren. Step 4: Since there are no great-grandchildren mentioned, the answer is 0."
+    },
+    {
+      "question": "In a family, there are three siblings - John, Mary, and David. John is the oldest, and David is the youngest. Mary is married to Tom, and they have two children. John is married to Sarah, and they have one child. David is married to Emily, and they have three children. How many great-grandchildren do the parents of John, Mary, and David have?",
+      "answer": "Step 1: Determine the number of children for each sibling. Step 2: Mary has two children. Step 3: John has one child. Step 4: David has three children. Step 5: The total number of grandchildren is the sum of the children of each sibling: 2 + 1 + 3 = 6. Step 6: Since there are no great-grandchildren mentioned, the answer is 0."
+    },
+    {
+      "question": "A, B, C, D, E, F, G, and H are sitting around a circular table. Two of them are not facing the center but sit opposite each other. G is the second to the right of A and third to the right of C. B is second to the left of C and fourth to the right of D. E is second to the right of H and is facing the center. The person facing outwards is an immediate neighbor of G and A. D sits second to the right of C and is not an immediate neighbor of A. Who among the following is second to the left of F?",
+      "answer": "Step 1: Analyze the given constraints to determine the positions of each person. Step 2: G is the second to the right of A, and G is also the third to the right of C. Step 3: B is second to the left of C, and B is fourth to the right of D. Step 4: E is second to the right of H and faces the center. Step 5: The person facing outwards is an immediate neighbor of G and A. Step 6: D sits second to the right of C and is not an immediate neighbor of A. Step 7: By combining these constraints, we can determine the seating arrangement and identify who is second to the left of F."
+    },
+    {
+      "question": "In a circular arrangement of 8 people, A sits next to B and C, but B and C cannot sit next to each other. D sits opposite A, and E sits next to D. Who cannot sit together under any circumstances?",
+      "answer": "Step 1: Visualize the circular arrangement and analyze each constraint. Step 2: A's requirement creates a geometric challenge. Step 3: D's position is fixed opposite A. Step 4: E's position is limited to two possible positions adjacent to D. Step 5: Testing arrangements reveals certain pairs create conflicts. Step 6: Through elimination, we determine which pair cannot coexist."
+    },
+    {
+      "question": "Sarah is the daughter of Michael's brother. Michael's father has a daughter named Anna who is older than Sarah. Anna's husband has a brother who is married to Sarah's aunt. How is Michael related to Anna's husband?",
+      "answer": "Step 1: Sarah's father is Michael's brother. Step 2: Anna is Michael's sister. Step 3: Anna's husband's brother is married to Sarah's aunt. Step 4: Sarah's aunt is Michael's wife's sister. Step 5: Anna's husband's brother is married to Michael's wife's sister, making Anna's husband and Michael brothers-in-law."
+    },
+    {
+      "question": "Six friends are sitting in a circle, facing the center. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite each other. Who are Mukesh's neighbors?",
+      "answer": "Step 1: Prakash and Mukesh are opposite each other. Step 2: Deepa is between Prakash and Pankaj. Step 3: Priti is between Mukesh and Lalit. Step 4: Since Prakash and Mukesh are opposite, Mukesh's neighbors must be Priti and Pankaj."
+    },
+    {
+      "question": "A, B, C, D, E, F, and G are sitting on a wall facing east. C is just right of D. B is on the endpoint, and E is his neighbor. G is sitting between E and F. D is third from the south end. Who is seated to the right of E?",
+      "answer": "Step 1: Analyze the given information. Step 2: G is sitting between E and F. Step 3: Since G is between E and F, G must be seated to the right of E."
+    },
+    {
+      "question": "A, B, C, D, E, F, and G are sitting on a wall facing east. C is just right of D. B is on the endpoint, and E is his neighbor. G is sitting between E and F. D is third from the south end. If C wants to sit third from the north, who must he exchange seats with?",
+      "answer": "Step 1: Analyze the given information. Step 2: C wants to sit third from the north. Step 3: Since C is currently to the right of D, he must exchange seats with the person who is currently third from the north. Step 4: Given the arrangement, C must exchange seats with F."
+    },
+    {
+      "question": "In a family, John is the son of Mary's brother. Mary's mother has a son named David who is older than John. David's wife has a sister who is married to John's aunt. How is John related to David's wife's sister?",
+      "answer": "Step 1: John's father is Mary's brother. Step 2: David is Mary's brother. Step 3: David's wife's sister is married to John's aunt. Step 4: John's aunt is Mary's sister. Step 5: David's wife's sister is married to Mary's sister, making John the nephew of David's wife's sister."
+    },
+    {
+      "question": "Five friends - A, B, C, D, and E - are sitting in a row. A sits next to B, and C sits next to D. E sits at one of the ends. If A and C cannot sit next to each other, who must sit at the other end?",
+      "answer": "Step 1: Analyze the given information. Step 2: A sits next to B, and C sits next to D. Step 3: E sits at one end. Step 4: If A and C cannot sit next to each other, then B and D must sit at the ends, with E already occupying one end. Step 5: Therefore, the other end must be occupied by either B or D."
+    },
+    {
+      "question": "In a family, Emily is the daughter of James's brother. James's father has a daughter named Sarah who is older than Emily. Sarah's husband has a brother who is married to Emily's aunt. How is James related to Sarah's husband's brother?",
+      "answer": "Step 1: Emily's father is James's brother. Step 2: Sarah is James's sister. Step 3: Sarah's husband's brother is married to Emily's aunt. Step 4: Emily's aunt is James's wife's sister. Step 5: Sarah's husband's brother is married to James's wife's sister, making James and Sarah's husband's brother brothers-in-law."
+    },
+    {
+      "question": "Seven friends - A, B, C, D, E, F, and G - are sitting in a circle. A sits next to B, and C sits next to D. E sits next to F, and G sits next to A. If B and D cannot sit next to each other, who must sit next to G?",
+      "answer": "Step 1: Analyze the given information. Step 2: A sits next to B, and C sits next to D. Step 3: E sits next to F, and G sits next to A. Step 4: If B and D cannot sit next to each other, then C must sit next to G, as the only other option would be for B or D to sit next to G, which would put B and D next to each other."
+    },
+    {
+      "question": "In a family, Michael is the son of Elizabeth's brother. Elizabeth's mother has a son named William who is older than Michael. William's wife has a sister who is married to Michael's aunt. How is Michael related to William's wife's sister?",
+      "answer": "Step 1: Michael's father is Elizabeth's brother. Step 2: William is Elizabeth's brother. Step 3: William's wife's sister is married to Michael's aunt. Step 4: Michael's aunt is Elizabeth's sister. Step 5: William's wife's sister is married to Elizabeth's sister, making Michael the nephew of William's wife's sister."
+    },
+    {
+      "question": "Eight friends - A, B, C, D, E, F, G, and H - are sitting in a row. A sits next to B, and C sits next to D. E sits next to F, and G sits next to H. If A and C cannot sit next to each other, who must sit at one of the ends?",
+      "answer": "Step 1: Analyze the given information. Step 2: A sits next to B, and C sits next to D. Step 3: E sits next to F, and G sits next to H. Step 4: If A and C cannot sit next to each other, then B and D must sit at the ends, as the only other option would be for A and C to sit at the ends, which would put them next to each other."
+    },
+    {
+      "question": "In a family, David is the son of Olivia's brother. Olivia's mother has a daughter named Ava who is older than David. Ava's husband has a brother who is married to David's aunt. How is David related to Ava's husband's brother?",
+      "answer": "Step 1: David's father is Olivia's brother. Step 2: Ava is Olivia's sister. Step 3: Ava's husband's brother is married to David's aunt. Step 4: David's aunt is Olivia's sister. Step 5: Ava's husband's brother is married to Olivia's sister, making David and Ava's husband's brother cousins."
+    },
+    {
+      "question": "Nine friends - A, B, C, D, E, F, G, H, and I - are sitting in a circle. A sits next to B, and C sits next to D. E sits next to F, and G sits next to H. I sits next to A. If B and D cannot sit next to each other, who must sit next to I?",
+      "answer": "Step 1: Analyze the given information. Step 2: A sits next to B, and C sits next to D. Step 3: E sits next to F, and G sits next to H. Step 4: I sits next to A. Step 5: If B and D cannot sit next to each other, then C must sit next to I, as the only other option would be for B or D to sit next to I, which would put B and D next to each other."
+    },
+    {
+      "question": "In a family, Emily is the daughter of James's brother. James's father has a daughter named Sarah who is older than Emily. Sarah's husband has a brother who is married to Emily's aunt. How is James related to Sarah's husband?",
+      "answer": "Step 1: Emily's father is James's brother. Step 2: Sarah is James's sister. Step 3: Sarah's husband has a brother who is married to Emily's aunt. Step 4: Emily's aunt is James's wife's sister. Step 5: Sarah's husband is James's brother-in-law."
+    },
+    {
+      "question": "Ten friends - A, B, C, D, E, F, G, H, I, and J - are sitting in a row. A sits next to B, and C sits next to D. E sits next to F, and G sits next to H. I sits next to J. If A and C cannot sit next to each other, who must sit at one of the ends?",
+      "answer": "Step 1: Analyze the given information. Step 2: A sits next to B, and C sits next to D. Step 3: E sits next to F, and G sits next to H. Step 4: I sits next to J. Step 5: If A and C cannot sit next to each other, then B and D must sit at the ends, as the only other option would be for A and C to sit at the ends, which would put them next to each other."
+    },
+    {
+      "question": "In a family, Michael is the son of Elizabeth's brother. Elizabeth's mother has a son named William who is older than Michael. William's wife has a sister who is married to Michael's aunt. How is Michael related to William's wife?",
+      "answer": "Step 1: Michael's father is Elizabeth's brother. Step 2: William is Elizabeth's brother. Step 3: William's wife has a sister who is married to Michael's aunt. Step 4: Michael's aunt is Elizabeth's sister. Step 5: William's wife is Michael's aunt."
+    },
+    {
+      "question": "Eleven friends - A, B, C, D, E, F, G, H, I, J, and K - are sitting in a circle. A sits next to B, and C sits next to D. E sits next to F, and G sits next to H. I sits next to J, and K sits next to A. If B and D cannot sit next to each other, who must sit next to K?",
+      "answer": "Step 1: Analyze the given information. Step 2: A sits next to B, and C sits next to D. Step 3: E sits next to F, and G sits next to H. Step 4: I sits next to J, and K sits next to A. Step 5: If B and D cannot sit next to each other, then C must sit next to K, as the only other option would be for B or D to sit next to K, which would put B and D next to each other."
+    },
+    {
+      "question": "In a family, David is the son of Olivia's brother. Olivia's mother has a daughter named Ava who is older than David. Ava's husband has a brother who is married to David's aunt. How is David related to Ava?",
+      "answer": "Step 1: David's father is Olivia's brother. Step 2: Ava is Olivia's sister. Step 3: David is the nephew of Ava."
+    },
+    {
+      "question": "Twelve friends - A, B, C, D, E, F, G, H, I, J, K, and L - are sitting in a row. A sits next to B, and C sits next to D. E sits next to F, and G sits next to H. I sits next to J, and K sits next to L. If A and C cannot sit next to each other, who must sit at one of the ends?",
+      "answer": "Step 1: Analyze the given information. Step 2: A sits next to B, and C sits next to D. Step 3: E sits next to F, and G sits next to H. Step 4: I sits next to J, and K sits next to L. Step 5: If A and C cannot sit next to each other, then B and D must sit at the ends, as the only other option would be for A and C to sit at the ends, which would put them next to each other."
+    },
+    {
+      "question": "In a family, Emily is the daughter of James's brother. James's father has a daughter named Sarah who is older than Emily. Sarah's husband has a brother who is married to Emily's aunt. How is James related to Emily's aunt?",
+      "answer": "Step 1: Emily's father is James's brother. Step 2: Emily's aunt is James's wife's sister. Step 3: James is the brother-in-law of Emily's aunt."
+    },
+    {
+      "question": "Thirteen friends - A, B, C, D, E, F, G, H, I, J, K, L, and M - are sitting in a circle. A sits next to B, and C sits next to D. E sits next to F, and G sits next to H. I sits next to J, and K sits next to L. M sits next to A. If B and D cannot sit next to each other, who must sit next to M?",
+      "answer": "Step 1: Analyze the given information. Step 2: A sits next to B, and C sits next to D. Step 3: E sits next to F, and G sits next to H. Step 4: I sits next to J, and K sits next to L. Step 5: M sits next to A. Step 6: If B and D cannot sit next to each other, then C must sit next to M, as the only other option would be for B or D to sit next to M, which would put B and D next to each other."
+    },
+    {
+      "question": "In a family, Michael is the son of Elizabeth's brother. Elizabeth's mother has a son named William who is older than Michael. William's wife has a sister who is married to Michael's aunt. How is Michael related to William?",
+      "answer": "Step 1: Michael's father is Elizabeth's brother. Step 2: William is Elizabeth's brother. Step 3: Michael is the nephew of William."
+    },
+    {
+      "question": "Fourteen friends - A, B, C, D, E, F, G, H, I, J, K, L, M, and N - are sitting in a row. A sits next to B, and C sits next to D. E sits next to F, and G sits next to H. I sits next to J, and K sits next to L. M sits next to N. If A and C cannot sit next to each other, who must sit at one of the ends?",
+      "answer": "Step 1: Analyze the given information. Step 2: A sits next to B, and C sits next to D. Step 3: E sits next to F, and G sits next to H. Step 4: I sits next to J, and K sits next to L. Step 5: M sits next to N. Step 6: If A and C cannot sit next to each other, then B and D must sit at the ends, as the only other option would be for A and C to sit at the ends, which would put them next to each other."
+    }
+  ]
+}
