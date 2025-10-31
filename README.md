@@ -22,7 +22,6 @@ Synthetic-Data-AI-Challenge-2025/
     ├── parsed/                  # Extracted and preprocessed text data
     ├── generated/               # Raw synthetically generated QA pairs
     ├── curated/                 # Quality-filtered and validated training data
-    └── README.ipynb             # Data processing workflow documentation
 ```
 
 ### 🏆 Key Achievements
