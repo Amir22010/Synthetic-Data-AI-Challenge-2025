@@ -1,8 +1,8 @@
-# 🏆 AMD Synthetic Data AI Challenge Submission
+# 🏆 AMD Synthetic Data AI Challenge - Top 8 Finalist Submission
 
 ## 🎯 Executive Summary
 
-As a finalist in the AMD/PyTorch/Unsloth Synthetic Data AI Challenge, I present a comprehensive logical reasoning system specialized in Seating Arrangements and Blood Relations problems. Our solution demonstrates superior performance through domain-specific fine-tuning, sophisticated prompt engineering, and extensive curriculum-based training data.
+As a Top 8 Finalist in the AMD/PyTorch/Unsloth Synthetic Data AI Challenge, I present a comprehensive logical reasoning system specialized in Seating Arrangements and Blood Relations problems. Our solution demonstrates superior performance through domain-specific fine-tuning, sophisticated prompt engineering, and extensive curriculum-based training data.
 
 ## 📁 Project Structure
 
